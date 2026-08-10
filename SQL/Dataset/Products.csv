@@ -1,0 +1,97 @@
+Product_ID,Product_Name,Category,Brand,Price,Stock_Status
+1,Milk 1,Dairy,NatureBest,619,In Stock
+2,Milk 2,Dairy,FreshMart,275,In Stock
+3,Milk 3,Dairy,UrbanFresh,317,In Stock
+4,Butter 1,Dairy,FreshMart,740,Low Stock
+5,Butter 2,Dairy,FreshMart,223,Low Stock
+6,Butter 3,Dairy,FreshMart,252,In Stock
+7,Cheese 1,Dairy,UrbanFresh,118,Low Stock
+8,Cheese 2,Dairy,DailyChoice,617,In Stock
+9,Cheese 3,Dairy,UrbanFresh,733,Low Stock
+10,Yogurt 1,Dairy,UrbanFresh,813,In Stock
+11,Yogurt 2,Dairy,FreshMart,552,Low Stock
+12,Yogurt 3,Dairy,FreshMart,140,Low Stock
+13,Bread 1,Bakery,DailyChoice,898,In Stock
+14,Bread 2,Bakery,NatureBest,659,Low Stock
+15,Bread 3,Bakery,NatureBest,70,Low Stock
+16,Cake 1,Bakery,UrbanFresh,542,In Stock
+17,Cake 2,Bakery,NatureBest,606,Low Stock
+18,Cake 3,Bakery,UrbanFresh,230,Low Stock
+19,Cookies 1,Bakery,FreshMart,830,Low Stock
+20,Cookies 2,Bakery,DailyChoice,770,In Stock
+21,Cookies 3,Bakery,FreshMart,314,In Stock
+22,Bun 1,Bakery,UrbanFresh,768,In Stock
+23,Bun 2,Bakery,UrbanFresh,364,Low Stock
+24,Bun 3,Bakery,FreshMart,133,In Stock
+25,Apple 1,Fruits,NatureBest,495,Low Stock
+26,Apple 2,Fruits,NatureBest,144,In Stock
+27,Apple 3,Fruits,FreshMart,231,Low Stock
+28,Banana 1,Fruits,UrbanFresh,610,Low Stock
+29,Banana 2,Fruits,FreshMart,66,In Stock
+30,Banana 3,Fruits,NatureBest,607,In Stock
+31,Mango 1,Fruits,NatureBest,434,In Stock
+32,Mango 2,Fruits,NatureBest,463,Low Stock
+33,Mango 3,Fruits,FreshMart,782,In Stock
+34,Orange 1,Fruits,DailyChoice,741,Low Stock
+35,Orange 2,Fruits,DailyChoice,182,Low Stock
+36,Orange 3,Fruits,NatureBest,314,Low Stock
+37,Tomato 1,Vegetables,DailyChoice,104,In Stock
+38,Tomato 2,Vegetables,UrbanFresh,322,Low Stock
+39,Tomato 3,Vegetables,NatureBest,535,In Stock
+40,Potato 1,Vegetables,NatureBest,297,In Stock
+41,Potato 2,Vegetables,UrbanFresh,648,In Stock
+42,Potato 3,Vegetables,UrbanFresh,149,In Stock
+43,Onion 1,Vegetables,NatureBest,46,Low Stock
+44,Onion 2,Vegetables,NatureBest,675,Low Stock
+45,Onion 3,Vegetables,NatureBest,490,Low Stock
+46,Carrot 1,Vegetables,UrbanFresh,875,In Stock
+47,Carrot 2,Vegetables,NatureBest,368,In Stock
+48,Carrot 3,Vegetables,UrbanFresh,361,In Stock
+49,Coffee 1,Beverages,UrbanFresh,366,Low Stock
+50,Coffee 2,Beverages,UrbanFresh,629,In Stock
+51,Coffee 3,Beverages,NatureBest,425,Low Stock
+52,Tea 1,Beverages,UrbanFresh,413,In Stock
+53,Tea 2,Beverages,DailyChoice,646,In Stock
+54,Tea 3,Beverages,FreshMart,784,Low Stock
+55,Juice 1,Beverages,DailyChoice,488,Low Stock
+56,Juice 2,Beverages,FreshMart,878,Low Stock
+57,Juice 3,Beverages,UrbanFresh,182,Low Stock
+58,Soft Drink 1,Beverages,DailyChoice,298,In Stock
+59,Soft Drink 2,Beverages,UrbanFresh,848,Low Stock
+60,Soft Drink 3,Beverages,FreshMart,499,Low Stock
+61,Chips 1,Snacks,UrbanFresh,587,Low Stock
+62,Chips 2,Snacks,FreshMart,849,Low Stock
+63,Chips 3,Snacks,FreshMart,151,In Stock
+64,Biscuits 1,Snacks,NatureBest,210,In Stock
+65,Biscuits 2,Snacks,UrbanFresh,810,Low Stock
+66,Biscuits 3,Snacks,UrbanFresh,148,In Stock
+67,Namkeen 1,Snacks,FreshMart,304,In Stock
+68,Namkeen 2,Snacks,DailyChoice,496,Low Stock
+69,Namkeen 3,Snacks,UrbanFresh,514,In Stock
+70,Popcorn 1,Snacks,NatureBest,65,Low Stock
+71,Popcorn 2,Snacks,FreshMart,342,Low Stock
+72,Popcorn 3,Snacks,FreshMart,158,In Stock
+73,Soap 1,Personal Care,NatureBest,359,Low Stock
+74,Soap 2,Personal Care,UrbanFresh,843,In Stock
+75,Soap 3,Personal Care,UrbanFresh,396,Low Stock
+76,Shampoo 1,Personal Care,FreshMart,488,Low Stock
+77,Shampoo 2,Personal Care,NatureBest,108,Low Stock
+78,Shampoo 3,Personal Care,FreshMart,869,In Stock
+79,Toothpaste 1,Personal Care,FreshMart,391,In Stock
+80,Toothpaste 2,Personal Care,DailyChoice,798,In Stock
+81,Toothpaste 3,Personal Care,DailyChoice,605,In Stock
+82,Face Wash 1,Personal Care,NatureBest,613,Low Stock
+83,Face Wash 2,Personal Care,UrbanFresh,277,Low Stock
+84,Face Wash 3,Personal Care,DailyChoice,230,Low Stock
+85,Detergent 1,Household,UrbanFresh,69,In Stock
+86,Detergent 2,Household,UrbanFresh,646,Low Stock
+87,Detergent 3,Household,UrbanFresh,44,In Stock
+88,Cleaner 1,Household,DailyChoice,325,In Stock
+89,Cleaner 2,Household,FreshMart,858,In Stock
+90,Cleaner 3,Household,NatureBest,373,In Stock
+91,Tissue 1,Household,UrbanFresh,156,Low Stock
+92,Tissue 2,Household,UrbanFresh,580,Low Stock
+93,Tissue 3,Household,UrbanFresh,665,Low Stock
+94,Mop 1,Household,FreshMart,396,Low Stock
+95,Mop 2,Household,UrbanFresh,672,In Stock
+96,Mop 3,Household,NatureBest,669,In Stock

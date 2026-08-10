@@ -1,0 +1,3001 @@
+Save_ID,Customer_ID,Product_ID,List_Name,Save_Date,Purchase_Status,Purchase_Date,Days_To_Purchase
+1,345,18,Family Needs,2026-08-20,Yes,2026-08-30,10
+2,356,19,Party Shopping,2026-10-09,Yes,2026-10-29,20
+3,96,63,Weekend Shopping,2026-11-10,No,,
+4,285,22,Grocery,2026-10-04,Yes,2026-10-10,6
+5,444,46,Office,2026-06-03,No,,
+6,418,50,Personal Care,2026-10-22,No,,
+7,210,88,Monthly Essentials,2026-10-04,Yes,2026-10-19,15
+8,290,4,Weekend Shopping,2026-07-27,Yes,2026-08-05,9
+9,400,59,Personal Care,2026-10-23,No,,
+10,282,66,Kitchen,2026-06-29,No,,
+11,397,70,Grocery,2026-09-02,No,,
+12,390,93,Party Shopping,2026-09-21,No,,
+13,53,95,Kitchen,2026-11-15,No,,
+14,448,5,Office,2026-09-24,Yes,2026-09-27,3
+15,108,95,Party Shopping,2026-10-29,No,,
+16,85,79,Office,2026-07-06,No,,
+17,413,8,Kitchen,2026-10-24,Yes,2026-11-02,9
+18,149,74,Monthly Essentials,2026-08-08,No,,
+19,70,53,Weekend Shopping,2026-06-16,No,,
+20,360,17,Personal Care,2026-08-03,Yes,2026-08-14,11
+21,73,74,Monthly Essentials,2026-11-09,Yes,2026-11-23,14
+22,325,12,Kitchen,2026-09-12,No,,
+23,356,48,Family Needs,2026-09-25,No,,
+24,298,1,Personal Care,2026-06-24,No,,
+25,326,86,Party Shopping,2026-11-26,Yes,2026-11-29,3
+26,423,28,Personal Care,2026-10-05,Yes,2026-10-15,10
+27,404,44,Grocery,2026-11-22,No,,
+28,51,81,Grocery,2026-09-26,Yes,2026-10-02,6
+29,491,55,Weekend Shopping,2026-07-22,No,,
+30,452,84,Kitchen,2026-08-17,Yes,2026-08-26,9
+31,43,48,Weekend Shopping,2026-11-18,No,,
+32,27,51,Monthly Essentials,2026-11-08,Yes,2026-11-16,8
+33,1,28,Grocery,2026-10-01,Yes,2026-10-20,19
+34,5,90,Party Shopping,2026-08-27,No,,
+35,356,17,Monthly Essentials,2026-10-01,Yes,2026-10-14,13
+36,161,48,Grocery,2026-08-16,Yes,2026-08-21,5
+37,313,84,Office,2026-07-13,No,,
+38,322,96,Personal Care,2026-07-09,No,,
+39,441,28,Weekend Shopping,2026-06-23,No,,
+40,386,16,Family Needs,2026-10-29,No,,
+41,494,55,Office,2026-08-20,No,,
+42,142,83,Kitchen,2026-06-22,Yes,2026-07-12,20
+43,106,67,Party Shopping,2026-11-03,No,,
+44,152,83,Office,2026-06-14,No,,
+45,254,50,Family Needs,2026-06-29,Yes,2026-07-19,20
+46,479,41,Weekend Shopping,2026-07-04,Yes,2026-07-23,19
+47,391,61,Office,2026-06-19,Yes,2026-06-22,3
+48,21,8,Party Shopping,2026-09-10,No,,
+49,217,90,Monthly Essentials,2026-09-11,Yes,2026-09-29,18
+50,159,11,Weekend Shopping,2026-10-09,No,,
+51,275,42,Monthly Essentials,2026-09-09,No,,
+52,159,90,Office,2026-09-20,No,,
+53,30,32,Monthly Essentials,2026-06-23,No,,
+54,233,79,Weekend Shopping,2026-11-03,Yes,2026-11-09,6
+55,360,2,Family Needs,2026-07-12,No,,
+56,268,67,Grocery,2026-08-06,Yes,2026-08-11,5
+57,172,55,Kitchen,2026-08-09,No,,
+58,365,74,Personal Care,2026-11-08,Yes,2026-11-23,15
+59,440,73,Office,2026-07-13,Yes,2026-07-22,9
+60,380,66,Personal Care,2026-06-01,Yes,2026-06-02,1
+61,187,50,Family Needs,2026-07-09,Yes,2026-07-11,2
+62,128,54,Grocery,2026-08-21,Yes,2026-08-24,3
+63,92,29,Party Shopping,2026-10-11,No,,
+64,36,60,Kitchen,2026-08-12,No,,
+65,168,12,Family Needs,2026-10-20,No,,
+66,103,38,Office,2026-10-23,No,,
+67,238,48,Office,2026-10-30,No,,
+68,376,70,Family Needs,2026-08-02,Yes,2026-08-16,14
+69,326,89,Grocery,2026-06-03,No,,
+70,389,85,Kitchen,2026-09-05,No,,
+71,54,27,Party Shopping,2026-10-14,No,,
+72,252,8,Monthly Essentials,2026-07-07,No,,
+73,23,30,Monthly Essentials,2026-10-12,Yes,2026-10-24,12
+74,259,18,Monthly Essentials,2026-11-11,No,,
+75,304,73,Weekend Shopping,2026-06-16,No,,
+76,122,38,Party Shopping,2026-08-06,No,,
+77,359,95,Office,2026-08-23,Yes,2026-09-01,9
+78,70,75,Family Needs,2026-06-28,Yes,2026-07-04,6
+79,209,16,Personal Care,2026-10-16,Yes,2026-10-23,7
+80,136,16,Family Needs,2026-06-24,Yes,2026-07-04,10
+81,76,12,Party Shopping,2026-08-03,No,,
+82,263,7,Personal Care,2026-11-21,Yes,2026-11-27,6
+83,285,96,Monthly Essentials,2026-10-19,Yes,2026-11-03,15
+84,7,8,Kitchen,2026-07-27,Yes,2026-08-09,13
+85,470,10,Office,2026-06-06,No,,
+86,463,83,Monthly Essentials,2026-09-22,No,,
+87,464,43,Party Shopping,2026-07-02,Yes,2026-07-17,15
+88,421,93,Party Shopping,2026-09-10,No,,
+89,350,55,Personal Care,2026-07-15,Yes,2026-07-21,6
+90,453,20,Office,2026-06-09,No,,
+91,332,38,Monthly Essentials,2026-10-06,Yes,2026-10-24,18
+92,144,50,Party Shopping,2026-07-06,Yes,2026-07-23,17
+93,401,92,Personal Care,2026-08-31,No,,
+94,177,73,Family Needs,2026-10-07,Yes,2026-10-16,9
+95,306,29,Kitchen,2026-06-08,No,,
+96,30,61,Monthly Essentials,2026-10-14,Yes,2026-11-02,19
+97,127,85,Family Needs,2026-08-01,Yes,2026-08-03,2
+98,479,23,Family Needs,2026-07-16,Yes,2026-07-27,11
+99,486,73,Weekend Shopping,2026-10-23,Yes,2026-10-30,7
+100,252,5,Personal Care,2026-06-24,Yes,2026-07-14,20
+101,1,43,Family Needs,2026-11-05,Yes,2026-11-10,5
+102,31,3,Weekend Shopping,2026-07-08,No,,
+103,397,15,Monthly Essentials,2026-10-13,No,,
+104,192,91,Family Needs,2026-11-17,Yes,2026-11-21,4
+105,70,21,Personal Care,2026-09-20,No,,
+106,333,41,Family Needs,2026-07-15,No,,
+107,115,86,Party Shopping,2026-10-29,No,,
+108,158,94,Grocery,2026-11-24,Yes,2026-11-30,6
+109,94,78,Office,2026-08-21,No,,
+110,328,73,Weekend Shopping,2026-06-27,No,,
+111,170,96,Family Needs,2026-06-20,Yes,2026-07-01,11
+112,229,2,Monthly Essentials,2026-08-07,Yes,2026-08-10,3
+113,369,1,Personal Care,2026-06-13,Yes,2026-06-27,14
+114,452,49,Monthly Essentials,2026-08-29,No,,
+115,425,62,Office,2026-10-26,No,,
+116,84,58,Grocery,2026-06-19,No,,
+117,151,3,Weekend Shopping,2026-08-21,Yes,2026-08-25,4
+118,455,49,Monthly Essentials,2026-07-12,No,,
+119,174,77,Grocery,2026-11-05,No,,
+120,221,84,Party Shopping,2026-07-13,No,,
+121,81,7,Kitchen,2026-06-26,Yes,2026-07-03,7
+122,153,31,Grocery,2026-06-25,Yes,2026-07-14,19
+123,185,1,Monthly Essentials,2026-09-18,Yes,2026-10-08,20
+124,14,27,Monthly Essentials,2026-07-14,No,,
+125,243,15,Personal Care,2026-08-18,No,,
+126,251,85,Family Needs,2026-08-07,Yes,2026-08-25,18
+127,454,49,Personal Care,2026-09-03,Yes,2026-09-05,2
+128,135,29,Weekend Shopping,2026-08-08,No,,
+129,386,90,Grocery,2026-11-18,Yes,2026-11-30,12
+130,431,50,Personal Care,2026-10-12,Yes,2026-10-30,18
+131,154,11,Grocery,2026-09-10,No,,
+132,258,74,Weekend Shopping,2026-10-11,No,,
+133,62,58,Weekend Shopping,2026-07-15,No,,
+134,498,28,Office,2026-07-20,Yes,2026-08-03,14
+135,422,81,Kitchen,2026-07-08,No,,
+136,164,94,Kitchen,2026-06-18,Yes,2026-07-06,18
+137,267,59,Party Shopping,2026-06-04,No,,
+138,58,54,Monthly Essentials,2026-07-09,Yes,2026-07-28,19
+139,403,37,Party Shopping,2026-10-16,No,,
+140,136,50,Personal Care,2026-11-15,No,,
+141,20,23,Party Shopping,2026-08-10,Yes,2026-08-30,20
+142,456,43,Grocery,2026-11-24,Yes,2026-12-10,16
+143,173,39,Weekend Shopping,2026-08-19,Yes,2026-09-04,16
+144,154,96,Family Needs,2026-09-22,No,,
+145,138,94,Monthly Essentials,2026-09-15,No,,
+146,97,57,Party Shopping,2026-07-25,No,,
+147,380,63,Grocery,2026-10-11,No,,
+148,264,21,Grocery,2026-06-17,Yes,2026-07-04,17
+149,89,25,Office,2026-07-22,No,,
+150,17,59,Office,2026-06-13,No,,
+151,141,48,Monthly Essentials,2026-09-27,No,,
+152,349,4,Personal Care,2026-08-01,Yes,2026-08-21,20
+153,301,71,Grocery,2026-08-29,Yes,2026-09-07,9
+154,198,7,Office,2026-07-12,No,,
+155,439,29,Grocery,2026-11-13,Yes,2026-11-20,7
+156,443,88,Weekend Shopping,2026-06-03,No,,
+157,332,23,Office,2026-11-01,No,,
+158,130,78,Kitchen,2026-08-18,No,,
+159,217,49,Office,2026-08-29,No,,
+160,239,39,Party Shopping,2026-11-21,No,,
+161,300,14,Family Needs,2026-06-02,No,,
+162,288,83,Kitchen,2026-10-31,No,,
+163,351,14,Kitchen,2026-10-02,Yes,2026-10-11,9
+164,336,92,Party Shopping,2026-11-14,Yes,2026-11-19,5
+165,339,41,Kitchen,2026-11-22,Yes,2026-11-23,1
+166,465,54,Office,2026-09-12,Yes,2026-09-14,2
+167,352,69,Family Needs,2026-11-11,No,,
+168,260,39,Weekend Shopping,2026-07-14,No,,
+169,151,13,Monthly Essentials,2026-09-29,Yes,2026-10-08,9
+170,114,46,Kitchen,2026-07-28,No,,
+171,216,43,Personal Care,2026-09-04,Yes,2026-09-14,10
+172,28,82,Monthly Essentials,2026-10-28,No,,
+173,242,25,Grocery,2026-10-07,Yes,2026-10-20,13
+174,446,20,Family Needs,2026-07-06,No,,
+175,210,73,Family Needs,2026-09-26,Yes,2026-10-02,6
+176,324,23,Grocery,2026-08-20,No,,
+177,232,36,Weekend Shopping,2026-07-24,No,,
+178,296,21,Monthly Essentials,2026-10-04,No,,
+179,67,79,Party Shopping,2026-09-20,No,,
+180,220,62,Grocery,2026-09-07,Yes,2026-09-25,18
+181,457,42,Family Needs,2026-10-14,Yes,2026-10-15,1
+182,160,17,Monthly Essentials,2026-06-27,Yes,2026-07-16,19
+183,422,6,Personal Care,2026-08-16,No,,
+184,373,67,Party Shopping,2026-10-31,No,,
+185,455,88,Weekend Shopping,2026-07-05,Yes,2026-07-21,16
+186,486,52,Weekend Shopping,2026-06-05,Yes,2026-06-10,5
+187,64,47,Party Shopping,2026-11-14,No,,
+188,449,82,Grocery,2026-08-05,No,,
+189,305,7,Party Shopping,2026-11-17,Yes,2026-11-18,1
+190,228,49,Personal Care,2026-07-02,No,,
+191,360,20,Grocery,2026-07-23,No,,
+192,155,54,Party Shopping,2026-11-17,Yes,2026-12-04,17
+193,426,14,Monthly Essentials,2026-10-09,No,,
+194,145,15,Office,2026-06-28,No,,
+195,399,34,Family Needs,2026-10-12,No,,
+196,361,53,Personal Care,2026-08-15,Yes,2026-09-02,18
+197,170,31,Weekend Shopping,2026-06-01,Yes,2026-06-04,3
+198,487,12,Personal Care,2026-10-09,Yes,2026-10-13,4
+199,152,34,Family Needs,2026-09-27,Yes,2026-10-03,6
+200,411,87,Monthly Essentials,2026-08-20,No,,
+201,49,6,Weekend Shopping,2026-06-03,No,,
+202,169,46,Kitchen,2026-09-21,No,,
+203,450,94,Party Shopping,2026-06-24,Yes,2026-07-05,11
+204,205,59,Personal Care,2026-08-09,No,,
+205,410,54,Weekend Shopping,2026-11-14,No,,
+206,58,17,Weekend Shopping,2026-11-26,No,,
+207,54,54,Personal Care,2026-10-30,No,,
+208,93,79,Grocery,2026-09-06,No,,
+209,442,88,Personal Care,2026-07-04,No,,
+210,58,53,Office,2026-09-21,Yes,2026-09-30,9
+211,490,86,Monthly Essentials,2026-08-26,No,,
+212,222,85,Party Shopping,2026-08-03,No,,
+213,77,72,Weekend Shopping,2026-11-04,Yes,2026-11-10,6
+214,39,63,Party Shopping,2026-08-22,Yes,2026-08-31,9
+215,207,31,Personal Care,2026-06-21,No,,
+216,46,64,Party Shopping,2026-09-23,Yes,2026-10-09,16
+217,212,5,Monthly Essentials,2026-10-21,No,,
+218,406,78,Office,2026-11-06,No,,
+219,336,86,Family Needs,2026-09-25,No,,
+220,423,7,Family Needs,2026-07-28,No,,
+221,287,80,Family Needs,2026-11-01,No,,
+222,367,58,Family Needs,2026-06-30,Yes,2026-07-08,8
+223,425,82,Family Needs,2026-08-14,No,,
+224,360,14,Personal Care,2026-06-12,No,,
+225,72,92,Monthly Essentials,2026-09-13,Yes,2026-10-03,20
+226,477,51,Office,2026-07-26,No,,
+227,367,44,Grocery,2026-06-28,No,,
+228,475,82,Personal Care,2026-11-20,No,,
+229,235,85,Weekend Shopping,2026-10-29,No,,
+230,494,64,Grocery,2026-06-02,No,,
+231,284,56,Weekend Shopping,2026-10-28,No,,
+232,355,75,Weekend Shopping,2026-07-15,No,,
+233,54,50,Family Needs,2026-11-16,No,,
+234,259,50,Office,2026-09-16,No,,
+235,141,51,Personal Care,2026-08-27,No,,
+236,413,18,Office,2026-07-06,Yes,2026-07-23,17
+237,103,27,Family Needs,2026-11-07,No,,
+238,472,87,Weekend Shopping,2026-07-04,No,,
+239,258,70,Monthly Essentials,2026-11-25,No,,
+240,390,46,Party Shopping,2026-10-22,No,,
+241,346,96,Grocery,2026-10-15,Yes,2026-10-29,14
+242,196,19,Office,2026-06-14,No,,
+243,137,21,Weekend Shopping,2026-08-13,No,,
+244,430,8,Office,2026-11-24,No,,
+245,386,70,Party Shopping,2026-06-09,Yes,2026-06-24,15
+246,122,66,Party Shopping,2026-11-26,Yes,2026-11-28,2
+247,490,88,Grocery,2026-08-20,No,,
+248,7,96,Office,2026-08-04,Yes,2026-08-19,15
+249,398,93,Weekend Shopping,2026-07-20,Yes,2026-07-26,6
+250,377,66,Weekend Shopping,2026-07-01,Yes,2026-07-15,14
+251,83,75,Weekend Shopping,2026-08-05,Yes,2026-08-20,15
+252,476,42,Family Needs,2026-10-31,Yes,2026-11-20,20
+253,38,91,Weekend Shopping,2026-08-21,No,,
+254,267,9,Family Needs,2026-10-08,Yes,2026-10-26,18
+255,114,28,Personal Care,2026-11-17,Yes,2026-11-29,12
+256,288,84,Office,2026-06-03,Yes,2026-06-15,12
+257,491,6,Party Shopping,2026-11-22,No,,
+258,469,15,Personal Care,2026-09-07,Yes,2026-09-17,10
+259,250,6,Office,2026-08-15,No,,
+260,165,66,Weekend Shopping,2026-06-22,No,,
+261,498,69,Party Shopping,2026-10-15,Yes,2026-10-18,3
+262,428,14,Party Shopping,2026-07-23,No,,
+263,332,10,Monthly Essentials,2026-11-23,Yes,2026-12-08,15
+264,38,7,Monthly Essentials,2026-07-16,No,,
+265,295,30,Family Needs,2026-08-06,Yes,2026-08-21,15
+266,9,50,Monthly Essentials,2026-11-20,Yes,2026-11-21,1
+267,184,65,Personal Care,2026-06-28,Yes,2026-07-08,10
+268,196,51,Party Shopping,2026-11-17,Yes,2026-11-23,6
+269,408,70,Weekend Shopping,2026-08-15,No,,
+270,153,87,Grocery,2026-11-13,Yes,2026-11-14,1
+271,3,74,Office,2026-10-31,Yes,2026-11-18,18
+272,384,95,Weekend Shopping,2026-08-28,Yes,2026-09-14,17
+273,114,79,Monthly Essentials,2026-08-04,Yes,2026-08-10,6
+274,149,86,Family Needs,2026-06-18,Yes,2026-06-25,7
+275,66,86,Family Needs,2026-11-15,Yes,2026-11-25,10
+276,249,58,Kitchen,2026-08-24,No,,
+277,356,75,Family Needs,2026-07-10,No,,
+278,414,41,Party Shopping,2026-09-18,Yes,2026-09-29,11
+279,142,47,Family Needs,2026-07-05,No,,
+280,450,62,Kitchen,2026-09-27,No,,
+281,250,71,Weekend Shopping,2026-06-28,Yes,2026-07-18,20
+282,457,69,Grocery,2026-07-21,Yes,2026-07-24,3
+283,417,75,Kitchen,2026-10-27,Yes,2026-11-15,19
+284,279,70,Weekend Shopping,2026-09-29,No,,
+285,188,51,Kitchen,2026-07-28,No,,
+286,69,60,Party Shopping,2026-10-07,No,,
+287,187,65,Weekend Shopping,2026-06-03,No,,
+288,388,66,Weekend Shopping,2026-07-06,No,,
+289,290,73,Weekend Shopping,2026-11-16,No,,
+290,377,94,Grocery,2026-10-02,No,,
+291,113,63,Office,2026-07-30,Yes,2026-08-11,12
+292,266,47,Personal Care,2026-09-08,No,,
+293,452,6,Family Needs,2026-06-11,No,,
+294,53,91,Kitchen,2026-10-12,No,,
+295,428,95,Weekend Shopping,2026-08-07,No,,
+296,193,84,Office,2026-09-05,Yes,2026-09-08,3
+297,265,52,Family Needs,2026-08-30,No,,
+298,250,62,Office,2026-11-02,Yes,2026-11-07,5
+299,40,66,Family Needs,2026-11-12,Yes,2026-11-17,5
+300,309,92,Party Shopping,2026-07-01,No,,
+301,416,43,Personal Care,2026-06-30,No,,
+302,246,27,Grocery,2026-10-30,Yes,2026-11-13,14
+303,66,74,Grocery,2026-10-30,Yes,2026-11-16,17
+304,86,34,Party Shopping,2026-07-17,No,,
+305,307,73,Personal Care,2026-11-11,Yes,2026-11-21,10
+306,311,61,Kitchen,2026-10-02,Yes,2026-10-16,14
+307,86,93,Party Shopping,2026-11-23,Yes,2026-12-08,15
+308,198,17,Monthly Essentials,2026-06-28,Yes,2026-07-15,17
+309,91,61,Monthly Essentials,2026-11-05,No,,
+310,48,62,Party Shopping,2026-11-16,Yes,2026-12-06,20
+311,190,6,Office,2026-11-26,No,,
+312,481,62,Weekend Shopping,2026-09-06,Yes,2026-09-25,19
+313,131,62,Monthly Essentials,2026-07-30,No,,
+314,146,77,Monthly Essentials,2026-10-18,Yes,2026-10-25,7
+315,267,1,Family Needs,2026-09-05,No,,
+316,210,47,Party Shopping,2026-06-28,Yes,2026-07-17,19
+317,290,47,Personal Care,2026-11-04,Yes,2026-11-17,13
+318,92,48,Kitchen,2026-10-22,No,,
+319,158,74,Party Shopping,2026-08-28,No,,
+320,377,18,Monthly Essentials,2026-11-16,Yes,2026-11-24,8
+321,110,66,Grocery,2026-09-11,No,,
+322,83,50,Party Shopping,2026-11-10,Yes,2026-11-13,3
+323,46,9,Party Shopping,2026-08-07,Yes,2026-08-10,3
+324,315,84,Personal Care,2026-10-12,Yes,2026-11-01,20
+325,225,2,Kitchen,2026-07-22,No,,
+326,100,5,Office,2026-11-01,No,,
+327,315,22,Monthly Essentials,2026-11-20,Yes,2026-11-28,8
+328,142,52,Party Shopping,2026-08-30,No,,
+329,301,26,Family Needs,2026-10-11,Yes,2026-10-14,3
+330,178,36,Office,2026-07-28,No,,
+331,233,52,Monthly Essentials,2026-10-26,Yes,2026-11-01,6
+332,258,38,Kitchen,2026-08-27,No,,
+333,449,69,Office,2026-10-26,Yes,2026-11-10,15
+334,388,44,Grocery,2026-09-26,No,,
+335,247,15,Party Shopping,2026-08-06,Yes,2026-08-14,8
+336,490,46,Kitchen,2026-10-11,No,,
+337,128,37,Personal Care,2026-06-24,Yes,2026-07-05,11
+338,161,46,Kitchen,2026-07-26,No,,
+339,94,96,Office,2026-11-22,No,,
+340,256,95,Office,2026-07-22,Yes,2026-07-30,8
+341,104,32,Personal Care,2026-11-06,Yes,2026-11-10,4
+342,315,1,Personal Care,2026-10-17,No,,
+343,191,80,Kitchen,2026-08-20,No,,
+344,252,24,Party Shopping,2026-10-09,Yes,2026-10-17,8
+345,245,70,Party Shopping,2026-06-09,No,,
+346,441,88,Monthly Essentials,2026-07-15,No,,
+347,358,67,Party Shopping,2026-09-26,Yes,2026-09-27,1
+348,298,13,Office,2026-08-23,Yes,2026-09-01,9
+349,138,61,Office,2026-11-04,Yes,2026-11-10,6
+350,215,90,Weekend Shopping,2026-09-04,Yes,2026-09-17,13
+351,293,17,Monthly Essentials,2026-10-26,No,,
+352,370,35,Party Shopping,2026-07-31,No,,
+353,101,19,Grocery,2026-07-09,No,,
+354,91,54,Kitchen,2026-10-06,Yes,2026-10-23,17
+355,129,72,Office,2026-10-24,Yes,2026-10-28,4
+356,417,33,Monthly Essentials,2026-09-30,No,,
+357,231,96,Grocery,2026-08-25,Yes,2026-09-06,12
+358,211,16,Office,2026-08-29,No,,
+359,296,74,Weekend Shopping,2026-11-14,No,,
+360,400,37,Monthly Essentials,2026-08-30,Yes,2026-09-16,17
+361,196,79,Weekend Shopping,2026-08-13,No,,
+362,445,22,Family Needs,2026-11-11,No,,
+363,216,81,Monthly Essentials,2026-11-04,No,,
+364,41,21,Party Shopping,2026-08-27,Yes,2026-09-07,11
+365,139,57,Personal Care,2026-09-01,No,,
+366,212,22,Weekend Shopping,2026-07-18,No,,
+367,373,31,Party Shopping,2026-11-17,Yes,2026-11-20,3
+368,53,13,Personal Care,2026-06-17,No,,
+369,281,7,Monthly Essentials,2026-06-07,No,,
+370,54,34,Office,2026-11-06,Yes,2026-11-19,13
+371,378,37,Weekend Shopping,2026-09-22,No,,
+372,270,22,Personal Care,2026-06-08,Yes,2026-06-20,12
+373,500,70,Weekend Shopping,2026-08-09,No,,
+374,497,90,Kitchen,2026-10-17,Yes,2026-11-06,20
+375,466,45,Monthly Essentials,2026-10-02,No,,
+376,227,40,Grocery,2026-09-02,Yes,2026-09-07,5
+377,268,18,Personal Care,2026-08-28,Yes,2026-09-15,18
+378,154,2,Office,2026-09-19,No,,
+379,408,1,Office,2026-10-19,Yes,2026-11-02,14
+380,84,92,Monthly Essentials,2026-11-13,Yes,2026-11-26,13
+381,217,81,Kitchen,2026-08-01,No,,
+382,146,84,Party Shopping,2026-10-15,No,,
+383,97,9,Kitchen,2026-07-17,Yes,2026-07-21,4
+384,359,80,Grocery,2026-10-04,Yes,2026-10-05,1
+385,96,14,Monthly Essentials,2026-08-12,Yes,2026-08-27,15
+386,78,2,Family Needs,2026-10-05,Yes,2026-10-19,14
+387,238,90,Party Shopping,2026-06-09,Yes,2026-06-14,5
+388,37,70,Monthly Essentials,2026-09-29,Yes,2026-10-08,9
+389,499,92,Office,2026-08-03,Yes,2026-08-18,15
+390,236,95,Office,2026-06-25,No,,
+391,243,50,Family Needs,2026-11-22,No,,
+392,82,81,Monthly Essentials,2026-06-11,No,,
+393,130,62,Monthly Essentials,2026-11-11,Yes,2026-11-23,12
+394,121,82,Party Shopping,2026-09-20,Yes,2026-09-26,6
+395,405,32,Personal Care,2026-06-03,No,,
+396,353,77,Personal Care,2026-07-10,Yes,2026-07-13,3
+397,47,88,Weekend Shopping,2026-11-06,Yes,2026-11-08,2
+398,360,69,Personal Care,2026-06-28,Yes,2026-07-06,8
+399,376,25,Family Needs,2026-06-06,No,,
+400,371,18,Personal Care,2026-08-04,No,,
+401,362,57,Family Needs,2026-10-22,Yes,2026-11-07,16
+402,166,94,Weekend Shopping,2026-09-28,Yes,2026-10-18,20
+403,231,38,Personal Care,2026-08-07,No,,
+404,1,82,Office,2026-10-08,Yes,2026-10-14,6
+405,165,93,Party Shopping,2026-06-17,No,,
+406,98,68,Weekend Shopping,2026-11-22,No,,
+407,314,37,Monthly Essentials,2026-08-22,Yes,2026-09-02,11
+408,23,17,Office,2026-07-16,No,,
+409,55,63,Kitchen,2026-07-20,Yes,2026-08-08,19
+410,26,47,Monthly Essentials,2026-07-27,No,,
+411,7,27,Monthly Essentials,2026-11-15,No,,
+412,240,82,Kitchen,2026-06-16,Yes,2026-06-30,14
+413,271,6,Monthly Essentials,2026-06-19,No,,
+414,484,28,Office,2026-10-11,Yes,2026-10-19,8
+415,270,85,Weekend Shopping,2026-08-03,No,,
+416,286,96,Party Shopping,2026-10-21,Yes,2026-10-25,4
+417,453,14,Party Shopping,2026-07-13,No,,
+418,259,44,Family Needs,2026-11-16,Yes,2026-12-06,20
+419,282,42,Office,2026-09-04,Yes,2026-09-18,14
+420,193,71,Grocery,2026-08-05,Yes,2026-08-20,15
+421,372,5,Weekend Shopping,2026-08-12,No,,
+422,456,39,Grocery,2026-06-02,Yes,2026-06-10,8
+423,396,89,Weekend Shopping,2026-08-10,No,,
+424,49,5,Office,2026-09-26,Yes,2026-10-01,5
+425,120,33,Family Needs,2026-08-16,Yes,2026-08-29,13
+426,406,62,Monthly Essentials,2026-07-15,No,,
+427,305,83,Grocery,2026-08-16,Yes,2026-09-04,19
+428,472,43,Party Shopping,2026-08-29,No,,
+429,214,16,Grocery,2026-07-29,No,,
+430,325,81,Weekend Shopping,2026-09-06,Yes,2026-09-23,17
+431,168,65,Monthly Essentials,2026-11-26,Yes,2026-11-28,2
+432,114,56,Weekend Shopping,2026-08-14,No,,
+433,68,44,Grocery,2026-06-22,No,,
+434,281,52,Weekend Shopping,2026-08-07,Yes,2026-08-24,17
+435,247,72,Office,2026-07-21,No,,
+436,288,79,Family Needs,2026-10-13,Yes,2026-10-16,3
+437,351,74,Family Needs,2026-06-23,Yes,2026-07-07,14
+438,98,42,Grocery,2026-08-28,No,,
+439,395,40,Personal Care,2026-07-14,No,,
+440,320,19,Weekend Shopping,2026-09-21,Yes,2026-09-29,8
+441,388,94,Kitchen,2026-06-22,Yes,2026-06-24,2
+442,8,44,Kitchen,2026-11-25,No,,
+443,231,61,Kitchen,2026-06-06,Yes,2026-06-24,18
+444,281,62,Weekend Shopping,2026-11-07,No,,
+445,356,90,Weekend Shopping,2026-11-19,Yes,2026-12-08,19
+446,31,37,Kitchen,2026-07-22,No,,
+447,28,60,Monthly Essentials,2026-11-15,No,,
+448,199,85,Family Needs,2026-08-09,No,,
+449,443,14,Monthly Essentials,2026-06-05,Yes,2026-06-18,13
+450,463,41,Monthly Essentials,2026-10-03,No,,
+451,96,26,Grocery,2026-10-07,No,,
+452,21,32,Grocery,2026-10-14,Yes,2026-10-30,16
+453,178,88,Grocery,2026-08-30,Yes,2026-09-09,10
+454,321,33,Grocery,2026-09-08,No,,
+455,484,72,Monthly Essentials,2026-08-11,Yes,2026-08-22,11
+456,374,49,Office,2026-10-12,No,,
+457,214,31,Weekend Shopping,2026-10-25,Yes,2026-11-04,10
+458,106,84,Office,2026-07-06,No,,
+459,442,18,Weekend Shopping,2026-08-19,No,,
+460,221,19,Weekend Shopping,2026-11-15,No,,
+461,163,9,Monthly Essentials,2026-10-21,No,,
+462,95,41,Family Needs,2026-07-08,No,,
+463,451,53,Monthly Essentials,2026-09-14,Yes,2026-09-23,9
+464,68,24,Kitchen,2026-06-07,No,,
+465,311,73,Family Needs,2026-11-04,Yes,2026-11-12,8
+466,41,89,Weekend Shopping,2026-10-01,Yes,2026-10-21,20
+467,437,50,Weekend Shopping,2026-10-04,No,,
+468,99,29,Office,2026-06-09,Yes,2026-06-10,1
+469,381,86,Monthly Essentials,2026-07-22,No,,
+470,91,57,Family Needs,2026-11-05,No,,
+471,444,59,Grocery,2026-08-03,No,,
+472,312,95,Party Shopping,2026-09-06,No,,
+473,314,96,Grocery,2026-10-25,No,,
+474,267,14,Grocery,2026-09-24,No,,
+475,450,32,Grocery,2026-10-11,No,,
+476,286,50,Grocery,2026-10-11,No,,
+477,98,38,Weekend Shopping,2026-09-21,Yes,2026-10-01,10
+478,217,38,Weekend Shopping,2026-11-04,No,,
+479,238,83,Weekend Shopping,2026-09-24,Yes,2026-10-11,17
+480,202,53,Weekend Shopping,2026-08-22,No,,
+481,233,76,Monthly Essentials,2026-07-22,No,,
+482,129,42,Weekend Shopping,2026-11-25,No,,
+483,368,94,Party Shopping,2026-07-02,Yes,2026-07-17,15
+484,373,66,Party Shopping,2026-11-04,No,,
+485,282,49,Family Needs,2026-06-12,No,,
+486,290,85,Party Shopping,2026-07-09,Yes,2026-07-14,5
+487,158,40,Office,2026-09-23,Yes,2026-09-29,6
+488,2,80,Personal Care,2026-08-04,Yes,2026-08-20,16
+489,122,28,Personal Care,2026-10-29,No,,
+490,210,57,Grocery,2026-06-21,No,,
+491,126,71,Office,2026-08-11,No,,
+492,26,24,Grocery,2026-07-08,Yes,2026-07-20,12
+493,342,74,Party Shopping,2026-11-02,Yes,2026-11-05,3
+494,92,21,Family Needs,2026-11-20,Yes,2026-12-10,20
+495,477,5,Family Needs,2026-06-24,No,,
+496,189,49,Monthly Essentials,2026-06-18,No,,
+497,150,61,Office,2026-07-05,Yes,2026-07-14,9
+498,357,27,Kitchen,2026-11-04,Yes,2026-11-23,19
+499,219,78,Personal Care,2026-08-21,Yes,2026-09-09,19
+500,267,94,Weekend Shopping,2026-11-09,No,,
+501,453,79,Office,2026-07-30,No,,
+502,1,16,Monthly Essentials,2026-06-07,No,,
+503,378,27,Party Shopping,2026-11-05,No,,
+504,24,43,Office,2026-08-29,No,,
+505,6,82,Kitchen,2026-07-22,No,,
+506,405,9,Monthly Essentials,2026-08-18,Yes,2026-09-05,18
+507,352,43,Office,2026-08-27,Yes,2026-09-15,19
+508,170,44,Personal Care,2026-11-20,No,,
+509,409,5,Personal Care,2026-11-13,Yes,2026-11-18,5
+510,402,53,Kitchen,2026-06-15,No,,
+511,290,93,Family Needs,2026-11-21,Yes,2026-12-09,18
+512,410,46,Kitchen,2026-06-17,No,,
+513,431,4,Weekend Shopping,2026-08-26,No,,
+514,293,78,Grocery,2026-09-08,Yes,2026-09-12,4
+515,140,53,Office,2026-06-23,No,,
+516,191,58,Family Needs,2026-08-17,Yes,2026-08-27,10
+517,402,5,Personal Care,2026-07-22,No,,
+518,260,4,Weekend Shopping,2026-10-02,No,,
+519,98,44,Kitchen,2026-10-02,No,,
+520,398,42,Monthly Essentials,2026-07-07,No,,
+521,421,67,Office,2026-11-21,No,,
+522,371,5,Kitchen,2026-09-26,Yes,2026-10-13,17
+523,478,6,Monthly Essentials,2026-11-23,No,,
+524,171,60,Office,2026-06-12,Yes,2026-06-22,10
+525,165,26,Monthly Essentials,2026-07-20,Yes,2026-08-07,18
+526,140,20,Family Needs,2026-07-11,Yes,2026-07-12,1
+527,282,41,Monthly Essentials,2026-08-09,Yes,2026-08-19,10
+528,160,79,Grocery,2026-08-26,No,,
+529,67,4,Grocery,2026-09-29,No,,
+530,55,50,Family Needs,2026-06-14,Yes,2026-06-27,13
+531,160,43,Monthly Essentials,2026-07-21,No,,
+532,499,60,Kitchen,2026-10-24,Yes,2026-11-08,15
+533,351,83,Office,2026-09-28,No,,
+534,74,79,Party Shopping,2026-08-06,No,,
+535,94,90,Grocery,2026-11-18,Yes,2026-11-29,11
+536,34,61,Family Needs,2026-06-29,Yes,2026-07-14,15
+537,310,74,Party Shopping,2026-07-03,No,,
+538,419,92,Party Shopping,2026-06-28,Yes,2026-07-01,3
+539,303,53,Weekend Shopping,2026-08-01,No,,
+540,499,62,Family Needs,2026-09-07,Yes,2026-09-14,7
+541,279,89,Personal Care,2026-07-31,Yes,2026-08-03,3
+542,167,72,Weekend Shopping,2026-06-25,No,,
+543,158,52,Party Shopping,2026-06-18,No,,
+544,168,64,Monthly Essentials,2026-11-13,No,,
+545,112,18,Grocery,2026-10-27,No,,
+546,388,19,Personal Care,2026-11-17,Yes,2026-12-05,18
+547,101,27,Kitchen,2026-11-22,No,,
+548,292,87,Party Shopping,2026-08-17,No,,
+549,368,45,Party Shopping,2026-06-23,No,,
+550,434,17,Family Needs,2026-08-15,Yes,2026-09-02,18
+551,57,37,Party Shopping,2026-06-08,Yes,2026-06-27,19
+552,208,49,Weekend Shopping,2026-09-20,No,,
+553,244,18,Family Needs,2026-07-19,No,,
+554,431,54,Monthly Essentials,2026-07-10,Yes,2026-07-15,5
+555,332,3,Personal Care,2026-07-07,No,,
+556,337,56,Weekend Shopping,2026-07-05,Yes,2026-07-19,14
+557,233,66,Personal Care,2026-09-17,No,,
+558,197,46,Office,2026-07-28,Yes,2026-08-17,20
+559,365,65,Grocery,2026-08-08,Yes,2026-08-26,18
+560,291,62,Weekend Shopping,2026-11-28,Yes,2026-12-17,19
+561,374,94,Kitchen,2026-10-13,No,,
+562,239,67,Monthly Essentials,2026-06-21,No,,
+563,126,61,Monthly Essentials,2026-11-09,No,,
+564,351,82,Kitchen,2026-10-17,No,,
+565,314,7,Grocery,2026-08-27,No,,
+566,241,59,Family Needs,2026-10-10,No,,
+567,216,46,Grocery,2026-08-15,Yes,2026-08-17,2
+568,323,61,Kitchen,2026-10-27,Yes,2026-10-29,2
+569,249,11,Kitchen,2026-07-03,No,,
+570,130,17,Weekend Shopping,2026-11-05,Yes,2026-11-14,9
+571,466,76,Family Needs,2026-07-09,No,,
+572,414,23,Office,2026-08-06,No,,
+573,249,24,Family Needs,2026-10-14,No,,
+574,44,19,Weekend Shopping,2026-10-31,No,,
+575,429,64,Office,2026-09-14,No,,
+576,339,57,Kitchen,2026-11-11,Yes,2026-11-30,19
+577,387,15,Personal Care,2026-06-14,Yes,2026-06-27,13
+578,383,69,Weekend Shopping,2026-07-30,Yes,2026-08-12,13
+579,272,56,Grocery,2026-06-04,Yes,2026-06-19,15
+580,50,69,Kitchen,2026-11-11,Yes,2026-11-25,14
+581,137,13,Party Shopping,2026-08-05,No,,
+582,237,87,Office,2026-08-01,No,,
+583,267,44,Weekend Shopping,2026-11-21,No,,
+584,161,71,Monthly Essentials,2026-06-03,No,,
+585,7,53,Personal Care,2026-06-26,No,,
+586,180,29,Grocery,2026-08-12,Yes,2026-08-14,2
+587,481,77,Office,2026-11-16,No,,
+588,487,77,Party Shopping,2026-11-11,Yes,2026-11-15,4
+589,337,83,Weekend Shopping,2026-10-23,No,,
+590,459,15,Personal Care,2026-11-26,Yes,2026-12-06,10
+591,473,36,Family Needs,2026-09-18,No,,
+592,132,21,Family Needs,2026-06-19,Yes,2026-06-21,2
+593,31,34,Party Shopping,2026-08-07,Yes,2026-08-10,3
+594,92,83,Monthly Essentials,2026-10-04,Yes,2026-10-22,18
+595,468,57,Personal Care,2026-08-06,Yes,2026-08-09,3
+596,10,64,Grocery,2026-07-09,No,,
+597,478,5,Grocery,2026-11-18,Yes,2026-11-23,5
+598,264,91,Party Shopping,2026-10-04,No,,
+599,433,94,Grocery,2026-06-18,No,,
+600,197,89,Kitchen,2026-10-02,Yes,2026-10-20,18
+601,206,8,Monthly Essentials,2026-11-09,No,,
+602,188,69,Weekend Shopping,2026-08-27,Yes,2026-09-11,15
+603,284,6,Kitchen,2026-09-07,No,,
+604,357,50,Family Needs,2026-06-28,No,,
+605,250,11,Office,2026-11-09,No,,
+606,72,5,Party Shopping,2026-07-20,Yes,2026-08-08,19
+607,33,70,Grocery,2026-11-12,Yes,2026-11-30,18
+608,174,8,Grocery,2026-08-26,No,,
+609,208,16,Personal Care,2026-07-25,No,,
+610,482,87,Grocery,2026-10-16,Yes,2026-11-04,19
+611,377,19,Personal Care,2026-10-04,No,,
+612,465,80,Grocery,2026-06-12,Yes,2026-06-17,5
+613,464,40,Weekend Shopping,2026-06-25,No,,
+614,428,76,Monthly Essentials,2026-06-17,No,,
+615,59,64,Office,2026-10-31,No,,
+616,33,26,Weekend Shopping,2026-09-18,Yes,2026-10-01,13
+617,165,28,Family Needs,2026-06-12,No,,
+618,33,16,Weekend Shopping,2026-08-10,Yes,2026-08-24,14
+619,225,32,Grocery,2026-10-27,Yes,2026-10-31,4
+620,451,63,Party Shopping,2026-06-21,Yes,2026-06-27,6
+621,356,61,Party Shopping,2026-11-25,Yes,2026-11-30,5
+622,123,23,Weekend Shopping,2026-11-04,No,,
+623,368,64,Kitchen,2026-11-04,No,,
+624,179,54,Office,2026-06-02,No,,
+625,61,68,Office,2026-06-25,No,,
+626,238,81,Weekend Shopping,2026-11-16,Yes,2026-11-18,2
+627,351,61,Kitchen,2026-10-06,Yes,2026-10-08,2
+628,108,56,Grocery,2026-08-04,Yes,2026-08-19,15
+629,474,69,Monthly Essentials,2026-07-16,Yes,2026-07-17,1
+630,459,31,Family Needs,2026-09-22,No,,
+631,215,26,Office,2026-11-21,No,,
+632,399,15,Party Shopping,2026-08-23,Yes,2026-08-31,8
+633,457,29,Personal Care,2026-06-19,No,,
+634,28,56,Party Shopping,2026-07-08,Yes,2026-07-28,20
+635,192,18,Family Needs,2026-09-26,No,,
+636,500,35,Weekend Shopping,2026-07-22,Yes,2026-07-24,2
+637,57,60,Weekend Shopping,2026-09-26,Yes,2026-10-07,11
+638,405,82,Office,2026-11-04,No,,
+639,45,53,Office,2026-10-12,No,,
+640,303,61,Family Needs,2026-09-27,Yes,2026-10-11,14
+641,223,75,Weekend Shopping,2026-07-27,No,,
+642,468,74,Grocery,2026-06-02,Yes,2026-06-04,2
+643,218,68,Monthly Essentials,2026-09-09,No,,
+644,232,64,Weekend Shopping,2026-08-01,Yes,2026-08-02,1
+645,184,38,Monthly Essentials,2026-08-01,No,,
+646,9,62,Personal Care,2026-11-19,Yes,2026-12-04,15
+647,396,18,Monthly Essentials,2026-11-28,Yes,2026-12-10,12
+648,198,89,Kitchen,2026-08-25,No,,
+649,219,35,Office,2026-11-26,No,,
+650,404,88,Family Needs,2026-06-21,No,,
+651,377,8,Family Needs,2026-10-10,No,,
+652,455,7,Family Needs,2026-06-29,Yes,2026-07-14,15
+653,90,83,Office,2026-10-22,No,,
+654,71,43,Personal Care,2026-08-01,No,,
+655,378,75,Kitchen,2026-11-27,Yes,2026-12-05,8
+656,258,88,Personal Care,2026-09-17,Yes,2026-09-20,3
+657,249,65,Personal Care,2026-10-13,No,,
+658,364,69,Kitchen,2026-11-21,No,,
+659,232,80,Monthly Essentials,2026-09-03,No,,
+660,97,59,Monthly Essentials,2026-06-23,Yes,2026-06-29,6
+661,85,36,Personal Care,2026-06-29,No,,
+662,78,27,Grocery,2026-10-12,No,,
+663,151,54,Weekend Shopping,2026-11-22,No,,
+664,243,45,Grocery,2026-09-16,No,,
+665,150,25,Family Needs,2026-06-17,Yes,2026-06-25,8
+666,336,83,Personal Care,2026-08-23,No,,
+667,235,39,Office,2026-10-24,Yes,2026-11-03,10
+668,248,48,Grocery,2026-08-13,No,,
+669,76,46,Weekend Shopping,2026-08-12,No,,
+670,317,21,Office,2026-10-16,Yes,2026-10-22,6
+671,60,6,Personal Care,2026-08-21,No,,
+672,134,48,Weekend Shopping,2026-07-18,Yes,2026-07-20,2
+673,191,58,Kitchen,2026-10-17,No,,
+674,63,4,Weekend Shopping,2026-09-12,No,,
+675,486,59,Personal Care,2026-08-21,Yes,2026-09-08,18
+676,459,38,Personal Care,2026-10-25,No,,
+677,174,89,Grocery,2026-06-29,No,,
+678,72,87,Personal Care,2026-10-20,Yes,2026-10-21,1
+679,183,12,Office,2026-08-23,Yes,2026-08-30,7
+680,12,11,Monthly Essentials,2026-10-16,No,,
+681,500,66,Party Shopping,2026-09-09,Yes,2026-09-20,11
+682,76,92,Family Needs,2026-09-18,Yes,2026-09-30,12
+683,180,40,Monthly Essentials,2026-09-23,No,,
+684,111,94,Party Shopping,2026-09-22,No,,
+685,412,57,Monthly Essentials,2026-08-13,Yes,2026-08-27,14
+686,74,27,Family Needs,2026-08-17,No,,
+687,34,76,Weekend Shopping,2026-09-05,Yes,2026-09-19,14
+688,285,60,Weekend Shopping,2026-10-24,No,,
+689,103,24,Kitchen,2026-09-06,Yes,2026-09-22,16
+690,253,72,Kitchen,2026-09-27,Yes,2026-09-28,1
+691,490,82,Kitchen,2026-11-10,No,,
+692,214,23,Office,2026-10-04,No,,
+693,15,16,Monthly Essentials,2026-08-10,No,,
+694,307,96,Party Shopping,2026-09-01,No,,
+695,445,34,Monthly Essentials,2026-11-08,No,,
+696,192,66,Weekend Shopping,2026-10-26,Yes,2026-11-04,9
+697,164,60,Family Needs,2026-11-25,Yes,2026-12-01,6
+698,215,82,Weekend Shopping,2026-08-31,Yes,2026-09-10,10
+699,392,13,Family Needs,2026-11-01,No,,
+700,447,41,Kitchen,2026-11-23,No,,
+701,351,90,Grocery,2026-11-24,Yes,2026-12-12,18
+702,71,67,Weekend Shopping,2026-08-12,Yes,2026-08-28,16
+703,53,28,Office,2026-07-10,No,,
+704,408,72,Monthly Essentials,2026-11-05,No,,
+705,214,59,Family Needs,2026-06-20,Yes,2026-06-25,5
+706,160,89,Kitchen,2026-09-01,Yes,2026-09-16,15
+707,15,96,Weekend Shopping,2026-07-01,Yes,2026-07-06,5
+708,108,17,Monthly Essentials,2026-06-21,No,,
+709,40,3,Grocery,2026-10-02,No,,
+710,101,14,Grocery,2026-06-09,No,,
+711,241,16,Monthly Essentials,2026-08-04,Yes,2026-08-14,10
+712,472,78,Office,2026-07-23,No,,
+713,95,86,Family Needs,2026-08-29,Yes,2026-09-03,5
+714,83,65,Grocery,2026-11-04,Yes,2026-11-23,19
+715,271,28,Weekend Shopping,2026-07-20,No,,
+716,462,69,Monthly Essentials,2026-06-02,No,,
+717,474,28,Personal Care,2026-10-08,No,,
+718,188,90,Party Shopping,2026-10-29,Yes,2026-11-02,4
+719,218,28,Personal Care,2026-10-10,Yes,2026-10-14,4
+720,57,67,Family Needs,2026-07-05,No,,
+721,361,37,Monthly Essentials,2026-10-21,No,,
+722,168,64,Office,2026-06-30,Yes,2026-07-15,15
+723,284,53,Party Shopping,2026-08-14,No,,
+724,97,9,Family Needs,2026-09-30,No,,
+725,92,2,Monthly Essentials,2026-11-20,No,,
+726,203,57,Monthly Essentials,2026-10-12,No,,
+727,62,19,Monthly Essentials,2026-09-10,Yes,2026-09-29,19
+728,187,26,Party Shopping,2026-08-26,Yes,2026-09-08,13
+729,372,64,Kitchen,2026-08-11,No,,
+730,388,83,Kitchen,2026-09-11,Yes,2026-10-01,20
+731,76,59,Weekend Shopping,2026-06-28,Yes,2026-07-14,16
+732,16,13,Personal Care,2026-06-14,No,,
+733,348,4,Monthly Essentials,2026-07-16,Yes,2026-07-27,11
+734,390,10,Personal Care,2026-11-17,No,,
+735,406,60,Family Needs,2026-07-22,Yes,2026-08-07,16
+736,415,70,Party Shopping,2026-10-18,Yes,2026-10-20,2
+737,231,41,Grocery,2026-09-05,No,,
+738,17,23,Kitchen,2026-10-21,No,,
+739,453,91,Weekend Shopping,2026-07-13,No,,
+740,160,92,Monthly Essentials,2026-09-08,No,,
+741,292,87,Personal Care,2026-10-04,No,,
+742,244,72,Party Shopping,2026-07-11,No,,
+743,135,64,Family Needs,2026-10-30,No,,
+744,393,37,Family Needs,2026-08-22,Yes,2026-09-10,19
+745,179,95,Party Shopping,2026-10-28,Yes,2026-11-08,11
+746,177,46,Kitchen,2026-09-14,Yes,2026-09-22,8
+747,304,11,Weekend Shopping,2026-11-24,Yes,2026-12-04,10
+748,11,69,Grocery,2026-08-23,Yes,2026-09-06,14
+749,357,61,Family Needs,2026-10-29,Yes,2026-11-09,11
+750,294,13,Family Needs,2026-10-04,Yes,2026-10-11,7
+751,86,79,Monthly Essentials,2026-08-16,Yes,2026-08-30,14
+752,431,69,Office,2026-07-25,Yes,2026-07-27,2
+753,320,96,Monthly Essentials,2026-06-24,No,,
+754,304,44,Office,2026-08-09,Yes,2026-08-26,17
+755,178,10,Kitchen,2026-11-14,No,,
+756,222,85,Personal Care,2026-10-17,Yes,2026-10-31,14
+757,344,71,Weekend Shopping,2026-07-17,No,,
+758,296,64,Personal Care,2026-07-25,No,,
+759,138,82,Party Shopping,2026-10-15,No,,
+760,479,73,Weekend Shopping,2026-11-08,Yes,2026-11-15,7
+761,124,20,Party Shopping,2026-11-23,No,,
+762,211,41,Party Shopping,2026-06-17,No,,
+763,137,37,Office,2026-11-13,Yes,2026-12-03,20
+764,59,20,Party Shopping,2026-07-20,Yes,2026-07-30,10
+765,217,83,Kitchen,2026-06-10,Yes,2026-06-19,9
+766,405,36,Grocery,2026-11-16,No,,
+767,494,93,Grocery,2026-10-03,No,,
+768,441,11,Monthly Essentials,2026-08-20,No,,
+769,462,53,Monthly Essentials,2026-09-02,No,,
+770,204,93,Personal Care,2026-07-06,Yes,2026-07-25,19
+771,453,12,Family Needs,2026-07-31,No,,
+772,169,75,Office,2026-09-08,No,,
+773,479,55,Personal Care,2026-07-26,Yes,2026-08-01,6
+774,210,33,Family Needs,2026-10-29,Yes,2026-11-16,18
+775,280,55,Kitchen,2026-09-30,No,,
+776,451,19,Family Needs,2026-09-01,No,,
+777,421,40,Grocery,2026-06-06,No,,
+778,431,95,Grocery,2026-11-17,No,,
+779,354,86,Monthly Essentials,2026-08-01,Yes,2026-08-14,13
+780,274,31,Monthly Essentials,2026-09-22,Yes,2026-10-05,13
+781,480,31,Party Shopping,2026-08-16,Yes,2026-08-22,6
+782,405,5,Personal Care,2026-08-10,No,,
+783,242,95,Family Needs,2026-09-14,No,,
+784,368,55,Kitchen,2026-06-26,No,,
+785,260,9,Family Needs,2026-08-30,No,,
+786,233,89,Weekend Shopping,2026-06-08,No,,
+787,323,57,Family Needs,2026-11-12,Yes,2026-11-25,13
+788,295,11,Family Needs,2026-06-29,Yes,2026-07-16,17
+789,232,62,Office,2026-07-05,Yes,2026-07-24,19
+790,44,54,Grocery,2026-09-03,Yes,2026-09-16,13
+791,473,72,Office,2026-11-13,No,,
+792,465,12,Party Shopping,2026-09-27,Yes,2026-10-03,6
+793,308,34,Grocery,2026-07-09,Yes,2026-07-21,12
+794,368,68,Personal Care,2026-09-20,No,,
+795,424,87,Kitchen,2026-10-05,Yes,2026-10-12,7
+796,383,64,Office,2026-09-06,Yes,2026-09-13,7
+797,215,24,Grocery,2026-09-13,No,,
+798,149,34,Office,2026-07-31,No,,
+799,190,75,Monthly Essentials,2026-11-23,No,,
+800,6,61,Party Shopping,2026-07-05,No,,
+801,352,28,Kitchen,2026-09-07,No,,
+802,38,13,Family Needs,2026-10-21,Yes,2026-11-01,11
+803,311,86,Grocery,2026-11-01,No,,
+804,3,33,Kitchen,2026-10-08,No,,
+805,203,86,Kitchen,2026-09-03,Yes,2026-09-21,18
+806,87,65,Personal Care,2026-10-05,No,,
+807,68,12,Party Shopping,2026-08-21,No,,
+808,73,34,Family Needs,2026-06-30,Yes,2026-07-05,5
+809,475,56,Kitchen,2026-08-12,No,,
+810,314,34,Weekend Shopping,2026-10-11,Yes,2026-10-17,6
+811,285,85,Grocery,2026-11-10,No,,
+812,97,20,Weekend Shopping,2026-06-14,Yes,2026-06-16,2
+813,362,60,Family Needs,2026-09-20,Yes,2026-10-06,16
+814,364,72,Monthly Essentials,2026-10-03,No,,
+815,434,93,Weekend Shopping,2026-07-08,Yes,2026-07-11,3
+816,428,22,Office,2026-10-09,No,,
+817,299,1,Weekend Shopping,2026-10-13,No,,
+818,214,10,Monthly Essentials,2026-08-03,No,,
+819,455,43,Monthly Essentials,2026-06-07,Yes,2026-06-11,4
+820,429,42,Kitchen,2026-07-10,Yes,2026-07-25,15
+821,305,85,Weekend Shopping,2026-06-02,Yes,2026-06-04,2
+822,109,7,Monthly Essentials,2026-11-12,Yes,2026-11-14,2
+823,205,33,Office,2026-07-16,Yes,2026-07-29,13
+824,84,50,Personal Care,2026-09-12,Yes,2026-09-17,5
+825,411,56,Weekend Shopping,2026-08-19,No,,
+826,184,86,Office,2026-06-25,No,,
+827,251,58,Party Shopping,2026-09-08,No,,
+828,47,55,Party Shopping,2026-09-03,No,,
+829,323,55,Weekend Shopping,2026-06-24,Yes,2026-07-05,11
+830,477,64,Monthly Essentials,2026-10-13,No,,
+831,149,60,Weekend Shopping,2026-09-20,Yes,2026-10-06,16
+832,351,39,Kitchen,2026-08-03,No,,
+833,292,7,Party Shopping,2026-10-20,Yes,2026-10-22,2
+834,49,60,Kitchen,2026-11-17,No,,
+835,182,33,Personal Care,2026-10-28,Yes,2026-11-14,17
+836,92,24,Personal Care,2026-09-09,Yes,2026-09-23,14
+837,388,86,Kitchen,2026-09-24,No,,
+838,175,24,Party Shopping,2026-07-25,Yes,2026-08-14,20
+839,274,3,Personal Care,2026-06-02,Yes,2026-06-03,1
+840,355,52,Personal Care,2026-11-16,No,,
+841,156,80,Weekend Shopping,2026-11-05,Yes,2026-11-18,13
+842,70,2,Office,2026-07-19,Yes,2026-07-20,1
+843,247,84,Party Shopping,2026-07-08,No,,
+844,432,81,Personal Care,2026-10-16,Yes,2026-10-26,10
+845,217,3,Personal Care,2026-06-30,Yes,2026-07-05,5
+846,11,58,Family Needs,2026-10-28,Yes,2026-11-07,10
+847,5,14,Party Shopping,2026-11-09,No,,
+848,213,64,Kitchen,2026-10-27,No,,
+849,19,63,Personal Care,2026-09-11,No,,
+850,119,92,Party Shopping,2026-06-16,No,,
+851,296,41,Personal Care,2026-10-20,Yes,2026-11-03,14
+852,319,83,Party Shopping,2026-08-28,No,,
+853,11,21,Personal Care,2026-08-13,No,,
+854,177,57,Family Needs,2026-07-30,No,,
+855,472,78,Kitchen,2026-11-16,No,,
+856,371,92,Family Needs,2026-09-08,No,,
+857,408,61,Kitchen,2026-07-12,No,,
+858,354,96,Weekend Shopping,2026-06-23,No,,
+859,89,26,Monthly Essentials,2026-07-11,No,,
+860,407,54,Family Needs,2026-10-05,Yes,2026-10-12,7
+861,452,34,Weekend Shopping,2026-08-31,No,,
+862,424,65,Family Needs,2026-06-09,No,,
+863,221,15,Kitchen,2026-11-06,Yes,2026-11-24,18
+864,175,46,Kitchen,2026-06-12,No,,
+865,459,20,Monthly Essentials,2026-11-24,No,,
+866,362,7,Monthly Essentials,2026-09-21,No,,
+867,500,14,Monthly Essentials,2026-11-04,No,,
+868,422,72,Weekend Shopping,2026-06-11,No,,
+869,323,16,Weekend Shopping,2026-07-23,No,,
+870,373,38,Personal Care,2026-09-22,No,,
+871,376,13,Family Needs,2026-07-10,No,,
+872,420,18,Personal Care,2026-07-02,No,,
+873,497,54,Weekend Shopping,2026-06-02,Yes,2026-06-18,16
+874,44,35,Party Shopping,2026-09-04,No,,
+875,185,81,Weekend Shopping,2026-11-18,Yes,2026-12-05,17
+876,411,55,Personal Care,2026-09-14,No,,
+877,488,67,Grocery,2026-11-22,Yes,2026-11-23,1
+878,368,67,Party Shopping,2026-06-18,Yes,2026-06-29,11
+879,32,51,Weekend Shopping,2026-06-10,No,,
+880,463,74,Kitchen,2026-06-15,No,,
+881,215,52,Kitchen,2026-11-22,No,,
+882,370,96,Grocery,2026-08-20,No,,
+883,424,36,Weekend Shopping,2026-10-14,No,,
+884,359,52,Personal Care,2026-09-23,No,,
+885,358,45,Grocery,2026-11-14,Yes,2026-11-21,7
+886,276,43,Weekend Shopping,2026-09-08,No,,
+887,267,70,Weekend Shopping,2026-08-12,Yes,2026-08-29,17
+888,12,4,Office,2026-10-17,No,,
+889,427,39,Monthly Essentials,2026-09-17,No,,
+890,375,8,Grocery,2026-09-04,Yes,2026-09-21,17
+891,388,84,Grocery,2026-07-02,No,,
+892,233,44,Office,2026-07-31,No,,
+893,180,39,Weekend Shopping,2026-08-12,No,,
+894,366,49,Monthly Essentials,2026-10-12,No,,
+895,168,67,Weekend Shopping,2026-10-28,Yes,2026-11-09,12
+896,365,55,Personal Care,2026-09-14,Yes,2026-09-16,2
+897,110,58,Kitchen,2026-06-20,Yes,2026-07-07,17
+898,300,64,Personal Care,2026-11-10,No,,
+899,353,63,Weekend Shopping,2026-09-15,No,,
+900,259,17,Weekend Shopping,2026-10-03,No,,
+901,496,91,Monthly Essentials,2026-10-10,No,,
+902,356,28,Weekend Shopping,2026-09-25,No,,
+903,484,72,Monthly Essentials,2026-09-03,No,,
+904,309,53,Weekend Shopping,2026-06-29,Yes,2026-07-18,19
+905,61,48,Kitchen,2026-08-18,No,,
+906,151,63,Weekend Shopping,2026-06-08,No,,
+907,402,76,Weekend Shopping,2026-09-16,Yes,2026-09-26,10
+908,420,95,Grocery,2026-10-04,Yes,2026-10-22,18
+909,214,62,Personal Care,2026-10-25,Yes,2026-11-09,15
+910,428,93,Personal Care,2026-11-03,Yes,2026-11-08,5
+911,77,94,Office,2026-08-23,Yes,2026-09-12,20
+912,461,51,Personal Care,2026-08-26,No,,
+913,377,36,Monthly Essentials,2026-11-13,Yes,2026-11-19,6
+914,330,72,Personal Care,2026-06-22,Yes,2026-07-12,20
+915,258,3,Weekend Shopping,2026-07-01,No,,
+916,493,3,Office,2026-08-10,No,,
+917,425,91,Family Needs,2026-10-27,No,,
+918,206,76,Grocery,2026-06-12,No,,
+919,175,56,Kitchen,2026-07-17,Yes,2026-08-03,17
+920,47,15,Kitchen,2026-06-26,No,,
+921,74,24,Weekend Shopping,2026-08-05,No,,
+922,158,53,Grocery,2026-11-21,Yes,2026-12-11,20
+923,366,8,Family Needs,2026-08-16,Yes,2026-08-27,11
+924,133,49,Party Shopping,2026-07-01,Yes,2026-07-09,8
+925,487,15,Personal Care,2026-08-08,Yes,2026-08-23,15
+926,15,53,Office,2026-11-10,Yes,2026-11-11,1
+927,391,72,Kitchen,2026-11-14,No,,
+928,291,53,Family Needs,2026-09-23,Yes,2026-10-10,17
+929,277,22,Party Shopping,2026-08-02,No,,
+930,493,72,Grocery,2026-09-24,Yes,2026-10-09,15
+931,31,62,Party Shopping,2026-08-09,No,,
+932,180,81,Kitchen,2026-07-25,No,,
+933,24,21,Kitchen,2026-10-15,No,,
+934,46,51,Office,2026-11-26,Yes,2026-12-01,5
+935,313,65,Family Needs,2026-08-21,No,,
+936,326,34,Personal Care,2026-09-24,Yes,2026-10-05,11
+937,492,77,Grocery,2026-08-24,Yes,2026-08-29,5
+938,462,2,Monthly Essentials,2026-11-20,Yes,2026-12-08,18
+939,404,84,Family Needs,2026-11-14,Yes,2026-11-15,1
+940,498,49,Personal Care,2026-11-01,Yes,2026-11-07,6
+941,190,25,Office,2026-09-22,Yes,2026-09-23,1
+942,47,79,Family Needs,2026-11-08,Yes,2026-11-16,8
+943,19,36,Office,2026-10-05,No,,
+944,4,26,Office,2026-11-11,Yes,2026-11-20,9
+945,338,95,Weekend Shopping,2026-10-23,No,,
+946,34,76,Weekend Shopping,2026-07-03,No,,
+947,133,73,Kitchen,2026-07-29,No,,
+948,99,87,Kitchen,2026-06-06,No,,
+949,349,72,Party Shopping,2026-09-25,Yes,2026-10-09,14
+950,433,53,Family Needs,2026-08-10,Yes,2026-08-27,17
+951,265,6,Grocery,2026-07-28,Yes,2026-08-11,14
+952,201,25,Party Shopping,2026-08-25,Yes,2026-09-13,19
+953,491,10,Monthly Essentials,2026-08-03,Yes,2026-08-14,11
+954,15,62,Family Needs,2026-09-19,No,,
+955,431,33,Family Needs,2026-08-03,Yes,2026-08-11,8
+956,267,31,Personal Care,2026-06-19,No,,
+957,392,13,Monthly Essentials,2026-11-08,No,,
+958,44,8,Personal Care,2026-06-09,Yes,2026-06-12,3
+959,29,39,Monthly Essentials,2026-11-04,No,,
+960,53,87,Kitchen,2026-06-15,No,,
+961,436,49,Personal Care,2026-09-11,Yes,2026-09-25,14
+962,197,60,Monthly Essentials,2026-09-18,No,,
+963,174,84,Personal Care,2026-11-20,No,,
+964,265,43,Office,2026-10-29,Yes,2026-11-02,4
+965,464,74,Kitchen,2026-07-03,No,,
+966,182,54,Personal Care,2026-10-02,No,,
+967,96,32,Grocery,2026-07-06,No,,
+968,66,40,Family Needs,2026-10-28,No,,
+969,160,75,Weekend Shopping,2026-10-17,No,,
+970,241,40,Grocery,2026-11-02,Yes,2026-11-14,12
+971,122,65,Party Shopping,2026-10-22,No,,
+972,177,26,Office,2026-07-22,No,,
+973,403,9,Family Needs,2026-08-27,Yes,2026-09-12,16
+974,316,39,Personal Care,2026-09-16,Yes,2026-09-20,4
+975,113,1,Office,2026-11-11,Yes,2026-11-19,8
+976,247,95,Party Shopping,2026-08-24,No,,
+977,106,52,Grocery,2026-07-18,No,,
+978,186,2,Kitchen,2026-06-19,Yes,2026-07-07,18
+979,226,25,Family Needs,2026-11-09,No,,
+980,23,4,Weekend Shopping,2026-07-21,Yes,2026-07-27,6
+981,174,71,Monthly Essentials,2026-08-02,Yes,2026-08-03,1
+982,11,87,Kitchen,2026-07-06,Yes,2026-07-10,4
+983,234,31,Weekend Shopping,2026-09-03,No,,
+984,482,68,Monthly Essentials,2026-11-07,No,,
+985,61,19,Office,2026-07-04,No,,
+986,273,49,Grocery,2026-11-25,Yes,2026-12-15,20
+987,391,79,Family Needs,2026-10-29,Yes,2026-11-16,18
+988,127,7,Weekend Shopping,2026-11-09,No,,
+989,436,66,Office,2026-10-28,No,,
+990,373,11,Monthly Essentials,2026-09-29,No,,
+991,86,66,Family Needs,2026-09-08,No,,
+992,256,67,Personal Care,2026-09-27,Yes,2026-10-09,12
+993,138,75,Grocery,2026-09-11,No,,
+994,107,29,Office,2026-07-22,No,,
+995,203,28,Party Shopping,2026-08-18,No,,
+996,293,21,Kitchen,2026-09-04,Yes,2026-09-07,3
+997,228,67,Party Shopping,2026-08-30,Yes,2026-09-01,2
+998,231,60,Party Shopping,2026-09-19,Yes,2026-10-05,16
+999,13,23,Kitchen,2026-09-22,Yes,2026-09-25,3
+1000,432,65,Monthly Essentials,2026-10-10,No,,
+1001,403,36,Office,2026-07-29,Yes,2026-08-01,3
+1002,171,26,Weekend Shopping,2026-11-20,Yes,2026-11-30,10
+1003,438,92,Grocery,2026-10-18,No,,
+1004,395,39,Party Shopping,2026-08-12,No,,
+1005,485,52,Grocery,2026-10-27,No,,
+1006,242,84,Weekend Shopping,2026-10-10,No,,
+1007,444,51,Personal Care,2026-07-29,Yes,2026-08-05,7
+1008,370,60,Family Needs,2026-08-27,No,,
+1009,434,25,Party Shopping,2026-09-18,No,,
+1010,108,57,Grocery,2026-09-24,No,,
+1011,192,18,Kitchen,2026-10-26,No,,
+1012,483,95,Family Needs,2026-06-03,No,,
+1013,174,29,Party Shopping,2026-09-16,No,,
+1014,391,89,Weekend Shopping,2026-10-16,Yes,2026-11-04,19
+1015,79,43,Party Shopping,2026-10-24,No,,
+1016,196,27,Monthly Essentials,2026-09-09,Yes,2026-09-22,13
+1017,169,73,Kitchen,2026-09-24,No,,
+1018,48,22,Weekend Shopping,2026-06-27,No,,
+1019,17,89,Weekend Shopping,2026-11-02,No,,
+1020,102,9,Personal Care,2026-09-07,Yes,2026-09-15,8
+1021,30,48,Weekend Shopping,2026-10-11,Yes,2026-10-22,11
+1022,57,17,Weekend Shopping,2026-10-16,Yes,2026-10-19,3
+1023,446,27,Personal Care,2026-08-19,No,,
+1024,82,78,Office,2026-10-26,No,,
+1025,258,92,Office,2026-11-23,No,,
+1026,4,19,Personal Care,2026-09-23,Yes,2026-10-06,13
+1027,236,60,Family Needs,2026-10-26,Yes,2026-10-29,3
+1028,359,92,Weekend Shopping,2026-08-16,Yes,2026-08-22,6
+1029,461,80,Weekend Shopping,2026-09-19,No,,
+1030,358,73,Kitchen,2026-06-25,Yes,2026-06-27,2
+1031,452,81,Party Shopping,2026-10-16,Yes,2026-10-19,3
+1032,391,71,Monthly Essentials,2026-07-02,No,,
+1033,387,14,Family Needs,2026-10-08,No,,
+1034,210,58,Grocery,2026-07-13,Yes,2026-07-30,17
+1035,38,82,Personal Care,2026-11-25,No,,
+1036,196,44,Party Shopping,2026-09-11,No,,
+1037,20,2,Personal Care,2026-08-04,Yes,2026-08-09,5
+1038,237,9,Office,2026-06-22,No,,
+1039,366,57,Kitchen,2026-07-06,No,,
+1040,431,21,Monthly Essentials,2026-07-14,No,,
+1041,91,38,Party Shopping,2026-07-02,No,,
+1042,87,10,Kitchen,2026-11-19,No,,
+1043,79,57,Grocery,2026-08-31,Yes,2026-09-02,2
+1044,429,82,Monthly Essentials,2026-10-12,No,,
+1045,200,89,Grocery,2026-08-18,No,,
+1046,25,49,Family Needs,2026-07-22,No,,
+1047,466,31,Family Needs,2026-07-22,Yes,2026-08-05,14
+1048,421,25,Office,2026-11-22,No,,
+1049,491,13,Monthly Essentials,2026-11-18,Yes,2026-11-24,6
+1050,418,42,Office,2026-08-22,No,,
+1051,320,27,Office,2026-10-17,Yes,2026-10-31,14
+1052,55,46,Party Shopping,2026-08-22,Yes,2026-09-04,13
+1053,109,59,Monthly Essentials,2026-07-27,Yes,2026-08-05,9
+1054,454,28,Weekend Shopping,2026-09-14,Yes,2026-10-04,20
+1055,129,13,Weekend Shopping,2026-11-01,Yes,2026-11-14,13
+1056,326,89,Personal Care,2026-08-21,No,,
+1057,35,43,Personal Care,2026-06-05,No,,
+1058,196,66,Grocery,2026-11-11,No,,
+1059,120,3,Monthly Essentials,2026-11-05,No,,
+1060,159,31,Monthly Essentials,2026-09-18,No,,
+1061,31,18,Office,2026-09-04,No,,
+1062,78,49,Office,2026-07-23,No,,
+1063,473,93,Personal Care,2026-11-01,No,,
+1064,379,43,Grocery,2026-07-05,Yes,2026-07-07,2
+1065,118,94,Office,2026-08-24,Yes,2026-08-31,7
+1066,312,49,Personal Care,2026-10-12,Yes,2026-10-27,15
+1067,36,25,Weekend Shopping,2026-06-14,No,,
+1068,481,27,Monthly Essentials,2026-07-03,Yes,2026-07-22,19
+1069,219,93,Weekend Shopping,2026-09-28,Yes,2026-10-05,7
+1070,311,32,Personal Care,2026-08-17,Yes,2026-09-01,15
+1071,41,47,Party Shopping,2026-09-10,Yes,2026-09-26,16
+1072,390,20,Kitchen,2026-10-02,Yes,2026-10-15,13
+1073,305,69,Weekend Shopping,2026-07-10,No,,
+1074,132,49,Monthly Essentials,2026-09-27,Yes,2026-10-07,10
+1075,171,18,Family Needs,2026-09-29,Yes,2026-10-06,7
+1076,252,52,Family Needs,2026-09-15,No,,
+1077,197,63,Monthly Essentials,2026-08-18,No,,
+1078,210,5,Party Shopping,2026-07-02,Yes,2026-07-21,19
+1079,491,33,Personal Care,2026-08-29,No,,
+1080,326,89,Party Shopping,2026-09-03,No,,
+1081,475,55,Weekend Shopping,2026-08-03,Yes,2026-08-05,2
+1082,134,78,Weekend Shopping,2026-09-25,No,,
+1083,131,32,Weekend Shopping,2026-11-02,No,,
+1084,7,15,Party Shopping,2026-06-24,No,,
+1085,204,91,Monthly Essentials,2026-10-29,No,,
+1086,266,25,Party Shopping,2026-09-17,Yes,2026-10-01,14
+1087,301,40,Monthly Essentials,2026-09-14,No,,
+1088,56,82,Family Needs,2026-10-25,No,,
+1089,417,19,Party Shopping,2026-08-08,No,,
+1090,358,40,Personal Care,2026-06-02,No,,
+1091,1,13,Party Shopping,2026-06-18,No,,
+1092,269,54,Family Needs,2026-11-15,Yes,2026-11-29,14
+1093,96,91,Office,2026-07-05,Yes,2026-07-11,6
+1094,96,26,Office,2026-06-16,No,,
+1095,133,53,Monthly Essentials,2026-09-21,No,,
+1096,445,82,Kitchen,2026-07-13,Yes,2026-07-16,3
+1097,33,44,Personal Care,2026-06-08,No,,
+1098,249,87,Monthly Essentials,2026-06-26,Yes,2026-07-05,9
+1099,109,67,Personal Care,2026-06-02,Yes,2026-06-19,17
+1100,388,44,Family Needs,2026-11-02,No,,
+1101,350,44,Family Needs,2026-08-20,No,,
+1102,341,52,Family Needs,2026-09-05,No,,
+1103,448,43,Monthly Essentials,2026-06-26,Yes,2026-07-09,13
+1104,445,68,Office,2026-08-11,No,,
+1105,189,58,Personal Care,2026-11-06,No,,
+1106,264,53,Grocery,2026-11-17,Yes,2026-11-28,11
+1107,497,95,Office,2026-08-23,No,,
+1108,311,63,Monthly Essentials,2026-09-11,No,,
+1109,179,55,Monthly Essentials,2026-09-30,No,,
+1110,376,50,Weekend Shopping,2026-08-15,No,,
+1111,446,67,Grocery,2026-10-25,No,,
+1112,66,64,Personal Care,2026-06-23,Yes,2026-07-11,18
+1113,489,15,Office,2026-10-02,No,,
+1114,125,28,Monthly Essentials,2026-07-14,No,,
+1115,55,56,Office,2026-06-08,Yes,2026-06-19,11
+1116,369,33,Monthly Essentials,2026-11-18,No,,
+1117,341,18,Personal Care,2026-10-15,No,,
+1118,47,89,Monthly Essentials,2026-08-25,No,,
+1119,330,44,Party Shopping,2026-09-05,No,,
+1120,335,83,Party Shopping,2026-10-22,No,,
+1121,414,30,Monthly Essentials,2026-07-28,Yes,2026-08-07,10
+1122,175,95,Monthly Essentials,2026-10-30,No,,
+1123,294,48,Party Shopping,2026-07-03,No,,
+1124,296,95,Party Shopping,2026-06-01,Yes,2026-06-20,19
+1125,164,47,Weekend Shopping,2026-11-21,No,,
+1126,267,85,Monthly Essentials,2026-11-02,No,,
+1127,203,2,Family Needs,2026-10-16,No,,
+1128,75,38,Personal Care,2026-07-27,No,,
+1129,76,77,Monthly Essentials,2026-08-12,Yes,2026-08-14,2
+1130,141,91,Office,2026-10-25,No,,
+1131,254,38,Grocery,2026-11-28,No,,
+1132,415,43,Office,2026-07-10,No,,
+1133,435,94,Grocery,2026-07-28,No,,
+1134,473,23,Kitchen,2026-10-03,No,,
+1135,418,85,Party Shopping,2026-07-11,No,,
+1136,173,55,Family Needs,2026-11-21,No,,
+1137,388,51,Party Shopping,2026-09-09,Yes,2026-09-19,10
+1138,50,17,Grocery,2026-08-22,No,,
+1139,436,91,Weekend Shopping,2026-08-17,No,,
+1140,296,18,Kitchen,2026-09-22,No,,
+1141,460,19,Monthly Essentials,2026-07-24,Yes,2026-07-31,7
+1142,348,19,Party Shopping,2026-09-05,No,,
+1143,348,22,Monthly Essentials,2026-06-15,Yes,2026-07-01,16
+1144,264,84,Weekend Shopping,2026-08-26,No,,
+1145,322,93,Personal Care,2026-09-12,Yes,2026-09-16,4
+1146,155,89,Party Shopping,2026-10-31,No,,
+1147,398,89,Personal Care,2026-11-19,No,,
+1148,443,84,Monthly Essentials,2026-09-06,Yes,2026-09-21,15
+1149,60,11,Office,2026-07-02,No,,
+1150,12,76,Personal Care,2026-10-25,No,,
+1151,141,89,Weekend Shopping,2026-06-25,No,,
+1152,197,62,Kitchen,2026-11-13,No,,
+1153,293,17,Grocery,2026-06-26,Yes,2026-07-14,18
+1154,202,72,Personal Care,2026-10-16,No,,
+1155,33,67,Monthly Essentials,2026-10-28,No,,
+1156,386,27,Weekend Shopping,2026-11-16,No,,
+1157,442,77,Monthly Essentials,2026-11-25,Yes,2026-12-13,18
+1158,21,17,Grocery,2026-10-26,Yes,2026-11-01,6
+1159,44,16,Grocery,2026-10-08,Yes,2026-10-26,18
+1160,128,39,Kitchen,2026-06-12,No,,
+1161,338,69,Office,2026-09-22,Yes,2026-10-08,16
+1162,353,13,Office,2026-11-17,No,,
+1163,19,25,Family Needs,2026-07-07,Yes,2026-07-14,7
+1164,143,17,Kitchen,2026-11-07,No,,
+1165,134,49,Party Shopping,2026-11-14,No,,
+1166,234,11,Weekend Shopping,2026-08-05,No,,
+1167,275,27,Kitchen,2026-06-19,No,,
+1168,325,90,Weekend Shopping,2026-11-13,Yes,2026-11-25,12
+1169,162,56,Kitchen,2026-09-06,Yes,2026-09-26,20
+1170,64,69,Party Shopping,2026-06-29,No,,
+1171,34,43,Office,2026-11-11,Yes,2026-11-22,11
+1172,141,2,Monthly Essentials,2026-06-26,Yes,2026-07-04,8
+1173,90,68,Personal Care,2026-08-18,No,,
+1174,49,68,Kitchen,2026-08-29,No,,
+1175,283,35,Party Shopping,2026-11-03,Yes,2026-11-05,2
+1176,93,45,Party Shopping,2026-11-21,No,,
+1177,245,76,Weekend Shopping,2026-07-03,Yes,2026-07-20,17
+1178,194,73,Personal Care,2026-08-08,Yes,2026-08-20,12
+1179,94,57,Kitchen,2026-08-30,No,,
+1180,142,55,Office,2026-10-12,No,,
+1181,157,82,Party Shopping,2026-06-23,No,,
+1182,395,41,Monthly Essentials,2026-06-24,No,,
+1183,374,31,Personal Care,2026-06-24,Yes,2026-06-26,2
+1184,414,2,Weekend Shopping,2026-09-17,No,,
+1185,246,64,Monthly Essentials,2026-10-10,No,,
+1186,208,2,Office,2026-11-05,Yes,2026-11-06,1
+1187,379,85,Grocery,2026-10-14,No,,
+1188,311,58,Office,2026-07-14,No,,
+1189,90,10,Family Needs,2026-09-02,No,,
+1190,488,7,Weekend Shopping,2026-09-17,No,,
+1191,192,15,Office,2026-08-26,No,,
+1192,426,70,Office,2026-07-01,Yes,2026-07-17,16
+1193,2,95,Office,2026-11-09,No,,
+1194,473,40,Grocery,2026-11-12,No,,
+1195,479,60,Grocery,2026-11-06,No,,
+1196,183,1,Kitchen,2026-11-05,No,,
+1197,182,14,Grocery,2026-06-02,Yes,2026-06-08,6
+1198,52,56,Monthly Essentials,2026-10-04,Yes,2026-10-21,17
+1199,468,63,Party Shopping,2026-06-02,Yes,2026-06-11,9
+1200,192,39,Weekend Shopping,2026-09-02,No,,
+1201,275,35,Personal Care,2026-06-28,No,,
+1202,83,18,Grocery,2026-08-30,No,,
+1203,184,91,Party Shopping,2026-07-21,Yes,2026-07-31,10
+1204,216,96,Weekend Shopping,2026-08-24,No,,
+1205,342,26,Kitchen,2026-10-01,No,,
+1206,61,54,Weekend Shopping,2026-10-04,No,,
+1207,167,52,Party Shopping,2026-10-07,No,,
+1208,68,15,Weekend Shopping,2026-06-28,No,,
+1209,80,45,Party Shopping,2026-10-07,Yes,2026-10-15,8
+1210,500,77,Kitchen,2026-06-03,No,,
+1211,145,63,Office,2026-06-22,No,,
+1212,317,20,Office,2026-10-09,Yes,2026-10-18,9
+1213,342,55,Monthly Essentials,2026-07-21,No,,
+1214,359,94,Office,2026-10-07,No,,
+1215,438,76,Office,2026-11-09,No,,
+1216,62,17,Grocery,2026-09-11,Yes,2026-09-18,7
+1217,316,26,Party Shopping,2026-06-24,No,,
+1218,209,68,Office,2026-08-18,No,,
+1219,114,44,Party Shopping,2026-09-18,No,,
+1220,330,7,Party Shopping,2026-08-17,Yes,2026-08-29,12
+1221,127,41,Office,2026-06-13,Yes,2026-06-14,1
+1222,147,61,Monthly Essentials,2026-08-11,No,,
+1223,221,24,Family Needs,2026-08-04,No,,
+1224,172,39,Family Needs,2026-06-29,Yes,2026-06-30,1
+1225,380,47,Family Needs,2026-10-29,No,,
+1226,122,84,Weekend Shopping,2026-08-10,Yes,2026-08-23,13
+1227,323,96,Personal Care,2026-11-02,Yes,2026-11-21,19
+1228,474,13,Family Needs,2026-06-20,No,,
+1229,155,93,Office,2026-09-30,No,,
+1230,274,93,Family Needs,2026-07-10,Yes,2026-07-17,7
+1231,459,47,Monthly Essentials,2026-09-23,No,,
+1232,467,56,Grocery,2026-06-18,No,,
+1233,86,77,Weekend Shopping,2026-08-10,No,,
+1234,149,6,Monthly Essentials,2026-10-23,Yes,2026-10-30,7
+1235,85,57,Office,2026-10-09,Yes,2026-10-22,13
+1236,95,1,Grocery,2026-07-11,No,,
+1237,451,66,Kitchen,2026-09-25,No,,
+1238,156,29,Monthly Essentials,2026-08-15,No,,
+1239,88,29,Kitchen,2026-06-12,No,,
+1240,21,82,Kitchen,2026-07-08,No,,
+1241,475,18,Grocery,2026-08-09,No,,
+1242,329,32,Grocery,2026-07-24,No,,
+1243,333,45,Family Needs,2026-11-09,No,,
+1244,167,11,Kitchen,2026-11-28,No,,
+1245,370,18,Kitchen,2026-09-13,No,,
+1246,167,8,Family Needs,2026-11-08,No,,
+1247,113,94,Kitchen,2026-08-11,Yes,2026-08-12,1
+1248,446,81,Office,2026-11-10,No,,
+1249,419,57,Personal Care,2026-07-27,Yes,2026-08-03,7
+1250,119,94,Weekend Shopping,2026-09-20,Yes,2026-10-06,16
+1251,236,24,Grocery,2026-07-16,Yes,2026-08-01,16
+1252,159,21,Office,2026-07-16,No,,
+1253,36,19,Personal Care,2026-06-19,No,,
+1254,466,83,Monthly Essentials,2026-09-12,Yes,2026-09-29,17
+1255,194,50,Office,2026-06-06,Yes,2026-06-07,1
+1256,395,11,Monthly Essentials,2026-08-08,Yes,2026-08-28,20
+1257,278,95,Monthly Essentials,2026-08-26,No,,
+1258,104,18,Personal Care,2026-10-01,No,,
+1259,418,21,Kitchen,2026-08-18,Yes,2026-08-23,5
+1260,322,70,Monthly Essentials,2026-07-02,Yes,2026-07-04,2
+1261,262,54,Party Shopping,2026-07-07,Yes,2026-07-15,8
+1262,198,19,Office,2026-08-30,No,,
+1263,472,88,Monthly Essentials,2026-09-07,No,,
+1264,252,22,Family Needs,2026-06-29,Yes,2026-07-09,10
+1265,61,47,Weekend Shopping,2026-06-22,No,,
+1266,92,55,Kitchen,2026-10-14,Yes,2026-10-20,6
+1267,320,37,Kitchen,2026-08-29,No,,
+1268,470,64,Weekend Shopping,2026-11-17,Yes,2026-11-26,9
+1269,399,84,Monthly Essentials,2026-07-08,Yes,2026-07-21,13
+1270,58,74,Kitchen,2026-09-18,No,,
+1271,75,12,Weekend Shopping,2026-08-22,No,,
+1272,393,50,Family Needs,2026-08-30,Yes,2026-09-13,14
+1273,71,84,Office,2026-08-02,Yes,2026-08-20,18
+1274,197,11,Office,2026-10-27,No,,
+1275,360,12,Personal Care,2026-07-31,Yes,2026-08-07,7
+1276,491,18,Kitchen,2026-06-29,Yes,2026-07-11,12
+1277,236,19,Party Shopping,2026-10-20,No,,
+1278,125,27,Party Shopping,2026-07-28,Yes,2026-08-02,5
+1279,376,4,Family Needs,2026-11-26,No,,
+1280,28,90,Monthly Essentials,2026-06-28,No,,
+1281,245,77,Office,2026-07-11,Yes,2026-07-23,12
+1282,40,2,Party Shopping,2026-10-24,No,,
+1283,77,24,Kitchen,2026-09-29,No,,
+1284,241,53,Grocery,2026-08-26,No,,
+1285,147,15,Grocery,2026-07-10,Yes,2026-07-12,2
+1286,203,55,Personal Care,2026-11-22,No,,
+1287,284,92,Kitchen,2026-08-06,No,,
+1288,364,30,Kitchen,2026-09-17,No,,
+1289,499,12,Grocery,2026-10-12,Yes,2026-10-17,5
+1290,113,51,Monthly Essentials,2026-07-18,No,,
+1291,419,89,Party Shopping,2026-09-28,No,,
+1292,424,49,Kitchen,2026-07-13,Yes,2026-07-25,12
+1293,56,14,Kitchen,2026-06-20,Yes,2026-07-01,11
+1294,84,70,Office,2026-06-28,Yes,2026-07-18,20
+1295,283,26,Office,2026-11-11,No,,
+1296,138,11,Personal Care,2026-10-24,No,,
+1297,24,7,Kitchen,2026-08-20,Yes,2026-08-30,10
+1298,491,51,Monthly Essentials,2026-10-07,Yes,2026-10-20,13
+1299,170,53,Personal Care,2026-10-07,Yes,2026-10-12,5
+1300,301,5,Office,2026-08-14,Yes,2026-08-29,15
+1301,453,28,Weekend Shopping,2026-11-22,No,,
+1302,494,65,Family Needs,2026-10-11,No,,
+1303,230,17,Party Shopping,2026-08-26,Yes,2026-09-15,20
+1304,123,27,Weekend Shopping,2026-11-04,No,,
+1305,291,81,Monthly Essentials,2026-10-06,Yes,2026-10-07,1
+1306,256,13,Kitchen,2026-09-25,Yes,2026-10-05,10
+1307,296,47,Personal Care,2026-08-30,Yes,2026-09-05,6
+1308,132,57,Monthly Essentials,2026-11-14,No,,
+1309,498,73,Weekend Shopping,2026-10-03,Yes,2026-10-13,10
+1310,226,47,Family Needs,2026-10-10,No,,
+1311,192,11,Grocery,2026-11-22,Yes,2026-12-07,15
+1312,380,32,Grocery,2026-11-27,No,,
+1313,80,14,Office,2026-08-14,Yes,2026-09-02,19
+1314,199,60,Monthly Essentials,2026-11-19,Yes,2026-12-04,15
+1315,44,24,Party Shopping,2026-06-28,No,,
+1316,394,56,Personal Care,2026-07-22,Yes,2026-07-25,3
+1317,109,90,Personal Care,2026-09-30,Yes,2026-10-15,15
+1318,75,82,Family Needs,2026-07-25,Yes,2026-07-27,2
+1319,405,56,Kitchen,2026-09-30,Yes,2026-10-07,7
+1320,130,82,Monthly Essentials,2026-07-16,Yes,2026-07-19,3
+1321,153,92,Office,2026-09-24,No,,
+1322,343,34,Monthly Essentials,2026-07-18,No,,
+1323,459,55,Kitchen,2026-08-27,No,,
+1324,85,26,Personal Care,2026-08-29,No,,
+1325,244,69,Party Shopping,2026-11-24,No,,
+1326,182,89,Weekend Shopping,2026-10-25,Yes,2026-10-26,1
+1327,166,86,Family Needs,2026-08-21,Yes,2026-09-05,15
+1328,59,87,Personal Care,2026-09-13,Yes,2026-09-14,1
+1329,328,75,Party Shopping,2026-06-25,Yes,2026-07-02,7
+1330,111,45,Grocery,2026-07-24,No,,
+1331,190,47,Personal Care,2026-06-05,Yes,2026-06-15,10
+1332,212,53,Monthly Essentials,2026-08-30,Yes,2026-09-17,18
+1333,475,23,Weekend Shopping,2026-09-26,No,,
+1334,284,77,Party Shopping,2026-07-12,No,,
+1335,146,85,Kitchen,2026-11-24,No,,
+1336,360,80,Monthly Essentials,2026-06-26,No,,
+1337,46,84,Party Shopping,2026-06-05,No,,
+1338,54,64,Monthly Essentials,2026-11-07,No,,
+1339,325,57,Grocery,2026-10-07,No,,
+1340,342,38,Office,2026-09-16,Yes,2026-10-01,15
+1341,439,61,Grocery,2026-07-02,Yes,2026-07-17,15
+1342,482,48,Kitchen,2026-07-28,No,,
+1343,451,85,Party Shopping,2026-08-07,Yes,2026-08-21,14
+1344,17,2,Weekend Shopping,2026-06-07,Yes,2026-06-19,12
+1345,492,74,Grocery,2026-09-19,Yes,2026-10-02,13
+1346,411,74,Family Needs,2026-09-18,Yes,2026-10-01,13
+1347,265,21,Kitchen,2026-09-20,Yes,2026-09-25,5
+1348,429,71,Office,2026-07-11,No,,
+1349,48,12,Weekend Shopping,2026-06-07,No,,
+1350,15,80,Monthly Essentials,2026-10-18,No,,
+1351,293,49,Weekend Shopping,2026-06-07,No,,
+1352,233,82,Weekend Shopping,2026-11-09,No,,
+1353,123,84,Kitchen,2026-07-27,Yes,2026-08-14,18
+1354,338,7,Monthly Essentials,2026-08-10,Yes,2026-08-15,5
+1355,236,77,Monthly Essentials,2026-07-02,Yes,2026-07-12,10
+1356,40,64,Office,2026-09-01,No,,
+1357,201,13,Party Shopping,2026-10-04,No,,
+1358,38,63,Personal Care,2026-11-08,Yes,2026-11-22,14
+1359,414,21,Family Needs,2026-07-17,Yes,2026-07-23,6
+1360,178,62,Grocery,2026-11-05,No,,
+1361,82,67,Office,2026-08-05,No,,
+1362,311,4,Family Needs,2026-10-16,Yes,2026-11-02,17
+1363,59,28,Kitchen,2026-06-08,Yes,2026-06-16,8
+1364,141,62,Family Needs,2026-07-22,No,,
+1365,363,71,Office,2026-11-14,Yes,2026-11-30,16
+1366,129,23,Kitchen,2026-07-21,No,,
+1367,493,51,Kitchen,2026-06-27,No,,
+1368,85,27,Personal Care,2026-10-03,No,,
+1369,217,77,Monthly Essentials,2026-08-09,No,,
+1370,311,50,Personal Care,2026-09-18,Yes,2026-09-30,12
+1371,86,5,Party Shopping,2026-10-09,Yes,2026-10-23,14
+1372,16,15,Party Shopping,2026-07-17,No,,
+1373,405,24,Weekend Shopping,2026-08-31,Yes,2026-09-07,7
+1374,400,41,Personal Care,2026-07-02,Yes,2026-07-03,1
+1375,291,42,Party Shopping,2026-07-30,No,,
+1376,146,78,Monthly Essentials,2026-07-25,No,,
+1377,288,36,Monthly Essentials,2026-11-03,No,,
+1378,294,83,Party Shopping,2026-09-16,No,,
+1379,163,41,Kitchen,2026-07-21,Yes,2026-08-06,16
+1380,216,16,Family Needs,2026-07-02,No,,
+1381,303,50,Kitchen,2026-07-31,No,,
+1382,10,83,Personal Care,2026-10-26,No,,
+1383,146,17,Grocery,2026-09-12,Yes,2026-09-30,18
+1384,36,61,Party Shopping,2026-06-25,No,,
+1385,371,39,Family Needs,2026-08-10,Yes,2026-08-22,12
+1386,253,79,Family Needs,2026-06-13,Yes,2026-06-28,15
+1387,481,80,Monthly Essentials,2026-06-27,Yes,2026-06-29,2
+1388,166,89,Grocery,2026-09-20,Yes,2026-09-23,3
+1389,479,89,Kitchen,2026-06-14,Yes,2026-06-16,2
+1390,39,34,Party Shopping,2026-08-24,No,,
+1391,139,90,Personal Care,2026-07-14,No,,
+1392,62,17,Party Shopping,2026-08-21,No,,
+1393,327,58,Personal Care,2026-11-19,Yes,2026-12-06,17
+1394,500,36,Personal Care,2026-08-22,No,,
+1395,116,12,Monthly Essentials,2026-08-07,No,,
+1396,181,72,Office,2026-08-02,No,,
+1397,356,10,Grocery,2026-06-20,No,,
+1398,109,2,Monthly Essentials,2026-11-19,Yes,2026-12-02,13
+1399,175,27,Family Needs,2026-10-30,No,,
+1400,390,40,Monthly Essentials,2026-09-25,No,,
+1401,469,17,Party Shopping,2026-07-27,No,,
+1402,500,58,Party Shopping,2026-11-06,No,,
+1403,97,9,Kitchen,2026-08-11,No,,
+1404,488,74,Office,2026-11-13,Yes,2026-11-28,15
+1405,9,59,Kitchen,2026-07-18,Yes,2026-08-03,16
+1406,61,71,Party Shopping,2026-06-22,Yes,2026-06-29,7
+1407,261,43,Family Needs,2026-06-14,No,,
+1408,51,7,Office,2026-11-14,Yes,2026-11-28,14
+1409,207,23,Monthly Essentials,2026-10-31,Yes,2026-11-20,20
+1410,349,7,Grocery,2026-11-13,Yes,2026-11-17,4
+1411,459,5,Office,2026-10-26,Yes,2026-10-29,3
+1412,452,80,Party Shopping,2026-11-27,No,,
+1413,202,13,Kitchen,2026-07-27,No,,
+1414,254,27,Family Needs,2026-07-14,No,,
+1415,327,37,Grocery,2026-11-28,No,,
+1416,49,24,Personal Care,2026-10-07,No,,
+1417,379,40,Weekend Shopping,2026-11-24,Yes,2026-12-05,11
+1418,171,59,Personal Care,2026-07-07,No,,
+1419,220,43,Grocery,2026-06-06,Yes,2026-06-15,9
+1420,305,46,Personal Care,2026-09-30,No,,
+1421,448,32,Weekend Shopping,2026-09-29,Yes,2026-09-30,1
+1422,387,19,Family Needs,2026-06-25,Yes,2026-07-06,11
+1423,280,33,Family Needs,2026-11-17,No,,
+1424,235,2,Kitchen,2026-08-30,Yes,2026-09-10,11
+1425,352,67,Family Needs,2026-11-11,Yes,2026-11-25,14
+1426,255,4,Party Shopping,2026-08-02,No,,
+1427,185,27,Personal Care,2026-06-23,Yes,2026-07-06,13
+1428,491,68,Party Shopping,2026-07-15,Yes,2026-07-27,12
+1429,484,36,Party Shopping,2026-08-19,Yes,2026-09-07,19
+1430,408,59,Family Needs,2026-10-24,No,,
+1431,148,15,Weekend Shopping,2026-06-03,No,,
+1432,239,88,Kitchen,2026-07-09,No,,
+1433,320,72,Kitchen,2026-11-18,Yes,2026-12-04,16
+1434,8,59,Personal Care,2026-06-11,Yes,2026-06-30,19
+1435,157,1,Weekend Shopping,2026-09-19,Yes,2026-09-20,1
+1436,180,37,Weekend Shopping,2026-10-07,No,,
+1437,489,12,Kitchen,2026-08-09,Yes,2026-08-16,7
+1438,113,5,Office,2026-09-30,No,,
+1439,416,87,Kitchen,2026-11-11,Yes,2026-11-24,13
+1440,306,40,Family Needs,2026-07-15,No,,
+1441,412,75,Office,2026-07-06,No,,
+1442,129,18,Kitchen,2026-09-15,No,,
+1443,157,11,Personal Care,2026-08-16,No,,
+1444,280,24,Party Shopping,2026-09-05,No,,
+1445,50,18,Family Needs,2026-10-13,No,,
+1446,258,88,Party Shopping,2026-08-31,No,,
+1447,239,54,Grocery,2026-09-14,No,,
+1448,491,54,Kitchen,2026-06-23,No,,
+1449,403,32,Weekend Shopping,2026-10-27,No,,
+1450,318,70,Grocery,2026-10-23,No,,
+1451,387,51,Grocery,2026-07-03,Yes,2026-07-04,1
+1452,44,8,Monthly Essentials,2026-08-09,No,,
+1453,171,77,Personal Care,2026-06-25,No,,
+1454,354,43,Weekend Shopping,2026-06-16,Yes,2026-07-05,19
+1455,288,95,Grocery,2026-10-05,Yes,2026-10-10,5
+1456,413,63,Monthly Essentials,2026-11-07,No,,
+1457,35,1,Monthly Essentials,2026-07-10,No,,
+1458,267,13,Party Shopping,2026-08-03,Yes,2026-08-19,16
+1459,29,16,Personal Care,2026-08-16,Yes,2026-08-22,6
+1460,440,85,Weekend Shopping,2026-11-05,Yes,2026-11-10,5
+1461,420,96,Personal Care,2026-11-16,Yes,2026-12-03,17
+1462,149,38,Kitchen,2026-11-18,Yes,2026-12-07,19
+1463,201,50,Personal Care,2026-11-26,No,,
+1464,214,55,Grocery,2026-07-08,Yes,2026-07-23,15
+1465,298,39,Personal Care,2026-06-09,No,,
+1466,22,46,Personal Care,2026-07-06,No,,
+1467,142,2,Party Shopping,2026-07-11,Yes,2026-07-28,17
+1468,263,9,Family Needs,2026-07-15,No,,
+1469,336,93,Party Shopping,2026-10-23,Yes,2026-10-28,5
+1470,35,83,Weekend Shopping,2026-10-02,Yes,2026-10-18,16
+1471,358,42,Family Needs,2026-10-29,No,,
+1472,300,80,Monthly Essentials,2026-09-12,Yes,2026-09-13,1
+1473,341,14,Personal Care,2026-10-06,No,,
+1474,166,30,Monthly Essentials,2026-07-31,Yes,2026-08-06,6
+1475,32,79,Grocery,2026-08-04,Yes,2026-08-07,3
+1476,473,23,Office,2026-08-22,Yes,2026-09-06,15
+1477,101,33,Kitchen,2026-10-04,No,,
+1478,116,26,Office,2026-07-12,No,,
+1479,45,75,Monthly Essentials,2026-06-07,No,,
+1480,105,5,Family Needs,2026-07-06,No,,
+1481,397,53,Monthly Essentials,2026-10-24,No,,
+1482,175,24,Personal Care,2026-11-22,No,,
+1483,98,27,Family Needs,2026-10-25,No,,
+1484,183,80,Monthly Essentials,2026-10-22,No,,
+1485,225,55,Kitchen,2026-11-08,Yes,2026-11-11,3
+1486,52,16,Office,2026-10-06,Yes,2026-10-26,20
+1487,421,38,Kitchen,2026-08-04,Yes,2026-08-16,12
+1488,39,69,Grocery,2026-10-26,Yes,2026-11-12,17
+1489,280,90,Kitchen,2026-06-29,No,,
+1490,335,4,Grocery,2026-06-09,Yes,2026-06-18,9
+1491,72,27,Family Needs,2026-10-19,No,,
+1492,474,85,Monthly Essentials,2026-06-16,Yes,2026-06-19,3
+1493,487,54,Monthly Essentials,2026-11-01,No,,
+1494,455,71,Kitchen,2026-10-01,No,,
+1495,371,6,Party Shopping,2026-06-27,Yes,2026-07-14,17
+1496,245,39,Party Shopping,2026-07-29,Yes,2026-07-31,2
+1497,350,88,Grocery,2026-06-05,No,,
+1498,199,49,Personal Care,2026-11-26,Yes,2026-12-10,14
+1499,61,79,Office,2026-09-03,Yes,2026-09-14,11
+1500,119,12,Office,2026-10-29,Yes,2026-11-12,14
+1501,417,8,Grocery,2026-06-20,Yes,2026-07-05,15
+1502,161,45,Office,2026-11-02,No,,
+1503,150,17,Kitchen,2026-11-03,Yes,2026-11-07,4
+1504,481,70,Family Needs,2026-07-23,No,,
+1505,460,29,Family Needs,2026-09-22,No,,
+1506,400,71,Office,2026-08-14,No,,
+1507,270,35,Monthly Essentials,2026-08-21,No,,
+1508,28,45,Personal Care,2026-09-14,No,,
+1509,144,11,Office,2026-07-23,No,,
+1510,157,95,Office,2026-10-20,Yes,2026-11-01,12
+1511,358,57,Monthly Essentials,2026-11-14,No,,
+1512,11,64,Monthly Essentials,2026-06-09,Yes,2026-06-28,19
+1513,31,36,Personal Care,2026-11-04,Yes,2026-11-05,1
+1514,23,29,Grocery,2026-07-23,Yes,2026-08-06,14
+1515,278,45,Family Needs,2026-06-07,No,,
+1516,473,34,Party Shopping,2026-10-30,Yes,2026-10-31,1
+1517,401,94,Party Shopping,2026-06-15,No,,
+1518,488,93,Kitchen,2026-11-21,Yes,2026-12-09,18
+1519,84,49,Office,2026-09-28,No,,
+1520,68,2,Kitchen,2026-08-11,No,,
+1521,44,32,Kitchen,2026-10-17,Yes,2026-11-05,19
+1522,186,35,Kitchen,2026-11-16,Yes,2026-12-06,20
+1523,292,85,Weekend Shopping,2026-08-22,No,,
+1524,228,60,Personal Care,2026-06-05,No,,
+1525,19,46,Office,2026-10-01,No,,
+1526,210,8,Kitchen,2026-10-27,No,,
+1527,460,79,Kitchen,2026-10-20,Yes,2026-10-23,3
+1528,393,36,Weekend Shopping,2026-08-06,No,,
+1529,117,81,Monthly Essentials,2026-07-15,Yes,2026-08-04,20
+1530,336,5,Personal Care,2026-07-18,No,,
+1531,297,41,Office,2026-06-11,No,,
+1532,32,92,Grocery,2026-08-06,No,,
+1533,348,46,Office,2026-10-17,No,,
+1534,180,14,Monthly Essentials,2026-06-20,No,,
+1535,262,10,Monthly Essentials,2026-07-31,Yes,2026-08-19,19
+1536,329,55,Party Shopping,2026-08-12,Yes,2026-08-23,11
+1537,460,84,Kitchen,2026-09-04,No,,
+1538,319,4,Monthly Essentials,2026-07-12,Yes,2026-07-22,10
+1539,312,28,Family Needs,2026-08-20,No,,
+1540,482,28,Grocery,2026-09-05,No,,
+1541,337,93,Party Shopping,2026-07-09,Yes,2026-07-12,3
+1542,276,94,Grocery,2026-07-02,No,,
+1543,311,61,Personal Care,2026-11-16,No,,
+1544,163,35,Kitchen,2026-07-20,No,,
+1545,467,32,Family Needs,2026-08-24,Yes,2026-09-05,12
+1546,384,15,Family Needs,2026-11-25,Yes,2026-12-09,14
+1547,287,65,Personal Care,2026-06-20,No,,
+1548,310,30,Office,2026-09-23,No,,
+1549,292,17,Kitchen,2026-10-16,Yes,2026-10-30,14
+1550,175,41,Office,2026-07-01,Yes,2026-07-15,14
+1551,461,24,Personal Care,2026-09-25,Yes,2026-09-29,4
+1552,381,13,Party Shopping,2026-07-03,No,,
+1553,13,89,Weekend Shopping,2026-07-13,No,,
+1554,264,68,Family Needs,2026-09-08,No,,
+1555,66,52,Kitchen,2026-11-26,No,,
+1556,61,44,Monthly Essentials,2026-08-26,No,,
+1557,370,6,Family Needs,2026-06-19,No,,
+1558,487,58,Party Shopping,2026-09-13,No,,
+1559,149,62,Grocery,2026-11-27,Yes,2026-12-03,6
+1560,304,76,Personal Care,2026-09-03,No,,
+1561,195,42,Office,2026-09-21,Yes,2026-10-10,19
+1562,153,64,Family Needs,2026-08-27,Yes,2026-09-13,17
+1563,197,41,Grocery,2026-07-16,No,,
+1564,417,95,Kitchen,2026-07-24,No,,
+1565,295,79,Kitchen,2026-08-20,Yes,2026-08-30,10
+1566,141,63,Monthly Essentials,2026-09-21,Yes,2026-09-27,6
+1567,474,30,Grocery,2026-11-18,Yes,2026-11-22,4
+1568,307,6,Office,2026-10-17,No,,
+1569,4,63,Weekend Shopping,2026-06-07,Yes,2026-06-17,10
+1570,426,59,Monthly Essentials,2026-08-15,No,,
+1571,228,56,Family Needs,2026-10-05,Yes,2026-10-10,5
+1572,412,11,Family Needs,2026-07-27,No,,
+1573,81,65,Grocery,2026-08-25,Yes,2026-09-11,17
+1574,222,13,Family Needs,2026-11-28,No,,
+1575,98,72,Grocery,2026-11-17,No,,
+1576,486,82,Office,2026-11-08,Yes,2026-11-13,5
+1577,136,61,Weekend Shopping,2026-07-09,No,,
+1578,376,64,Party Shopping,2026-08-12,Yes,2026-08-15,3
+1579,35,63,Weekend Shopping,2026-10-21,No,,
+1580,20,54,Personal Care,2026-11-24,Yes,2026-12-07,13
+1581,272,85,Office,2026-07-17,No,,
+1582,449,38,Party Shopping,2026-11-19,No,,
+1583,307,46,Monthly Essentials,2026-10-18,No,,
+1584,113,15,Party Shopping,2026-08-13,Yes,2026-08-28,15
+1585,60,23,Monthly Essentials,2026-09-27,No,,
+1586,178,90,Personal Care,2026-09-10,No,,
+1587,431,63,Kitchen,2026-11-01,Yes,2026-11-09,8
+1588,260,28,Party Shopping,2026-09-13,Yes,2026-09-24,11
+1589,201,57,Office,2026-09-17,Yes,2026-09-19,2
+1590,174,82,Office,2026-06-12,Yes,2026-06-26,14
+1591,400,81,Family Needs,2026-06-29,No,,
+1592,67,78,Family Needs,2026-10-17,Yes,2026-10-18,1
+1593,468,46,Office,2026-10-20,Yes,2026-10-22,2
+1594,81,69,Office,2026-09-10,No,,
+1595,149,21,Grocery,2026-09-04,Yes,2026-09-11,7
+1596,433,3,Weekend Shopping,2026-10-13,Yes,2026-10-26,13
+1597,145,39,Monthly Essentials,2026-06-07,Yes,2026-06-15,8
+1598,417,49,Monthly Essentials,2026-11-15,Yes,2026-11-24,9
+1599,259,93,Party Shopping,2026-11-28,No,,
+1600,11,2,Weekend Shopping,2026-10-17,No,,
+1601,49,95,Office,2026-10-29,No,,
+1602,426,78,Party Shopping,2026-08-19,No,,
+1603,263,96,Kitchen,2026-06-06,Yes,2026-06-21,15
+1604,497,84,Kitchen,2026-10-26,No,,
+1605,220,12,Kitchen,2026-07-27,No,,
+1606,248,37,Office,2026-11-27,No,,
+1607,196,3,Family Needs,2026-10-06,No,,
+1608,391,70,Grocery,2026-06-28,No,,
+1609,204,30,Family Needs,2026-09-23,Yes,2026-10-12,19
+1610,74,81,Office,2026-06-22,Yes,2026-06-28,6
+1611,43,19,Personal Care,2026-09-12,No,,
+1612,268,93,Grocery,2026-10-24,No,,
+1613,393,64,Family Needs,2026-08-04,Yes,2026-08-15,11
+1614,353,73,Personal Care,2026-11-01,Yes,2026-11-02,1
+1615,280,64,Office,2026-08-20,No,,
+1616,165,60,Monthly Essentials,2026-10-02,No,,
+1617,472,14,Party Shopping,2026-09-17,No,,
+1618,66,2,Monthly Essentials,2026-07-12,No,,
+1619,86,26,Monthly Essentials,2026-09-21,No,,
+1620,20,55,Party Shopping,2026-10-05,Yes,2026-10-22,17
+1621,205,2,Family Needs,2026-08-15,Yes,2026-08-25,10
+1622,289,84,Kitchen,2026-07-13,Yes,2026-07-30,17
+1623,242,60,Weekend Shopping,2026-07-24,No,,
+1624,85,68,Personal Care,2026-09-30,Yes,2026-10-14,14
+1625,35,1,Office,2026-08-19,No,,
+1626,356,13,Monthly Essentials,2026-10-16,No,,
+1627,32,80,Monthly Essentials,2026-09-28,No,,
+1628,180,82,Family Needs,2026-10-22,No,,
+1629,322,2,Party Shopping,2026-07-20,Yes,2026-08-03,14
+1630,479,33,Office,2026-10-22,No,,
+1631,40,76,Kitchen,2026-07-10,Yes,2026-07-17,7
+1632,289,14,Party Shopping,2026-07-03,No,,
+1633,170,74,Personal Care,2026-10-30,No,,
+1634,108,22,Office,2026-06-01,No,,
+1635,47,79,Monthly Essentials,2026-07-08,Yes,2026-07-24,16
+1636,459,7,Personal Care,2026-07-06,No,,
+1637,218,86,Party Shopping,2026-09-29,Yes,2026-10-16,17
+1638,194,50,Kitchen,2026-11-28,No,,
+1639,430,67,Office,2026-08-21,No,,
+1640,490,22,Weekend Shopping,2026-11-10,No,,
+1641,431,56,Kitchen,2026-10-22,No,,
+1642,351,16,Family Needs,2026-10-21,No,,
+1643,92,4,Family Needs,2026-09-02,No,,
+1644,373,55,Office,2026-07-25,No,,
+1645,196,48,Grocery,2026-07-16,No,,
+1646,101,57,Grocery,2026-09-01,No,,
+1647,301,40,Kitchen,2026-08-24,Yes,2026-09-05,12
+1648,18,83,Party Shopping,2026-08-10,No,,
+1649,23,90,Personal Care,2026-11-28,Yes,2026-11-30,2
+1650,252,23,Monthly Essentials,2026-09-30,No,,
+1651,20,48,Weekend Shopping,2026-06-08,No,,
+1652,362,95,Weekend Shopping,2026-07-16,No,,
+1653,43,54,Kitchen,2026-07-01,Yes,2026-07-03,2
+1654,437,25,Grocery,2026-11-15,No,,
+1655,171,87,Weekend Shopping,2026-08-21,No,,
+1656,464,76,Party Shopping,2026-09-02,No,,
+1657,214,86,Monthly Essentials,2026-11-19,Yes,2026-11-26,7
+1658,89,57,Grocery,2026-06-12,Yes,2026-06-19,7
+1659,160,36,Personal Care,2026-10-22,Yes,2026-11-02,11
+1660,46,15,Grocery,2026-06-24,Yes,2026-06-27,3
+1661,393,22,Office,2026-06-03,Yes,2026-06-15,12
+1662,158,88,Office,2026-11-12,No,,
+1663,383,95,Kitchen,2026-07-04,Yes,2026-07-17,13
+1664,72,73,Weekend Shopping,2026-08-20,Yes,2026-08-27,7
+1665,152,34,Monthly Essentials,2026-11-26,No,,
+1666,251,46,Grocery,2026-10-27,Yes,2026-11-13,17
+1667,487,75,Family Needs,2026-09-07,Yes,2026-09-26,19
+1668,331,88,Office,2026-08-13,Yes,2026-08-30,17
+1669,133,28,Weekend Shopping,2026-09-28,Yes,2026-10-02,4
+1670,240,76,Monthly Essentials,2026-08-22,Yes,2026-09-04,13
+1671,323,46,Monthly Essentials,2026-06-03,Yes,2026-06-19,16
+1672,96,46,Personal Care,2026-08-18,Yes,2026-09-05,18
+1673,415,79,Party Shopping,2026-09-25,No,,
+1674,375,52,Kitchen,2026-09-30,No,,
+1675,371,48,Office,2026-11-01,Yes,2026-11-14,13
+1676,391,65,Kitchen,2026-06-28,No,,
+1677,489,74,Weekend Shopping,2026-09-11,No,,
+1678,263,22,Office,2026-08-16,No,,
+1679,488,73,Kitchen,2026-07-06,Yes,2026-07-17,11
+1680,406,19,Weekend Shopping,2026-08-28,No,,
+1681,236,1,Monthly Essentials,2026-11-16,Yes,2026-11-22,6
+1682,95,31,Office,2026-07-23,No,,
+1683,79,88,Family Needs,2026-10-21,No,,
+1684,3,62,Personal Care,2026-07-11,Yes,2026-07-27,16
+1685,343,49,Monthly Essentials,2026-09-27,No,,
+1686,199,17,Weekend Shopping,2026-08-21,No,,
+1687,205,42,Party Shopping,2026-08-12,No,,
+1688,306,51,Weekend Shopping,2026-10-15,Yes,2026-10-31,16
+1689,394,31,Monthly Essentials,2026-09-03,Yes,2026-09-20,17
+1690,331,30,Grocery,2026-07-06,No,,
+1691,109,39,Weekend Shopping,2026-09-20,Yes,2026-10-03,13
+1692,146,40,Personal Care,2026-09-08,No,,
+1693,18,34,Monthly Essentials,2026-09-16,Yes,2026-09-29,13
+1694,178,88,Party Shopping,2026-06-26,No,,
+1695,412,2,Grocery,2026-07-12,Yes,2026-07-31,19
+1696,249,84,Kitchen,2026-11-19,Yes,2026-11-21,2
+1697,380,82,Personal Care,2026-06-30,No,,
+1698,258,48,Family Needs,2026-09-30,No,,
+1699,58,23,Party Shopping,2026-09-17,No,,
+1700,446,87,Personal Care,2026-06-21,Yes,2026-07-02,11
+1701,223,7,Family Needs,2026-09-27,Yes,2026-10-01,4
+1702,26,77,Grocery,2026-11-23,Yes,2026-12-07,14
+1703,278,35,Family Needs,2026-07-16,Yes,2026-07-30,14
+1704,153,82,Family Needs,2026-06-10,No,,
+1705,375,5,Office,2026-10-15,No,,
+1706,90,11,Kitchen,2026-10-15,Yes,2026-10-20,5
+1707,177,59,Personal Care,2026-11-24,No,,
+1708,21,10,Monthly Essentials,2026-08-23,Yes,2026-08-28,5
+1709,173,82,Grocery,2026-08-17,No,,
+1710,95,96,Monthly Essentials,2026-08-05,No,,
+1711,429,56,Kitchen,2026-06-30,No,,
+1712,156,79,Office,2026-10-10,No,,
+1713,356,7,Office,2026-09-04,No,,
+1714,390,56,Weekend Shopping,2026-08-10,No,,
+1715,142,65,Kitchen,2026-11-19,Yes,2026-12-02,13
+1716,3,53,Kitchen,2026-07-24,Yes,2026-08-07,14
+1717,237,77,Family Needs,2026-11-10,Yes,2026-11-18,8
+1718,114,9,Family Needs,2026-11-04,Yes,2026-11-24,20
+1719,278,50,Grocery,2026-09-30,No,,
+1720,176,44,Personal Care,2026-08-21,Yes,2026-09-05,15
+1721,108,69,Grocery,2026-11-26,Yes,2026-12-09,13
+1722,339,74,Family Needs,2026-06-21,No,,
+1723,43,27,Personal Care,2026-10-14,Yes,2026-10-24,10
+1724,16,20,Family Needs,2026-11-07,No,,
+1725,290,56,Grocery,2026-09-15,No,,
+1726,385,37,Office,2026-10-21,No,,
+1727,193,69,Office,2026-07-04,Yes,2026-07-08,4
+1728,109,15,Family Needs,2026-10-25,Yes,2026-10-31,6
+1729,385,28,Kitchen,2026-09-16,No,,
+1730,164,47,Party Shopping,2026-11-09,Yes,2026-11-20,11
+1731,254,60,Personal Care,2026-08-13,No,,
+1732,81,23,Weekend Shopping,2026-09-11,Yes,2026-09-29,18
+1733,350,13,Party Shopping,2026-09-07,No,,
+1734,499,54,Monthly Essentials,2026-09-14,Yes,2026-09-15,1
+1735,307,74,Family Needs,2026-09-13,No,,
+1736,313,32,Personal Care,2026-07-13,No,,
+1737,351,12,Weekend Shopping,2026-09-03,Yes,2026-09-23,20
+1738,235,48,Kitchen,2026-08-01,Yes,2026-08-08,7
+1739,34,4,Personal Care,2026-07-23,No,,
+1740,126,88,Office,2026-11-02,No,,
+1741,408,23,Monthly Essentials,2026-09-27,No,,
+1742,412,78,Weekend Shopping,2026-08-24,No,,
+1743,126,60,Party Shopping,2026-06-18,Yes,2026-06-20,2
+1744,37,54,Monthly Essentials,2026-08-06,No,,
+1745,367,78,Grocery,2026-11-13,No,,
+1746,225,62,Party Shopping,2026-06-16,Yes,2026-06-29,13
+1747,367,66,Party Shopping,2026-11-09,No,,
+1748,404,16,Family Needs,2026-06-27,Yes,2026-07-06,9
+1749,212,85,Kitchen,2026-08-26,Yes,2026-09-03,8
+1750,50,43,Personal Care,2026-11-12,No,,
+1751,461,91,Kitchen,2026-10-04,No,,
+1752,176,38,Personal Care,2026-11-24,No,,
+1753,359,34,Kitchen,2026-10-24,Yes,2026-10-26,2
+1754,14,29,Kitchen,2026-09-03,No,,
+1755,158,92,Kitchen,2026-07-11,No,,
+1756,244,92,Weekend Shopping,2026-09-21,No,,
+1757,381,89,Office,2026-07-03,Yes,2026-07-13,10
+1758,15,28,Family Needs,2026-10-28,Yes,2026-11-16,19
+1759,370,66,Weekend Shopping,2026-10-11,Yes,2026-10-31,20
+1760,301,65,Party Shopping,2026-08-20,No,,
+1761,444,63,Personal Care,2026-11-13,Yes,2026-11-30,17
+1762,460,49,Monthly Essentials,2026-06-04,No,,
+1763,176,29,Office,2026-08-19,Yes,2026-08-24,5
+1764,183,64,Grocery,2026-09-26,No,,
+1765,431,96,Office,2026-10-13,No,,
+1766,187,86,Kitchen,2026-06-09,Yes,2026-06-13,4
+1767,284,69,Grocery,2026-10-16,No,,
+1768,229,73,Office,2026-10-12,Yes,2026-10-21,9
+1769,354,92,Monthly Essentials,2026-09-25,Yes,2026-10-15,20
+1770,381,25,Weekend Shopping,2026-06-17,No,,
+1771,268,39,Monthly Essentials,2026-06-16,Yes,2026-06-24,8
+1772,275,7,Monthly Essentials,2026-08-21,No,,
+1773,101,62,Personal Care,2026-06-30,No,,
+1774,102,13,Personal Care,2026-10-17,No,,
+1775,154,73,Monthly Essentials,2026-06-03,No,,
+1776,369,57,Kitchen,2026-11-12,Yes,2026-12-02,20
+1777,387,53,Kitchen,2026-11-01,Yes,2026-11-07,6
+1778,488,83,Kitchen,2026-08-16,Yes,2026-09-03,18
+1779,348,72,Personal Care,2026-10-07,Yes,2026-10-22,15
+1780,4,41,Weekend Shopping,2026-10-09,No,,
+1781,92,9,Monthly Essentials,2026-09-19,No,,
+1782,474,57,Weekend Shopping,2026-08-27,No,,
+1783,100,14,Personal Care,2026-07-30,Yes,2026-08-16,17
+1784,53,88,Office,2026-08-16,No,,
+1785,293,87,Weekend Shopping,2026-07-10,Yes,2026-07-17,7
+1786,313,85,Kitchen,2026-07-11,Yes,2026-07-28,17
+1787,118,34,Kitchen,2026-09-29,No,,
+1788,190,19,Kitchen,2026-08-18,Yes,2026-08-30,12
+1789,218,73,Grocery,2026-09-09,No,,
+1790,391,52,Family Needs,2026-06-15,No,,
+1791,331,18,Grocery,2026-09-25,No,,
+1792,420,91,Grocery,2026-07-22,Yes,2026-07-31,9
+1793,165,55,Personal Care,2026-09-06,Yes,2026-09-24,18
+1794,439,36,Personal Care,2026-06-28,Yes,2026-07-04,6
+1795,488,6,Party Shopping,2026-11-16,Yes,2026-12-02,16
+1796,31,13,Kitchen,2026-06-15,No,,
+1797,276,48,Monthly Essentials,2026-09-21,No,,
+1798,242,18,Kitchen,2026-06-19,Yes,2026-07-03,14
+1799,294,26,Kitchen,2026-10-22,Yes,2026-10-30,8
+1800,354,3,Monthly Essentials,2026-07-06,No,,
+1801,446,90,Family Needs,2026-08-20,No,,
+1802,464,58,Family Needs,2026-07-25,Yes,2026-08-09,15
+1803,171,26,Kitchen,2026-11-21,No,,
+1804,131,78,Personal Care,2026-06-06,Yes,2026-06-20,14
+1805,409,7,Party Shopping,2026-10-14,Yes,2026-10-31,17
+1806,17,65,Personal Care,2026-08-23,No,,
+1807,145,74,Monthly Essentials,2026-08-25,No,,
+1808,290,12,Weekend Shopping,2026-10-21,No,,
+1809,409,66,Personal Care,2026-06-23,No,,
+1810,313,84,Party Shopping,2026-07-19,No,,
+1811,419,36,Weekend Shopping,2026-09-28,No,,
+1812,334,43,Party Shopping,2026-06-19,Yes,2026-07-08,19
+1813,456,3,Grocery,2026-09-11,No,,
+1814,320,50,Kitchen,2026-06-05,Yes,2026-06-16,11
+1815,439,29,Family Needs,2026-10-28,No,,
+1816,273,59,Family Needs,2026-11-15,No,,
+1817,458,92,Weekend Shopping,2026-10-26,Yes,2026-10-31,5
+1818,52,4,Grocery,2026-10-15,No,,
+1819,400,17,Office,2026-10-17,Yes,2026-10-20,3
+1820,337,27,Office,2026-07-22,Yes,2026-08-05,14
+1821,396,46,Grocery,2026-06-07,Yes,2026-06-22,15
+1822,228,96,Office,2026-07-24,Yes,2026-08-08,15
+1823,106,49,Monthly Essentials,2026-10-30,No,,
+1824,497,23,Monthly Essentials,2026-10-08,No,,
+1825,84,27,Family Needs,2026-07-01,No,,
+1826,384,41,Kitchen,2026-09-15,Yes,2026-09-18,3
+1827,261,15,Monthly Essentials,2026-09-25,Yes,2026-10-08,13
+1828,182,47,Party Shopping,2026-08-19,No,,
+1829,485,84,Grocery,2026-08-16,Yes,2026-08-19,3
+1830,488,36,Grocery,2026-11-13,No,,
+1831,73,32,Weekend Shopping,2026-07-16,No,,
+1832,266,20,Grocery,2026-07-06,No,,
+1833,32,77,Kitchen,2026-07-24,No,,
+1834,191,80,Party Shopping,2026-09-15,No,,
+1835,89,23,Weekend Shopping,2026-10-11,No,,
+1836,187,15,Family Needs,2026-07-12,Yes,2026-07-19,7
+1837,466,34,Personal Care,2026-11-07,Yes,2026-11-08,1
+1838,18,95,Grocery,2026-07-07,No,,
+1839,277,49,Weekend Shopping,2026-11-01,No,,
+1840,81,13,Monthly Essentials,2026-06-04,Yes,2026-06-12,8
+1841,58,61,Personal Care,2026-09-27,No,,
+1842,69,78,Weekend Shopping,2026-11-11,Yes,2026-11-27,16
+1843,166,85,Personal Care,2026-10-17,Yes,2026-11-06,20
+1844,384,74,Office,2026-07-21,Yes,2026-08-07,17
+1845,338,11,Kitchen,2026-06-25,No,,
+1846,455,79,Family Needs,2026-06-27,Yes,2026-07-06,9
+1847,364,60,Kitchen,2026-11-19,No,,
+1848,390,17,Weekend Shopping,2026-08-23,No,,
+1849,297,95,Party Shopping,2026-06-09,No,,
+1850,324,7,Grocery,2026-07-21,No,,
+1851,74,82,Office,2026-06-09,No,,
+1852,83,51,Office,2026-08-22,Yes,2026-09-07,16
+1853,322,74,Office,2026-09-12,No,,
+1854,233,80,Monthly Essentials,2026-08-07,No,,
+1855,382,36,Family Needs,2026-11-15,No,,
+1856,173,24,Family Needs,2026-08-05,Yes,2026-08-21,16
+1857,391,67,Weekend Shopping,2026-08-07,Yes,2026-08-19,12
+1858,49,30,Monthly Essentials,2026-09-26,No,,
+1859,282,92,Party Shopping,2026-08-15,Yes,2026-08-27,12
+1860,284,11,Office,2026-10-08,Yes,2026-10-25,17
+1861,398,3,Family Needs,2026-07-21,No,,
+1862,270,77,Grocery,2026-07-09,No,,
+1863,410,69,Weekend Shopping,2026-09-01,No,,
+1864,192,21,Office,2026-06-26,No,,
+1865,432,92,Party Shopping,2026-07-09,No,,
+1866,440,26,Party Shopping,2026-08-11,Yes,2026-08-24,13
+1867,458,61,Kitchen,2026-09-28,Yes,2026-10-08,10
+1868,363,72,Party Shopping,2026-11-19,Yes,2026-12-09,20
+1869,72,19,Office,2026-10-02,No,,
+1870,201,21,Family Needs,2026-11-13,Yes,2026-12-02,19
+1871,37,29,Office,2026-08-10,Yes,2026-08-23,13
+1872,228,19,Kitchen,2026-11-20,Yes,2026-12-01,11
+1873,269,14,Office,2026-11-08,No,,
+1874,339,57,Personal Care,2026-08-16,No,,
+1875,79,10,Grocery,2026-08-27,No,,
+1876,196,33,Party Shopping,2026-06-29,No,,
+1877,300,22,Personal Care,2026-11-25,No,,
+1878,389,38,Monthly Essentials,2026-07-28,No,,
+1879,375,78,Office,2026-11-01,No,,
+1880,446,86,Party Shopping,2026-10-05,No,,
+1881,216,8,Family Needs,2026-11-11,Yes,2026-11-20,9
+1882,215,86,Monthly Essentials,2026-08-04,No,,
+1883,7,13,Kitchen,2026-10-03,Yes,2026-10-19,16
+1884,54,91,Party Shopping,2026-10-03,No,,
+1885,311,67,Monthly Essentials,2026-11-18,Yes,2026-12-08,20
+1886,61,31,Party Shopping,2026-09-01,No,,
+1887,418,51,Party Shopping,2026-06-11,Yes,2026-06-26,15
+1888,417,81,Grocery,2026-09-19,No,,
+1889,111,73,Party Shopping,2026-07-17,Yes,2026-07-28,11
+1890,411,4,Kitchen,2026-09-25,No,,
+1891,184,88,Grocery,2026-08-28,Yes,2026-09-05,8
+1892,167,59,Kitchen,2026-11-26,No,,
+1893,394,21,Family Needs,2026-07-24,No,,
+1894,380,52,Weekend Shopping,2026-08-29,No,,
+1895,433,64,Kitchen,2026-06-23,Yes,2026-07-13,20
+1896,52,93,Family Needs,2026-06-24,No,,
+1897,319,64,Personal Care,2026-11-11,Yes,2026-11-24,13
+1898,180,44,Weekend Shopping,2026-09-21,No,,
+1899,492,22,Weekend Shopping,2026-08-22,Yes,2026-08-29,7
+1900,204,80,Kitchen,2026-11-26,Yes,2026-11-29,3
+1901,75,92,Party Shopping,2026-08-27,No,,
+1902,69,50,Kitchen,2026-06-27,No,,
+1903,315,73,Office,2026-06-22,Yes,2026-06-30,8
+1904,281,20,Grocery,2026-11-18,No,,
+1905,254,29,Office,2026-11-25,No,,
+1906,449,29,Office,2026-09-21,No,,
+1907,75,2,Party Shopping,2026-08-15,Yes,2026-08-16,1
+1908,285,71,Kitchen,2026-10-24,Yes,2026-10-30,6
+1909,362,47,Family Needs,2026-08-07,No,,
+1910,461,31,Monthly Essentials,2026-08-21,No,,
+1911,491,89,Personal Care,2026-07-05,Yes,2026-07-13,8
+1912,275,41,Office,2026-06-27,No,,
+1913,369,45,Office,2026-11-27,No,,
+1914,239,35,Personal Care,2026-10-26,No,,
+1915,317,57,Monthly Essentials,2026-10-06,No,,
+1916,489,22,Grocery,2026-06-06,No,,
+1917,459,45,Weekend Shopping,2026-10-01,No,,
+1918,33,88,Personal Care,2026-08-30,Yes,2026-09-08,9
+1919,221,91,Office,2026-07-05,No,,
+1920,339,58,Kitchen,2026-08-19,No,,
+1921,170,30,Party Shopping,2026-10-24,No,,
+1922,74,70,Grocery,2026-11-22,No,,
+1923,498,79,Family Needs,2026-06-14,No,,
+1924,301,16,Party Shopping,2026-06-19,No,,
+1925,374,21,Grocery,2026-07-20,Yes,2026-08-09,20
+1926,333,64,Party Shopping,2026-07-01,Yes,2026-07-05,4
+1927,196,90,Kitchen,2026-09-30,Yes,2026-10-11,11
+1928,182,23,Personal Care,2026-09-19,No,,
+1929,47,24,Family Needs,2026-08-06,Yes,2026-08-14,8
+1930,232,13,Family Needs,2026-10-13,Yes,2026-11-02,20
+1931,49,22,Grocery,2026-06-01,No,,
+1932,3,42,Weekend Shopping,2026-09-07,Yes,2026-09-26,19
+1933,97,82,Office,2026-11-06,No,,
+1934,500,45,Weekend Shopping,2026-06-25,No,,
+1935,308,48,Personal Care,2026-10-25,Yes,2026-11-09,15
+1936,16,80,Monthly Essentials,2026-06-10,No,,
+1937,414,40,Personal Care,2026-08-14,Yes,2026-08-20,6
+1938,99,78,Family Needs,2026-07-10,No,,
+1939,481,59,Party Shopping,2026-11-16,No,,
+1940,402,58,Monthly Essentials,2026-06-30,No,,
+1941,174,32,Grocery,2026-09-02,Yes,2026-09-18,16
+1942,184,8,Monthly Essentials,2026-10-01,No,,
+1943,435,67,Family Needs,2026-06-24,No,,
+1944,467,68,Party Shopping,2026-10-23,No,,
+1945,388,70,Office,2026-11-12,Yes,2026-11-23,11
+1946,150,81,Grocery,2026-09-18,Yes,2026-10-01,13
+1947,252,14,Party Shopping,2026-08-22,No,,
+1948,157,64,Grocery,2026-08-13,No,,
+1949,271,6,Kitchen,2026-07-19,No,,
+1950,457,76,Family Needs,2026-10-25,No,,
+1951,379,7,Family Needs,2026-10-15,Yes,2026-10-25,10
+1952,494,69,Party Shopping,2026-06-14,No,,
+1953,379,66,Family Needs,2026-10-13,No,,
+1954,349,90,Monthly Essentials,2026-06-12,No,,
+1955,235,24,Monthly Essentials,2026-07-27,No,,
+1956,366,27,Party Shopping,2026-10-05,Yes,2026-10-25,20
+1957,106,89,Grocery,2026-06-30,No,,
+1958,464,31,Family Needs,2026-11-16,No,,
+1959,91,50,Weekend Shopping,2026-07-29,Yes,2026-08-11,13
+1960,307,32,Party Shopping,2026-11-07,No,,
+1961,349,74,Party Shopping,2026-11-08,Yes,2026-11-17,9
+1962,422,53,Grocery,2026-09-05,Yes,2026-09-12,7
+1963,321,89,Monthly Essentials,2026-09-10,Yes,2026-09-25,15
+1964,327,15,Family Needs,2026-06-30,Yes,2026-07-16,16
+1965,86,95,Party Shopping,2026-08-05,No,,
+1966,146,69,Monthly Essentials,2026-08-13,Yes,2026-09-01,19
+1967,203,26,Personal Care,2026-06-23,No,,
+1968,103,17,Personal Care,2026-10-11,No,,
+1969,246,14,Monthly Essentials,2026-06-29,Yes,2026-07-12,13
+1970,124,56,Office,2026-11-05,Yes,2026-11-10,5
+1971,394,27,Kitchen,2026-08-21,Yes,2026-08-22,1
+1972,472,23,Grocery,2026-08-29,No,,
+1973,201,49,Monthly Essentials,2026-07-10,No,,
+1974,116,24,Monthly Essentials,2026-11-08,Yes,2026-11-23,15
+1975,432,32,Weekend Shopping,2026-11-02,No,,
+1976,74,71,Weekend Shopping,2026-08-21,Yes,2026-08-24,3
+1977,371,42,Party Shopping,2026-09-03,Yes,2026-09-07,4
+1978,2,73,Monthly Essentials,2026-06-15,No,,
+1979,439,29,Personal Care,2026-11-08,Yes,2026-11-26,18
+1980,480,74,Office,2026-11-13,Yes,2026-12-03,20
+1981,350,63,Personal Care,2026-11-04,Yes,2026-11-19,15
+1982,275,47,Weekend Shopping,2026-07-28,Yes,2026-08-03,6
+1983,189,95,Kitchen,2026-06-06,No,,
+1984,74,6,Weekend Shopping,2026-09-26,Yes,2026-10-14,18
+1985,431,81,Personal Care,2026-08-30,Yes,2026-09-12,13
+1986,376,58,Personal Care,2026-09-22,No,,
+1987,187,44,Weekend Shopping,2026-08-23,No,,
+1988,371,68,Personal Care,2026-07-23,Yes,2026-07-30,7
+1989,281,53,Office,2026-09-04,No,,
+1990,202,19,Grocery,2026-09-29,Yes,2026-10-14,15
+1991,103,28,Weekend Shopping,2026-08-26,No,,
+1992,338,50,Personal Care,2026-10-11,No,,
+1993,13,89,Party Shopping,2026-07-23,Yes,2026-07-29,6
+1994,295,26,Personal Care,2026-07-09,Yes,2026-07-24,15
+1995,162,79,Grocery,2026-11-04,No,,
+1996,347,13,Monthly Essentials,2026-06-17,Yes,2026-06-18,1
+1997,161,46,Office,2026-07-22,No,,
+1998,158,9,Family Needs,2026-09-01,No,,
+1999,299,58,Monthly Essentials,2026-09-30,Yes,2026-10-06,6
+2000,411,72,Weekend Shopping,2026-07-11,No,,
+2001,84,54,Party Shopping,2026-07-01,No,,
+2002,82,72,Kitchen,2026-10-20,No,,
+2003,354,32,Weekend Shopping,2026-06-30,No,,
+2004,466,57,Weekend Shopping,2026-06-25,No,,
+2005,451,49,Personal Care,2026-09-30,Yes,2026-10-06,6
+2006,300,74,Grocery,2026-07-17,No,,
+2007,497,63,Family Needs,2026-11-19,No,,
+2008,44,48,Weekend Shopping,2026-06-18,Yes,2026-07-08,20
+2009,57,86,Family Needs,2026-07-21,No,,
+2010,150,92,Weekend Shopping,2026-06-22,Yes,2026-07-08,16
+2011,187,33,Grocery,2026-07-20,No,,
+2012,251,41,Personal Care,2026-07-13,Yes,2026-07-21,8
+2013,222,44,Grocery,2026-06-11,Yes,2026-06-26,15
+2014,67,80,Grocery,2026-06-03,No,,
+2015,155,49,Party Shopping,2026-07-22,No,,
+2016,199,5,Party Shopping,2026-11-25,No,,
+2017,172,47,Party Shopping,2026-10-10,No,,
+2018,209,91,Personal Care,2026-08-27,Yes,2026-09-08,12
+2019,145,35,Monthly Essentials,2026-06-22,No,,
+2020,413,86,Monthly Essentials,2026-08-21,No,,
+2021,12,17,Weekend Shopping,2026-06-28,Yes,2026-07-04,6
+2022,293,31,Grocery,2026-06-23,No,,
+2023,371,2,Monthly Essentials,2026-08-27,No,,
+2024,80,75,Personal Care,2026-11-08,No,,
+2025,324,43,Office,2026-11-18,Yes,2026-11-22,4
+2026,471,96,Office,2026-06-21,Yes,2026-06-24,3
+2027,108,7,Office,2026-06-21,Yes,2026-07-08,17
+2028,363,64,Personal Care,2026-11-02,No,,
+2029,148,94,Grocery,2026-11-21,No,,
+2030,227,24,Weekend Shopping,2026-10-08,Yes,2026-10-14,6
+2031,450,70,Monthly Essentials,2026-10-26,No,,
+2032,360,10,Party Shopping,2026-07-19,Yes,2026-07-30,11
+2033,326,76,Kitchen,2026-08-15,No,,
+2034,112,55,Office,2026-08-04,No,,
+2035,272,1,Kitchen,2026-11-15,No,,
+2036,145,21,Party Shopping,2026-06-17,Yes,2026-07-03,16
+2037,41,87,Monthly Essentials,2026-09-23,Yes,2026-09-26,3
+2038,292,34,Personal Care,2026-08-21,No,,
+2039,190,64,Family Needs,2026-08-16,No,,
+2040,280,96,Party Shopping,2026-07-19,Yes,2026-07-25,6
+2041,239,60,Party Shopping,2026-08-23,No,,
+2042,238,60,Weekend Shopping,2026-09-24,Yes,2026-10-07,13
+2043,404,41,Weekend Shopping,2026-09-06,No,,
+2044,205,47,Weekend Shopping,2026-06-04,No,,
+2045,78,76,Weekend Shopping,2026-07-18,Yes,2026-07-19,1
+2046,139,44,Kitchen,2026-07-21,Yes,2026-08-03,13
+2047,117,25,Personal Care,2026-10-03,No,,
+2048,222,56,Grocery,2026-07-11,No,,
+2049,181,14,Personal Care,2026-06-18,No,,
+2050,312,38,Personal Care,2026-07-07,Yes,2026-07-23,16
+2051,7,40,Weekend Shopping,2026-11-09,Yes,2026-11-19,10
+2052,272,37,Weekend Shopping,2026-08-27,No,,
+2053,190,73,Office,2026-09-30,Yes,2026-10-15,15
+2054,108,42,Family Needs,2026-11-24,Yes,2026-12-05,11
+2055,296,43,Office,2026-11-26,Yes,2026-12-01,5
+2056,417,32,Grocery,2026-10-04,No,,
+2057,161,66,Personal Care,2026-06-25,Yes,2026-06-30,5
+2058,237,78,Weekend Shopping,2026-08-08,Yes,2026-08-21,13
+2059,187,8,Personal Care,2026-09-30,Yes,2026-10-01,1
+2060,288,19,Personal Care,2026-08-09,No,,
+2061,161,78,Grocery,2026-10-16,Yes,2026-10-23,7
+2062,377,25,Kitchen,2026-10-13,No,,
+2063,128,49,Grocery,2026-09-17,No,,
+2064,153,34,Monthly Essentials,2026-07-23,Yes,2026-07-24,1
+2065,189,60,Party Shopping,2026-07-08,No,,
+2066,285,21,Family Needs,2026-10-31,No,,
+2067,56,36,Weekend Shopping,2026-09-25,Yes,2026-10-15,20
+2068,301,17,Monthly Essentials,2026-08-22,No,,
+2069,27,42,Weekend Shopping,2026-10-20,No,,
+2070,162,93,Party Shopping,2026-09-05,No,,
+2071,331,42,Family Needs,2026-09-10,Yes,2026-09-30,20
+2072,290,73,Grocery,2026-06-11,No,,
+2073,371,92,Monthly Essentials,2026-07-04,No,,
+2074,72,20,Office,2026-06-27,No,,
+2075,48,47,Personal Care,2026-08-31,Yes,2026-09-14,14
+2076,206,70,Party Shopping,2026-06-16,No,,
+2077,356,20,Office,2026-10-19,No,,
+2078,230,21,Kitchen,2026-06-30,No,,
+2079,117,31,Grocery,2026-06-15,No,,
+2080,27,83,Office,2026-11-26,Yes,2026-11-28,2
+2081,487,20,Family Needs,2026-07-06,No,,
+2082,199,82,Grocery,2026-11-19,Yes,2026-12-06,17
+2083,343,92,Grocery,2026-11-26,Yes,2026-11-29,3
+2084,107,30,Family Needs,2026-10-28,No,,
+2085,360,11,Weekend Shopping,2026-10-27,No,,
+2086,204,28,Kitchen,2026-07-09,No,,
+2087,137,72,Weekend Shopping,2026-09-04,No,,
+2088,428,26,Party Shopping,2026-11-03,Yes,2026-11-10,7
+2089,62,84,Personal Care,2026-08-13,No,,
+2090,309,84,Party Shopping,2026-11-19,No,,
+2091,105,24,Kitchen,2026-06-29,Yes,2026-07-03,4
+2092,427,89,Personal Care,2026-11-20,Yes,2026-12-09,19
+2093,28,83,Kitchen,2026-11-08,Yes,2026-11-17,9
+2094,7,28,Office,2026-07-17,No,,
+2095,256,93,Personal Care,2026-09-08,No,,
+2096,201,78,Personal Care,2026-07-13,No,,
+2097,288,77,Office,2026-08-13,No,,
+2098,40,79,Grocery,2026-06-28,No,,
+2099,318,7,Grocery,2026-06-03,No,,
+2100,156,57,Weekend Shopping,2026-09-06,No,,
+2101,50,7,Monthly Essentials,2026-09-03,Yes,2026-09-10,7
+2102,144,54,Weekend Shopping,2026-11-15,Yes,2026-11-17,2
+2103,135,59,Grocery,2026-07-23,Yes,2026-07-24,1
+2104,58,12,Kitchen,2026-07-31,No,,
+2105,139,3,Monthly Essentials,2026-11-27,No,,
+2106,375,89,Grocery,2026-07-10,Yes,2026-07-23,13
+2107,255,56,Kitchen,2026-09-28,Yes,2026-09-29,1
+2108,364,37,Office,2026-10-01,Yes,2026-10-10,9
+2109,121,89,Grocery,2026-09-23,No,,
+2110,448,73,Personal Care,2026-09-20,No,,
+2111,406,30,Personal Care,2026-06-13,Yes,2026-06-16,3
+2112,279,21,Family Needs,2026-09-04,No,,
+2113,372,71,Party Shopping,2026-10-17,Yes,2026-10-29,12
+2114,191,60,Weekend Shopping,2026-08-28,No,,
+2115,417,87,Party Shopping,2026-10-05,No,,
+2116,185,56,Weekend Shopping,2026-06-23,No,,
+2117,171,46,Weekend Shopping,2026-11-13,No,,
+2118,456,6,Weekend Shopping,2026-08-27,No,,
+2119,307,44,Weekend Shopping,2026-10-17,No,,
+2120,436,74,Office,2026-07-06,No,,
+2121,423,89,Monthly Essentials,2026-09-10,Yes,2026-09-24,14
+2122,295,1,Weekend Shopping,2026-08-05,No,,
+2123,379,30,Family Needs,2026-11-23,No,,
+2124,251,15,Family Needs,2026-08-23,No,,
+2125,281,51,Party Shopping,2026-10-12,No,,
+2126,113,74,Monthly Essentials,2026-08-29,No,,
+2127,116,82,Office,2026-11-12,No,,
+2128,367,1,Personal Care,2026-10-08,No,,
+2129,74,10,Office,2026-11-25,No,,
+2130,387,52,Monthly Essentials,2026-08-17,No,,
+2131,488,25,Weekend Shopping,2026-06-07,Yes,2026-06-17,10
+2132,424,88,Family Needs,2026-06-19,Yes,2026-07-04,15
+2133,339,52,Kitchen,2026-06-03,No,,
+2134,176,50,Personal Care,2026-09-04,Yes,2026-09-18,14
+2135,17,64,Monthly Essentials,2026-08-21,Yes,2026-08-30,9
+2136,217,89,Family Needs,2026-10-29,No,,
+2137,486,88,Party Shopping,2026-10-04,No,,
+2138,20,63,Monthly Essentials,2026-06-23,No,,
+2139,43,32,Personal Care,2026-11-09,No,,
+2140,195,96,Kitchen,2026-08-26,Yes,2026-09-11,16
+2141,283,91,Weekend Shopping,2026-09-24,Yes,2026-10-08,14
+2142,304,87,Personal Care,2026-06-08,No,,
+2143,36,65,Party Shopping,2026-07-17,No,,
+2144,411,69,Kitchen,2026-11-15,No,,
+2145,300,16,Weekend Shopping,2026-11-26,No,,
+2146,462,58,Grocery,2026-08-15,No,,
+2147,149,77,Weekend Shopping,2026-08-24,No,,
+2148,496,10,Office,2026-07-21,No,,
+2149,3,50,Party Shopping,2026-11-15,No,,
+2150,23,39,Personal Care,2026-07-17,Yes,2026-08-05,19
+2151,414,90,Personal Care,2026-06-30,Yes,2026-07-05,5
+2152,255,47,Family Needs,2026-11-26,No,,
+2153,326,70,Party Shopping,2026-06-28,Yes,2026-06-30,2
+2154,35,9,Office,2026-06-23,Yes,2026-07-05,12
+2155,465,18,Personal Care,2026-07-01,Yes,2026-07-04,3
+2156,338,70,Personal Care,2026-09-04,No,,
+2157,35,85,Monthly Essentials,2026-07-18,No,,
+2158,287,6,Grocery,2026-07-30,Yes,2026-08-09,10
+2159,191,8,Monthly Essentials,2026-10-09,No,,
+2160,269,86,Grocery,2026-08-08,No,,
+2161,156,18,Personal Care,2026-08-21,No,,
+2162,411,28,Personal Care,2026-07-19,No,,
+2163,246,28,Weekend Shopping,2026-06-26,Yes,2026-07-14,18
+2164,440,66,Monthly Essentials,2026-07-08,No,,
+2165,245,66,Office,2026-06-19,No,,
+2166,321,53,Grocery,2026-11-08,Yes,2026-11-16,8
+2167,386,56,Party Shopping,2026-06-11,No,,
+2168,15,25,Family Needs,2026-11-19,No,,
+2169,201,58,Office,2026-11-03,No,,
+2170,384,17,Party Shopping,2026-10-01,No,,
+2171,331,82,Monthly Essentials,2026-07-11,Yes,2026-07-28,17
+2172,222,77,Grocery,2026-06-08,Yes,2026-06-26,18
+2173,190,36,Kitchen,2026-09-09,Yes,2026-09-20,11
+2174,438,61,Weekend Shopping,2026-10-09,No,,
+2175,241,44,Family Needs,2026-06-24,No,,
+2176,273,67,Kitchen,2026-11-05,No,,
+2177,323,35,Office,2026-08-09,No,,
+2178,161,42,Family Needs,2026-08-01,No,,
+2179,498,40,Party Shopping,2026-07-20,No,,
+2180,143,34,Office,2026-11-01,No,,
+2181,394,79,Kitchen,2026-07-06,No,,
+2182,98,88,Personal Care,2026-11-23,Yes,2026-12-11,18
+2183,298,67,Family Needs,2026-07-15,Yes,2026-07-25,10
+2184,94,83,Personal Care,2026-10-06,Yes,2026-10-19,13
+2185,276,44,Party Shopping,2026-07-08,Yes,2026-07-11,3
+2186,417,71,Personal Care,2026-09-09,Yes,2026-09-16,7
+2187,479,71,Party Shopping,2026-10-28,No,,
+2188,102,35,Personal Care,2026-06-14,No,,
+2189,305,14,Family Needs,2026-09-30,No,,
+2190,62,18,Kitchen,2026-07-17,Yes,2026-07-19,2
+2191,56,71,Grocery,2026-10-16,Yes,2026-10-20,4
+2192,457,85,Kitchen,2026-10-24,Yes,2026-10-28,4
+2193,221,31,Office,2026-07-30,Yes,2026-08-19,20
+2194,78,3,Office,2026-10-20,No,,
+2195,88,50,Grocery,2026-07-23,No,,
+2196,489,21,Kitchen,2026-06-24,No,,
+2197,415,63,Personal Care,2026-07-02,Yes,2026-07-16,14
+2198,313,22,Kitchen,2026-07-15,No,,
+2199,55,1,Party Shopping,2026-08-01,No,,
+2200,297,77,Office,2026-09-07,No,,
+2201,52,11,Personal Care,2026-09-13,No,,
+2202,77,95,Party Shopping,2026-09-07,No,,
+2203,12,70,Family Needs,2026-08-09,Yes,2026-08-25,16
+2204,11,64,Personal Care,2026-10-08,No,,
+2205,311,27,Party Shopping,2026-09-04,Yes,2026-09-07,3
+2206,107,28,Office,2026-08-20,Yes,2026-08-29,9
+2207,195,77,Office,2026-09-29,No,,
+2208,331,90,Grocery,2026-06-17,No,,
+2209,200,74,Personal Care,2026-08-28,Yes,2026-08-29,1
+2210,466,55,Family Needs,2026-06-23,No,,
+2211,118,35,Kitchen,2026-09-02,No,,
+2212,246,21,Party Shopping,2026-07-14,Yes,2026-08-02,19
+2213,187,7,Kitchen,2026-07-29,Yes,2026-08-04,6
+2214,41,68,Kitchen,2026-08-05,No,,
+2215,73,56,Weekend Shopping,2026-08-11,No,,
+2216,118,53,Grocery,2026-08-19,Yes,2026-08-22,3
+2217,294,84,Office,2026-07-16,Yes,2026-08-01,16
+2218,9,26,Monthly Essentials,2026-11-02,No,,
+2219,396,13,Weekend Shopping,2026-08-08,No,,
+2220,274,16,Family Needs,2026-09-27,No,,
+2221,371,23,Weekend Shopping,2026-07-10,No,,
+2222,126,2,Kitchen,2026-08-23,No,,
+2223,263,3,Grocery,2026-10-07,No,,
+2224,202,18,Family Needs,2026-07-13,Yes,2026-07-18,5
+2225,294,36,Weekend Shopping,2026-09-27,Yes,2026-10-03,6
+2226,328,78,Kitchen,2026-06-11,Yes,2026-06-24,13
+2227,236,68,Party Shopping,2026-10-04,No,,
+2228,282,70,Personal Care,2026-09-12,No,,
+2229,493,83,Party Shopping,2026-10-12,Yes,2026-11-01,20
+2230,86,65,Family Needs,2026-10-06,Yes,2026-10-08,2
+2231,432,39,Party Shopping,2026-06-30,No,,
+2232,196,49,Grocery,2026-08-16,Yes,2026-08-27,11
+2233,111,56,Personal Care,2026-11-11,No,,
+2234,443,76,Kitchen,2026-07-06,No,,
+2235,203,32,Personal Care,2026-07-07,Yes,2026-07-15,8
+2236,205,60,Party Shopping,2026-09-28,Yes,2026-10-05,7
+2237,492,7,Monthly Essentials,2026-08-02,No,,
+2238,152,48,Kitchen,2026-06-14,Yes,2026-06-27,13
+2239,182,66,Personal Care,2026-10-20,No,,
+2240,35,46,Monthly Essentials,2026-08-24,Yes,2026-09-10,17
+2241,75,96,Grocery,2026-10-22,Yes,2026-10-23,1
+2242,230,52,Personal Care,2026-08-25,No,,
+2243,178,80,Personal Care,2026-08-23,Yes,2026-08-25,2
+2244,222,66,Monthly Essentials,2026-06-10,No,,
+2245,496,20,Weekend Shopping,2026-09-05,Yes,2026-09-20,15
+2246,391,26,Kitchen,2026-06-24,No,,
+2247,202,29,Party Shopping,2026-06-11,Yes,2026-06-12,1
+2248,292,25,Weekend Shopping,2026-09-15,No,,
+2249,219,71,Weekend Shopping,2026-10-24,Yes,2026-10-31,7
+2250,440,5,Monthly Essentials,2026-08-07,No,,
+2251,113,60,Personal Care,2026-07-13,No,,
+2252,59,11,Family Needs,2026-11-19,No,,
+2253,316,94,Kitchen,2026-09-04,No,,
+2254,296,72,Family Needs,2026-10-19,No,,
+2255,324,86,Kitchen,2026-08-23,No,,
+2256,413,77,Kitchen,2026-08-02,Yes,2026-08-03,1
+2257,169,66,Party Shopping,2026-08-16,No,,
+2258,27,76,Kitchen,2026-08-16,No,,
+2259,55,19,Weekend Shopping,2026-10-21,Yes,2026-10-29,8
+2260,475,13,Family Needs,2026-11-26,No,,
+2261,212,96,Office,2026-09-11,Yes,2026-09-22,11
+2262,84,80,Monthly Essentials,2026-10-02,No,,
+2263,397,41,Party Shopping,2026-06-15,No,,
+2264,79,54,Family Needs,2026-09-30,No,,
+2265,481,48,Office,2026-07-01,Yes,2026-07-17,16
+2266,208,56,Weekend Shopping,2026-07-31,Yes,2026-08-20,20
+2267,307,42,Monthly Essentials,2026-10-30,Yes,2026-11-02,3
+2268,408,95,Weekend Shopping,2026-06-03,Yes,2026-06-17,14
+2269,27,1,Family Needs,2026-09-29,Yes,2026-10-04,5
+2270,342,74,Grocery,2026-06-23,Yes,2026-07-03,10
+2271,299,11,Office,2026-06-11,No,,
+2272,405,22,Personal Care,2026-09-09,No,,
+2273,56,35,Weekend Shopping,2026-10-30,Yes,2026-11-16,17
+2274,34,60,Weekend Shopping,2026-11-03,No,,
+2275,330,90,Grocery,2026-10-10,Yes,2026-10-30,20
+2276,202,44,Kitchen,2026-11-18,Yes,2026-12-04,16
+2277,151,84,Party Shopping,2026-11-28,No,,
+2278,414,31,Office,2026-08-19,No,,
+2279,124,60,Grocery,2026-07-09,No,,
+2280,41,8,Weekend Shopping,2026-10-29,No,,
+2281,56,58,Family Needs,2026-07-03,Yes,2026-07-06,3
+2282,297,31,Monthly Essentials,2026-10-02,No,,
+2283,477,83,Kitchen,2026-11-19,No,,
+2284,480,91,Grocery,2026-07-24,No,,
+2285,187,21,Kitchen,2026-09-09,Yes,2026-09-12,3
+2286,200,24,Party Shopping,2026-10-06,No,,
+2287,402,91,Family Needs,2026-08-22,No,,
+2288,382,91,Weekend Shopping,2026-09-17,No,,
+2289,4,22,Grocery,2026-08-04,Yes,2026-08-20,16
+2290,453,18,Personal Care,2026-08-01,No,,
+2291,491,36,Party Shopping,2026-07-22,No,,
+2292,20,2,Grocery,2026-11-09,Yes,2026-11-20,11
+2293,54,62,Party Shopping,2026-10-07,Yes,2026-10-12,5
+2294,456,68,Office,2026-10-30,No,,
+2295,223,94,Kitchen,2026-06-11,No,,
+2296,276,59,Personal Care,2026-06-12,Yes,2026-06-13,1
+2297,425,54,Office,2026-09-27,No,,
+2298,473,41,Office,2026-10-30,Yes,2026-11-08,9
+2299,343,75,Office,2026-08-05,Yes,2026-08-06,1
+2300,488,58,Kitchen,2026-08-01,Yes,2026-08-15,14
+2301,275,70,Office,2026-09-15,Yes,2026-09-25,10
+2302,274,85,Family Needs,2026-10-20,Yes,2026-10-24,4
+2303,91,70,Office,2026-11-15,Yes,2026-11-29,14
+2304,485,62,Kitchen,2026-06-06,Yes,2026-06-15,9
+2305,213,21,Kitchen,2026-09-18,Yes,2026-09-24,6
+2306,159,70,Monthly Essentials,2026-11-25,No,,
+2307,40,20,Grocery,2026-07-02,No,,
+2308,489,31,Kitchen,2026-06-17,No,,
+2309,495,23,Family Needs,2026-06-30,No,,
+2310,63,65,Monthly Essentials,2026-10-15,No,,
+2311,247,86,Family Needs,2026-11-05,Yes,2026-11-08,3
+2312,91,50,Kitchen,2026-07-19,No,,
+2313,372,3,Monthly Essentials,2026-11-06,No,,
+2314,33,21,Family Needs,2026-07-08,Yes,2026-07-25,17
+2315,16,44,Party Shopping,2026-09-08,No,,
+2316,54,66,Office,2026-09-12,Yes,2026-09-19,7
+2317,428,85,Personal Care,2026-10-05,No,,
+2318,199,42,Office,2026-11-12,Yes,2026-11-14,2
+2319,2,74,Grocery,2026-08-30,Yes,2026-09-11,12
+2320,497,41,Personal Care,2026-09-27,Yes,2026-10-01,4
+2321,254,71,Family Needs,2026-10-20,No,,
+2322,62,80,Family Needs,2026-06-09,No,,
+2323,126,40,Kitchen,2026-10-16,No,,
+2324,20,14,Weekend Shopping,2026-06-15,No,,
+2325,357,34,Kitchen,2026-09-06,No,,
+2326,175,53,Family Needs,2026-06-20,No,,
+2327,39,64,Party Shopping,2026-08-18,No,,
+2328,12,4,Family Needs,2026-08-12,Yes,2026-08-15,3
+2329,59,13,Family Needs,2026-08-07,No,,
+2330,455,16,Monthly Essentials,2026-07-17,No,,
+2331,119,7,Kitchen,2026-08-10,Yes,2026-08-28,18
+2332,52,52,Kitchen,2026-06-11,Yes,2026-06-25,14
+2333,380,7,Personal Care,2026-07-06,Yes,2026-07-25,19
+2334,22,61,Office,2026-09-01,Yes,2026-09-05,4
+2335,42,43,Personal Care,2026-07-14,Yes,2026-08-02,19
+2336,112,94,Grocery,2026-07-03,Yes,2026-07-20,17
+2337,349,67,Office,2026-08-09,No,,
+2338,253,71,Kitchen,2026-07-31,Yes,2026-08-07,7
+2339,177,18,Party Shopping,2026-09-12,No,,
+2340,467,75,Kitchen,2026-08-13,Yes,2026-09-02,20
+2341,332,78,Kitchen,2026-10-06,Yes,2026-10-10,4
+2342,354,17,Weekend Shopping,2026-10-26,Yes,2026-11-14,19
+2343,365,6,Grocery,2026-07-30,No,,
+2344,375,10,Grocery,2026-11-23,Yes,2026-11-30,7
+2345,334,27,Grocery,2026-06-29,No,,
+2346,212,14,Family Needs,2026-08-27,Yes,2026-09-01,5
+2347,167,53,Kitchen,2026-09-05,No,,
+2348,228,85,Weekend Shopping,2026-07-22,No,,
+2349,106,50,Kitchen,2026-08-30,Yes,2026-09-07,8
+2350,224,7,Grocery,2026-08-04,Yes,2026-08-19,15
+2351,384,59,Weekend Shopping,2026-10-13,Yes,2026-10-27,14
+2352,146,36,Grocery,2026-07-16,No,,
+2353,243,68,Family Needs,2026-06-17,No,,
+2354,156,83,Kitchen,2026-07-28,No,,
+2355,430,62,Weekend Shopping,2026-09-08,Yes,2026-09-24,16
+2356,9,31,Office,2026-11-13,No,,
+2357,486,71,Weekend Shopping,2026-10-09,No,,
+2358,57,35,Monthly Essentials,2026-09-03,No,,
+2359,140,85,Party Shopping,2026-10-11,No,,
+2360,11,9,Monthly Essentials,2026-10-24,No,,
+2361,124,37,Weekend Shopping,2026-08-04,No,,
+2362,322,64,Family Needs,2026-10-14,Yes,2026-10-15,1
+2363,1,62,Kitchen,2026-07-20,Yes,2026-07-30,10
+2364,301,26,Party Shopping,2026-11-08,Yes,2026-11-28,20
+2365,242,80,Family Needs,2026-07-21,No,,
+2366,24,44,Office,2026-08-31,No,,
+2367,273,43,Monthly Essentials,2026-10-05,Yes,2026-10-23,18
+2368,290,18,Party Shopping,2026-07-30,Yes,2026-08-01,2
+2369,274,95,Office,2026-06-19,Yes,2026-07-07,18
+2370,378,28,Party Shopping,2026-07-26,Yes,2026-07-28,2
+2371,62,36,Personal Care,2026-11-12,No,,
+2372,458,27,Kitchen,2026-06-24,Yes,2026-07-02,8
+2373,406,77,Office,2026-10-16,No,,
+2374,23,61,Office,2026-11-24,Yes,2026-11-30,6
+2375,408,53,Grocery,2026-08-24,Yes,2026-09-10,17
+2376,219,90,Personal Care,2026-08-29,No,,
+2377,285,90,Office,2026-07-13,Yes,2026-07-17,4
+2378,89,21,Weekend Shopping,2026-07-30,No,,
+2379,101,27,Office,2026-07-21,Yes,2026-08-05,15
+2380,317,18,Party Shopping,2026-06-09,Yes,2026-06-16,7
+2381,79,89,Weekend Shopping,2026-06-17,No,,
+2382,243,49,Monthly Essentials,2026-06-02,Yes,2026-06-04,2
+2383,44,21,Office,2026-07-25,Yes,2026-08-08,14
+2384,359,22,Family Needs,2026-08-08,No,,
+2385,454,58,Office,2026-07-11,No,,
+2386,489,58,Kitchen,2026-09-17,Yes,2026-10-02,15
+2387,311,28,Monthly Essentials,2026-06-06,Yes,2026-06-16,10
+2388,448,75,Weekend Shopping,2026-06-30,No,,
+2389,462,7,Monthly Essentials,2026-07-29,No,,
+2390,287,62,Weekend Shopping,2026-09-10,No,,
+2391,28,67,Office,2026-07-17,No,,
+2392,410,17,Monthly Essentials,2026-08-01,No,,
+2393,124,69,Kitchen,2026-10-20,Yes,2026-11-06,17
+2394,171,71,Grocery,2026-07-05,No,,
+2395,219,63,Personal Care,2026-07-23,Yes,2026-07-31,8
+2396,37,55,Family Needs,2026-11-10,No,,
+2397,236,22,Grocery,2026-11-22,Yes,2026-12-03,11
+2398,400,4,Grocery,2026-11-18,No,,
+2399,43,42,Monthly Essentials,2026-07-13,No,,
+2400,43,89,Monthly Essentials,2026-07-19,No,,
+2401,225,69,Family Needs,2026-11-13,Yes,2026-12-03,20
+2402,161,49,Kitchen,2026-11-20,Yes,2026-12-07,17
+2403,82,11,Personal Care,2026-10-18,No,,
+2404,148,63,Monthly Essentials,2026-10-12,No,,
+2405,78,23,Grocery,2026-08-13,No,,
+2406,161,49,Grocery,2026-09-29,Yes,2026-10-13,14
+2407,307,7,Office,2026-06-01,No,,
+2408,194,45,Party Shopping,2026-11-10,Yes,2026-11-22,12
+2409,194,73,Family Needs,2026-07-02,Yes,2026-07-07,5
+2410,190,85,Grocery,2026-06-13,Yes,2026-06-19,6
+2411,321,61,Family Needs,2026-06-14,Yes,2026-06-22,8
+2412,403,3,Weekend Shopping,2026-11-07,No,,
+2413,65,9,Kitchen,2026-06-16,Yes,2026-06-18,2
+2414,428,68,Grocery,2026-07-02,No,,
+2415,134,81,Weekend Shopping,2026-08-06,No,,
+2416,281,61,Office,2026-10-06,No,,
+2417,265,25,Office,2026-09-05,No,,
+2418,271,83,Weekend Shopping,2026-06-17,Yes,2026-06-25,8
+2419,357,52,Weekend Shopping,2026-11-06,No,,
+2420,268,74,Kitchen,2026-11-13,No,,
+2421,209,39,Party Shopping,2026-07-11,Yes,2026-07-25,14
+2422,110,14,Kitchen,2026-08-19,No,,
+2423,43,60,Kitchen,2026-06-11,No,,
+2424,485,81,Weekend Shopping,2026-09-08,Yes,2026-09-20,12
+2425,207,30,Office,2026-11-20,Yes,2026-12-08,18
+2426,492,94,Personal Care,2026-06-06,No,,
+2427,194,40,Kitchen,2026-09-14,No,,
+2428,263,74,Grocery,2026-10-14,No,,
+2429,396,29,Family Needs,2026-06-28,Yes,2026-07-16,18
+2430,372,18,Grocery,2026-09-28,No,,
+2431,345,89,Office,2026-08-27,Yes,2026-08-29,2
+2432,470,28,Family Needs,2026-07-24,No,,
+2433,100,68,Monthly Essentials,2026-08-05,No,,
+2434,203,94,Monthly Essentials,2026-07-27,No,,
+2435,47,13,Personal Care,2026-11-01,No,,
+2436,370,16,Office,2026-10-18,Yes,2026-10-25,7
+2437,253,28,Party Shopping,2026-07-05,Yes,2026-07-16,11
+2438,438,5,Personal Care,2026-06-20,No,,
+2439,389,42,Grocery,2026-09-08,Yes,2026-09-25,17
+2440,467,24,Grocery,2026-07-24,No,,
+2441,301,14,Monthly Essentials,2026-08-25,No,,
+2442,282,17,Grocery,2026-10-31,No,,
+2443,126,89,Monthly Essentials,2026-09-05,Yes,2026-09-21,16
+2444,492,93,Office,2026-09-15,No,,
+2445,201,48,Weekend Shopping,2026-11-04,No,,
+2446,454,8,Monthly Essentials,2026-06-20,Yes,2026-06-23,3
+2447,277,38,Grocery,2026-07-28,Yes,2026-08-14,17
+2448,301,18,Monthly Essentials,2026-09-13,Yes,2026-09-19,6
+2449,123,58,Kitchen,2026-08-10,Yes,2026-08-24,14
+2450,479,5,Kitchen,2026-11-26,No,,
+2451,67,67,Family Needs,2026-10-16,Yes,2026-10-18,2
+2452,122,64,Grocery,2026-09-10,No,,
+2453,266,89,Grocery,2026-06-25,Yes,2026-06-30,5
+2454,484,25,Office,2026-06-15,No,,
+2455,185,50,Monthly Essentials,2026-09-10,No,,
+2456,419,4,Office,2026-09-07,Yes,2026-09-22,15
+2457,52,23,Party Shopping,2026-07-26,Yes,2026-08-06,11
+2458,261,71,Monthly Essentials,2026-07-17,No,,
+2459,249,81,Weekend Shopping,2026-10-03,No,,
+2460,319,27,Kitchen,2026-10-13,No,,
+2461,384,6,Office,2026-06-30,Yes,2026-07-18,18
+2462,176,39,Weekend Shopping,2026-07-31,No,,
+2463,209,6,Monthly Essentials,2026-07-25,Yes,2026-08-06,12
+2464,342,48,Grocery,2026-09-24,No,,
+2465,311,7,Kitchen,2026-10-08,Yes,2026-10-27,19
+2466,294,24,Personal Care,2026-06-05,No,,
+2467,131,75,Kitchen,2026-07-13,Yes,2026-08-02,20
+2468,426,71,Personal Care,2026-11-12,No,,
+2469,46,67,Weekend Shopping,2026-08-15,Yes,2026-08-27,12
+2470,170,73,Weekend Shopping,2026-06-27,Yes,2026-07-14,17
+2471,456,25,Party Shopping,2026-06-28,Yes,2026-07-06,8
+2472,207,73,Grocery,2026-10-22,No,,
+2473,209,80,Party Shopping,2026-11-27,Yes,2026-12-15,18
+2474,328,16,Grocery,2026-09-26,No,,
+2475,329,57,Kitchen,2026-07-15,No,,
+2476,288,93,Office,2026-07-29,No,,
+2477,167,86,Family Needs,2026-11-17,No,,
+2478,333,32,Grocery,2026-10-12,Yes,2026-10-30,18
+2479,460,45,Monthly Essentials,2026-09-13,No,,
+2480,73,89,Family Needs,2026-10-23,No,,
+2481,16,71,Kitchen,2026-07-08,Yes,2026-07-20,12
+2482,48,71,Family Needs,2026-09-06,No,,
+2483,209,81,Office,2026-06-19,No,,
+2484,8,72,Monthly Essentials,2026-10-02,No,,
+2485,345,88,Family Needs,2026-07-08,No,,
+2486,293,44,Weekend Shopping,2026-07-01,Yes,2026-07-08,7
+2487,124,76,Kitchen,2026-08-19,No,,
+2488,321,6,Weekend Shopping,2026-06-08,No,,
+2489,245,29,Party Shopping,2026-06-01,Yes,2026-06-18,17
+2490,33,8,Party Shopping,2026-06-30,No,,
+2491,258,26,Grocery,2026-06-20,Yes,2026-06-27,7
+2492,485,9,Kitchen,2026-09-05,No,,
+2493,42,38,Family Needs,2026-11-09,No,,
+2494,28,59,Office,2026-09-13,No,,
+2495,447,75,Weekend Shopping,2026-09-22,No,,
+2496,26,94,Personal Care,2026-09-03,Yes,2026-09-12,9
+2497,226,57,Weekend Shopping,2026-11-01,Yes,2026-11-07,6
+2498,372,52,Weekend Shopping,2026-09-14,No,,
+2499,177,3,Personal Care,2026-10-21,No,,
+2500,372,81,Grocery,2026-09-30,No,,
+2501,83,73,Monthly Essentials,2026-11-27,No,,
+2502,394,34,Office,2026-06-06,Yes,2026-06-23,17
+2503,102,26,Weekend Shopping,2026-09-25,Yes,2026-09-30,5
+2504,104,45,Grocery,2026-09-11,Yes,2026-09-29,18
+2505,105,22,Party Shopping,2026-11-21,Yes,2026-12-11,20
+2506,58,29,Personal Care,2026-09-17,Yes,2026-10-04,17
+2507,254,70,Party Shopping,2026-10-25,No,,
+2508,63,25,Kitchen,2026-07-26,No,,
+2509,158,34,Weekend Shopping,2026-10-30,Yes,2026-11-05,6
+2510,443,51,Monthly Essentials,2026-08-15,No,,
+2511,221,36,Office,2026-08-12,No,,
+2512,232,27,Monthly Essentials,2026-11-22,Yes,2026-11-26,4
+2513,475,19,Personal Care,2026-09-27,No,,
+2514,342,66,Monthly Essentials,2026-07-14,No,,
+2515,8,21,Office,2026-11-11,Yes,2026-11-27,16
+2516,134,67,Personal Care,2026-09-16,Yes,2026-10-04,18
+2517,120,55,Office,2026-07-30,No,,
+2518,449,15,Family Needs,2026-10-10,Yes,2026-10-21,11
+2519,118,74,Grocery,2026-09-24,No,,
+2520,253,90,Party Shopping,2026-10-29,No,,
+2521,207,88,Grocery,2026-07-01,No,,
+2522,207,64,Weekend Shopping,2026-07-31,No,,
+2523,441,2,Party Shopping,2026-09-02,No,,
+2524,277,19,Weekend Shopping,2026-06-22,No,,
+2525,93,29,Family Needs,2026-11-09,Yes,2026-11-15,6
+2526,8,43,Monthly Essentials,2026-10-17,No,,
+2527,352,34,Monthly Essentials,2026-09-12,No,,
+2528,268,84,Party Shopping,2026-07-15,Yes,2026-08-03,19
+2529,497,59,Kitchen,2026-10-31,No,,
+2530,121,56,Kitchen,2026-11-07,No,,
+2531,402,70,Weekend Shopping,2026-06-05,No,,
+2532,457,5,Office,2026-08-24,No,,
+2533,340,70,Kitchen,2026-09-19,No,,
+2534,260,38,Monthly Essentials,2026-11-13,Yes,2026-12-03,20
+2535,146,45,Personal Care,2026-09-24,No,,
+2536,493,5,Monthly Essentials,2026-11-25,No,,
+2537,183,23,Party Shopping,2026-07-31,No,,
+2538,230,50,Kitchen,2026-10-01,Yes,2026-10-07,6
+2539,195,10,Party Shopping,2026-11-05,Yes,2026-11-20,15
+2540,278,20,Party Shopping,2026-11-07,No,,
+2541,259,64,Weekend Shopping,2026-07-10,No,,
+2542,164,67,Party Shopping,2026-10-26,Yes,2026-10-28,2
+2543,330,24,Office,2026-11-22,No,,
+2544,189,7,Party Shopping,2026-11-26,Yes,2026-11-27,1
+2545,373,80,Grocery,2026-08-24,No,,
+2546,16,87,Family Needs,2026-07-02,Yes,2026-07-20,18
+2547,138,33,Party Shopping,2026-07-17,No,,
+2548,236,76,Office,2026-09-09,Yes,2026-09-21,12
+2549,325,18,Kitchen,2026-11-22,No,,
+2550,405,51,Office,2026-07-27,No,,
+2551,280,74,Family Needs,2026-06-27,Yes,2026-07-03,6
+2552,96,69,Personal Care,2026-08-26,No,,
+2553,92,44,Office,2026-09-08,Yes,2026-09-27,19
+2554,445,89,Office,2026-07-27,Yes,2026-08-16,20
+2555,441,65,Party Shopping,2026-06-28,No,,
+2556,190,47,Personal Care,2026-06-07,No,,
+2557,266,34,Family Needs,2026-09-07,No,,
+2558,9,79,Kitchen,2026-08-22,No,,
+2559,423,34,Monthly Essentials,2026-07-28,Yes,2026-08-07,10
+2560,468,62,Grocery,2026-11-01,No,,
+2561,102,67,Monthly Essentials,2026-11-28,Yes,2026-12-06,8
+2562,430,47,Personal Care,2026-07-24,Yes,2026-07-27,3
+2563,56,42,Office,2026-08-23,Yes,2026-08-30,7
+2564,419,54,Monthly Essentials,2026-09-30,No,,
+2565,122,55,Grocery,2026-09-23,No,,
+2566,9,80,Weekend Shopping,2026-08-08,No,,
+2567,357,83,Weekend Shopping,2026-06-28,Yes,2026-07-01,3
+2568,234,50,Monthly Essentials,2026-11-05,No,,
+2569,357,76,Grocery,2026-10-13,No,,
+2570,310,94,Grocery,2026-07-04,No,,
+2571,140,47,Weekend Shopping,2026-07-04,Yes,2026-07-21,17
+2572,456,18,Party Shopping,2026-08-24,No,,
+2573,214,8,Party Shopping,2026-08-23,No,,
+2574,406,58,Kitchen,2026-10-16,No,,
+2575,442,22,Family Needs,2026-07-06,No,,
+2576,262,44,Family Needs,2026-11-19,Yes,2026-11-30,11
+2577,404,92,Monthly Essentials,2026-11-05,Yes,2026-11-22,17
+2578,496,11,Family Needs,2026-11-25,No,,
+2579,14,18,Grocery,2026-06-02,No,,
+2580,80,40,Office,2026-09-04,No,,
+2581,38,31,Monthly Essentials,2026-07-04,No,,
+2582,410,42,Personal Care,2026-08-21,Yes,2026-08-22,1
+2583,18,67,Party Shopping,2026-07-23,No,,
+2584,285,95,Kitchen,2026-07-17,No,,
+2585,156,37,Party Shopping,2026-10-12,No,,
+2586,198,76,Personal Care,2026-11-06,No,,
+2587,74,64,Office,2026-11-24,No,,
+2588,217,58,Kitchen,2026-11-11,No,,
+2589,330,53,Weekend Shopping,2026-07-09,No,,
+2590,188,66,Monthly Essentials,2026-11-28,Yes,2026-12-10,12
+2591,270,28,Monthly Essentials,2026-07-15,No,,
+2592,378,18,Weekend Shopping,2026-07-19,No,,
+2593,103,78,Grocery,2026-07-07,No,,
+2594,321,40,Office,2026-11-07,Yes,2026-11-20,13
+2595,213,34,Grocery,2026-10-04,Yes,2026-10-22,18
+2596,273,22,Weekend Shopping,2026-09-29,Yes,2026-10-02,3
+2597,461,45,Kitchen,2026-10-01,No,,
+2598,383,47,Personal Care,2026-10-22,No,,
+2599,70,49,Grocery,2026-07-10,No,,
+2600,167,19,Monthly Essentials,2026-11-06,Yes,2026-11-21,15
+2601,201,7,Personal Care,2026-10-19,No,,
+2602,492,16,Monthly Essentials,2026-11-13,No,,
+2603,235,88,Family Needs,2026-07-26,Yes,2026-08-02,7
+2604,94,23,Office,2026-07-10,No,,
+2605,380,53,Party Shopping,2026-07-14,No,,
+2606,410,42,Monthly Essentials,2026-11-16,No,,
+2607,328,39,Weekend Shopping,2026-07-31,No,,
+2608,122,22,Office,2026-08-23,No,,
+2609,405,74,Party Shopping,2026-10-17,Yes,2026-11-04,18
+2610,63,63,Personal Care,2026-11-13,No,,
+2611,113,21,Kitchen,2026-09-09,Yes,2026-09-10,1
+2612,296,64,Monthly Essentials,2026-11-04,No,,
+2613,93,58,Personal Care,2026-11-02,No,,
+2614,2,24,Family Needs,2026-10-25,Yes,2026-10-28,3
+2615,127,86,Personal Care,2026-10-31,No,,
+2616,369,15,Family Needs,2026-07-25,No,,
+2617,71,75,Office,2026-10-21,No,,
+2618,67,20,Monthly Essentials,2026-06-08,No,,
+2619,69,47,Grocery,2026-09-10,No,,
+2620,281,25,Personal Care,2026-07-15,Yes,2026-07-17,2
+2621,266,65,Personal Care,2026-10-08,No,,
+2622,179,88,Family Needs,2026-07-24,No,,
+2623,342,66,Grocery,2026-08-31,Yes,2026-09-18,18
+2624,104,3,Office,2026-08-11,No,,
+2625,473,50,Personal Care,2026-11-13,Yes,2026-12-02,19
+2626,35,45,Monthly Essentials,2026-07-12,No,,
+2627,12,20,Family Needs,2026-11-12,No,,
+2628,340,4,Grocery,2026-06-24,Yes,2026-07-10,16
+2629,314,26,Personal Care,2026-06-02,No,,
+2630,43,27,Monthly Essentials,2026-11-23,No,,
+2631,312,15,Office,2026-07-08,Yes,2026-07-13,5
+2632,81,16,Personal Care,2026-11-23,No,,
+2633,210,60,Monthly Essentials,2026-11-17,Yes,2026-11-21,4
+2634,196,52,Grocery,2026-06-27,Yes,2026-07-03,6
+2635,229,18,Personal Care,2026-08-27,No,,
+2636,478,32,Office,2026-07-21,No,,
+2637,19,38,Grocery,2026-10-25,Yes,2026-11-07,13
+2638,339,23,Kitchen,2026-09-25,No,,
+2639,398,67,Monthly Essentials,2026-06-27,Yes,2026-07-07,10
+2640,146,3,Weekend Shopping,2026-10-21,No,,
+2641,473,44,Family Needs,2026-06-03,No,,
+2642,69,20,Family Needs,2026-10-31,Yes,2026-11-05,5
+2643,496,45,Monthly Essentials,2026-09-06,No,,
+2644,415,95,Personal Care,2026-11-15,Yes,2026-11-22,7
+2645,422,3,Kitchen,2026-06-25,Yes,2026-07-10,15
+2646,98,55,Family Needs,2026-08-31,No,,
+2647,199,40,Weekend Shopping,2026-07-04,Yes,2026-07-05,1
+2648,14,19,Party Shopping,2026-10-02,No,,
+2649,64,47,Grocery,2026-11-05,Yes,2026-11-13,8
+2650,86,77,Grocery,2026-11-06,Yes,2026-11-09,3
+2651,212,30,Family Needs,2026-07-04,Yes,2026-07-14,10
+2652,134,21,Grocery,2026-11-23,No,,
+2653,114,90,Family Needs,2026-08-13,Yes,2026-08-15,2
+2654,465,52,Personal Care,2026-10-06,No,,
+2655,189,55,Family Needs,2026-08-18,No,,
+2656,227,76,Family Needs,2026-11-21,No,,
+2657,191,37,Office,2026-09-17,No,,
+2658,129,62,Grocery,2026-06-28,Yes,2026-07-07,9
+2659,57,6,Office,2026-10-21,Yes,2026-10-25,4
+2660,14,95,Monthly Essentials,2026-09-14,No,,
+2661,231,52,Monthly Essentials,2026-08-10,No,,
+2662,251,21,Grocery,2026-09-17,No,,
+2663,265,13,Monthly Essentials,2026-11-19,Yes,2026-11-23,4
+2664,499,44,Party Shopping,2026-11-28,Yes,2026-12-01,3
+2665,232,14,Grocery,2026-08-03,Yes,2026-08-11,8
+2666,417,37,Kitchen,2026-09-01,No,,
+2667,252,39,Weekend Shopping,2026-07-22,No,,
+2668,59,91,Family Needs,2026-07-21,Yes,2026-08-09,19
+2669,273,68,Personal Care,2026-11-21,Yes,2026-12-05,14
+2670,16,27,Family Needs,2026-07-01,No,,
+2671,102,86,Weekend Shopping,2026-07-22,No,,
+2672,422,57,Party Shopping,2026-08-05,No,,
+2673,224,20,Personal Care,2026-06-21,Yes,2026-06-24,3
+2674,10,5,Party Shopping,2026-06-15,No,,
+2675,213,55,Monthly Essentials,2026-06-26,Yes,2026-07-07,11
+2676,26,58,Personal Care,2026-10-29,No,,
+2677,64,33,Kitchen,2026-06-10,Yes,2026-06-19,9
+2678,294,1,Grocery,2026-08-20,Yes,2026-08-23,3
+2679,131,79,Kitchen,2026-11-03,No,,
+2680,332,77,Party Shopping,2026-10-06,No,,
+2681,402,78,Office,2026-10-14,No,,
+2682,332,9,Personal Care,2026-07-21,No,,
+2683,351,16,Party Shopping,2026-09-15,Yes,2026-10-03,18
+2684,465,49,Personal Care,2026-06-26,Yes,2026-07-12,16
+2685,246,74,Weekend Shopping,2026-08-08,Yes,2026-08-14,6
+2686,108,95,Kitchen,2026-11-24,No,,
+2687,299,73,Personal Care,2026-06-30,No,,
+2688,414,2,Kitchen,2026-06-18,No,,
+2689,85,56,Personal Care,2026-11-17,Yes,2026-11-24,7
+2690,420,70,Grocery,2026-07-14,Yes,2026-07-28,14
+2691,323,85,Family Needs,2026-11-08,Yes,2026-11-26,18
+2692,351,90,Personal Care,2026-11-05,No,,
+2693,462,19,Grocery,2026-06-29,Yes,2026-07-14,15
+2694,418,10,Kitchen,2026-10-18,No,,
+2695,156,69,Office,2026-07-06,Yes,2026-07-10,4
+2696,293,57,Grocery,2026-10-08,Yes,2026-10-09,1
+2697,133,70,Weekend Shopping,2026-06-12,Yes,2026-06-23,11
+2698,432,25,Kitchen,2026-09-06,No,,
+2699,305,52,Monthly Essentials,2026-06-24,No,,
+2700,479,21,Kitchen,2026-10-09,No,,
+2701,406,22,Weekend Shopping,2026-11-01,No,,
+2702,238,93,Personal Care,2026-09-09,No,,
+2703,341,82,Monthly Essentials,2026-06-13,Yes,2026-07-02,19
+2704,133,12,Family Needs,2026-10-27,No,,
+2705,219,6,Office,2026-10-05,No,,
+2706,91,63,Office,2026-08-12,No,,
+2707,171,93,Kitchen,2026-09-05,Yes,2026-09-20,15
+2708,328,6,Kitchen,2026-11-02,No,,
+2709,428,79,Grocery,2026-09-05,Yes,2026-09-13,8
+2710,137,58,Weekend Shopping,2026-10-09,Yes,2026-10-12,3
+2711,288,44,Party Shopping,2026-06-27,Yes,2026-07-03,6
+2712,141,70,Party Shopping,2026-10-18,Yes,2026-11-04,17
+2713,273,90,Kitchen,2026-10-07,Yes,2026-10-09,2
+2714,203,62,Personal Care,2026-07-09,No,,
+2715,309,74,Monthly Essentials,2026-06-18,No,,
+2716,46,39,Weekend Shopping,2026-06-19,Yes,2026-06-23,4
+2717,421,27,Grocery,2026-09-13,Yes,2026-09-20,7
+2718,175,24,Party Shopping,2026-08-03,Yes,2026-08-12,9
+2719,171,90,Family Needs,2026-06-06,No,,
+2720,465,36,Kitchen,2026-08-17,No,,
+2721,64,79,Grocery,2026-06-25,No,,
+2722,447,25,Monthly Essentials,2026-11-26,Yes,2026-11-27,1
+2723,241,95,Monthly Essentials,2026-10-02,No,,
+2724,396,67,Grocery,2026-07-03,No,,
+2725,280,70,Personal Care,2026-06-01,No,,
+2726,427,71,Party Shopping,2026-07-08,Yes,2026-07-11,3
+2727,265,14,Weekend Shopping,2026-07-28,No,,
+2728,471,51,Party Shopping,2026-11-08,Yes,2026-11-17,9
+2729,357,80,Party Shopping,2026-10-19,No,,
+2730,291,40,Monthly Essentials,2026-11-24,No,,
+2731,168,44,Monthly Essentials,2026-10-29,Yes,2026-11-09,11
+2732,315,18,Grocery,2026-11-01,No,,
+2733,433,88,Office,2026-10-01,No,,
+2734,357,49,Monthly Essentials,2026-11-25,Yes,2026-11-29,4
+2735,217,88,Party Shopping,2026-06-16,Yes,2026-07-06,20
+2736,161,32,Weekend Shopping,2026-09-14,No,,
+2737,52,66,Personal Care,2026-10-27,Yes,2026-11-08,12
+2738,4,7,Kitchen,2026-06-07,No,,
+2739,414,18,Kitchen,2026-08-16,No,,
+2740,92,7,Party Shopping,2026-08-15,No,,
+2741,350,36,Party Shopping,2026-10-21,No,,
+2742,255,53,Grocery,2026-06-13,Yes,2026-06-27,14
+2743,420,40,Family Needs,2026-08-20,No,,
+2744,251,57,Grocery,2026-08-27,No,,
+2745,293,58,Office,2026-08-18,No,,
+2746,99,65,Kitchen,2026-11-03,Yes,2026-11-08,5
+2747,410,52,Weekend Shopping,2026-09-06,No,,
+2748,395,54,Grocery,2026-08-26,No,,
+2749,56,51,Grocery,2026-11-09,Yes,2026-11-29,20
+2750,5,89,Weekend Shopping,2026-11-20,No,,
+2751,61,23,Personal Care,2026-07-09,Yes,2026-07-24,15
+2752,160,52,Monthly Essentials,2026-07-05,No,,
+2753,200,4,Family Needs,2026-06-27,Yes,2026-07-06,9
+2754,467,65,Party Shopping,2026-08-04,No,,
+2755,31,1,Personal Care,2026-10-16,Yes,2026-11-01,16
+2756,287,17,Weekend Shopping,2026-07-21,No,,
+2757,296,77,Grocery,2026-08-31,No,,
+2758,477,35,Party Shopping,2026-09-23,Yes,2026-10-07,14
+2759,39,19,Grocery,2026-06-29,No,,
+2760,105,68,Party Shopping,2026-08-04,Yes,2026-08-20,16
+2761,178,90,Grocery,2026-10-29,No,,
+2762,237,71,Weekend Shopping,2026-08-29,No,,
+2763,189,34,Family Needs,2026-10-10,Yes,2026-10-15,5
+2764,450,33,Kitchen,2026-09-01,No,,
+2765,25,5,Kitchen,2026-11-21,No,,
+2766,157,84,Office,2026-09-03,Yes,2026-09-18,15
+2767,433,10,Kitchen,2026-06-29,Yes,2026-07-06,7
+2768,395,69,Personal Care,2026-11-05,No,,
+2769,350,80,Party Shopping,2026-06-22,No,,
+2770,392,27,Weekend Shopping,2026-08-02,No,,
+2771,251,22,Monthly Essentials,2026-06-08,Yes,2026-06-26,18
+2772,460,61,Grocery,2026-08-30,No,,
+2773,411,9,Office,2026-11-03,No,,
+2774,424,6,Office,2026-08-05,Yes,2026-08-12,7
+2775,167,93,Weekend Shopping,2026-10-18,No,,
+2776,137,80,Grocery,2026-07-29,Yes,2026-08-06,8
+2777,440,90,Monthly Essentials,2026-11-10,No,,
+2778,367,51,Kitchen,2026-09-21,No,,
+2779,264,9,Kitchen,2026-09-17,Yes,2026-09-23,6
+2780,470,86,Family Needs,2026-09-01,Yes,2026-09-15,14
+2781,353,9,Office,2026-09-30,No,,
+2782,231,91,Weekend Shopping,2026-10-20,Yes,2026-10-31,11
+2783,275,59,Kitchen,2026-10-07,No,,
+2784,448,69,Party Shopping,2026-09-07,No,,
+2785,301,68,Grocery,2026-10-10,No,,
+2786,157,41,Weekend Shopping,2026-10-02,No,,
+2787,429,62,Party Shopping,2026-06-27,Yes,2026-07-12,15
+2788,120,5,Party Shopping,2026-06-23,No,,
+2789,364,33,Weekend Shopping,2026-07-15,Yes,2026-07-22,7
+2790,267,31,Monthly Essentials,2026-07-31,No,,
+2791,78,15,Personal Care,2026-11-13,No,,
+2792,16,51,Office,2026-07-11,No,,
+2793,89,67,Office,2026-10-10,No,,
+2794,86,19,Office,2026-07-02,Yes,2026-07-06,4
+2795,90,1,Party Shopping,2026-06-05,Yes,2026-06-22,17
+2796,195,15,Personal Care,2026-06-12,No,,
+2797,367,50,Family Needs,2026-07-02,Yes,2026-07-05,3
+2798,197,12,Office,2026-08-13,Yes,2026-08-21,8
+2799,329,11,Grocery,2026-10-29,No,,
+2800,403,62,Weekend Shopping,2026-08-10,No,,
+2801,100,41,Grocery,2026-08-19,Yes,2026-09-07,19
+2802,2,26,Party Shopping,2026-06-05,No,,
+2803,469,24,Personal Care,2026-06-01,Yes,2026-06-10,9
+2804,428,10,Party Shopping,2026-08-24,Yes,2026-08-26,2
+2805,217,35,Monthly Essentials,2026-06-24,Yes,2026-07-07,13
+2806,363,12,Office,2026-11-28,No,,
+2807,145,1,Monthly Essentials,2026-09-23,No,,
+2808,205,79,Grocery,2026-10-30,Yes,2026-11-19,20
+2809,189,72,Office,2026-07-20,No,,
+2810,151,71,Party Shopping,2026-07-07,Yes,2026-07-26,19
+2811,311,59,Party Shopping,2026-06-04,No,,
+2812,286,72,Monthly Essentials,2026-10-12,No,,
+2813,242,68,Personal Care,2026-11-22,No,,
+2814,401,79,Family Needs,2026-06-19,Yes,2026-07-01,12
+2815,233,10,Party Shopping,2026-10-24,No,,
+2816,12,89,Party Shopping,2026-10-31,Yes,2026-11-01,1
+2817,452,90,Weekend Shopping,2026-08-31,No,,
+2818,195,2,Grocery,2026-08-17,No,,
+2819,390,74,Monthly Essentials,2026-09-03,No,,
+2820,402,60,Personal Care,2026-09-01,Yes,2026-09-12,11
+2821,234,38,Party Shopping,2026-11-28,Yes,2026-12-03,5
+2822,309,24,Monthly Essentials,2026-06-20,Yes,2026-07-08,18
+2823,312,92,Weekend Shopping,2026-10-30,Yes,2026-11-04,5
+2824,84,19,Family Needs,2026-11-02,No,,
+2825,263,76,Kitchen,2026-06-20,No,,
+2826,370,94,Kitchen,2026-09-02,Yes,2026-09-07,5
+2827,191,63,Weekend Shopping,2026-06-12,Yes,2026-06-29,17
+2828,65,47,Grocery,2026-10-06,No,,
+2829,481,94,Party Shopping,2026-06-13,Yes,2026-06-26,13
+2830,141,7,Weekend Shopping,2026-09-26,Yes,2026-10-01,5
+2831,258,21,Kitchen,2026-10-22,No,,
+2832,3,8,Weekend Shopping,2026-06-23,No,,
+2833,83,89,Office,2026-08-07,No,,
+2834,47,18,Personal Care,2026-09-16,Yes,2026-10-04,18
+2835,34,8,Grocery,2026-08-29,No,,
+2836,47,15,Monthly Essentials,2026-10-26,Yes,2026-10-27,1
+2837,418,85,Family Needs,2026-06-23,Yes,2026-07-07,14
+2838,117,57,Weekend Shopping,2026-06-14,No,,
+2839,103,6,Party Shopping,2026-06-09,No,,
+2840,304,41,Kitchen,2026-11-22,Yes,2026-12-08,16
+2841,288,92,Office,2026-08-23,No,,
+2842,416,83,Personal Care,2026-07-07,No,,
+2843,212,76,Party Shopping,2026-10-21,No,,
+2844,177,17,Monthly Essentials,2026-10-31,Yes,2026-11-16,16
+2845,492,80,Personal Care,2026-10-10,No,,
+2846,104,40,Family Needs,2026-10-16,Yes,2026-10-19,3
+2847,24,20,Party Shopping,2026-08-30,No,,
+2848,114,88,Personal Care,2026-07-17,Yes,2026-07-27,10
+2849,132,68,Party Shopping,2026-08-01,Yes,2026-08-06,5
+2850,442,35,Party Shopping,2026-10-18,No,,
+2851,230,25,Kitchen,2026-10-29,No,,
+2852,457,39,Kitchen,2026-10-17,No,,
+2853,496,23,Party Shopping,2026-08-21,No,,
+2854,472,81,Family Needs,2026-08-16,Yes,2026-08-21,5
+2855,28,58,Grocery,2026-09-22,No,,
+2856,202,47,Family Needs,2026-09-23,No,,
+2857,41,47,Grocery,2026-09-10,Yes,2026-09-29,19
+2858,277,43,Monthly Essentials,2026-08-23,Yes,2026-09-08,16
+2859,456,30,Monthly Essentials,2026-06-26,No,,
+2860,237,65,Kitchen,2026-09-08,Yes,2026-09-09,1
+2861,361,57,Party Shopping,2026-11-22,Yes,2026-11-28,6
+2862,368,80,Family Needs,2026-09-03,No,,
+2863,419,35,Weekend Shopping,2026-11-26,No,,
+2864,1,11,Grocery,2026-11-18,Yes,2026-12-03,15
+2865,6,21,Grocery,2026-09-15,No,,
+2866,41,41,Personal Care,2026-06-29,Yes,2026-07-05,6
+2867,325,80,Monthly Essentials,2026-08-26,Yes,2026-09-05,10
+2868,392,57,Family Needs,2026-11-28,Yes,2026-12-03,5
+2869,363,96,Grocery,2026-10-30,No,,
+2870,468,30,Monthly Essentials,2026-11-18,No,,
+2871,25,2,Grocery,2026-09-09,Yes,2026-09-29,20
+2872,105,89,Grocery,2026-10-27,Yes,2026-11-05,9
+2873,450,28,Monthly Essentials,2026-09-18,Yes,2026-10-08,20
+2874,278,39,Monthly Essentials,2026-11-08,No,,
+2875,490,29,Family Needs,2026-11-15,Yes,2026-12-05,20
+2876,390,32,Family Needs,2026-09-04,No,,
+2877,76,6,Personal Care,2026-09-01,Yes,2026-09-03,2
+2878,292,74,Party Shopping,2026-06-04,No,,
+2879,293,55,Personal Care,2026-10-19,Yes,2026-11-06,18
+2880,135,6,Personal Care,2026-11-26,No,,
+2881,257,35,Office,2026-11-25,No,,
+2882,340,25,Kitchen,2026-10-24,No,,
+2883,298,90,Grocery,2026-09-04,No,,
+2884,2,51,Weekend Shopping,2026-10-04,No,,
+2885,172,42,Personal Care,2026-06-03,Yes,2026-06-15,12
+2886,109,49,Monthly Essentials,2026-08-20,Yes,2026-09-02,13
+2887,236,69,Office,2026-08-05,Yes,2026-08-07,2
+2888,405,29,Grocery,2026-08-18,Yes,2026-08-22,4
+2889,293,6,Party Shopping,2026-11-12,No,,
+2890,430,87,Office,2026-06-12,Yes,2026-06-13,1
+2891,8,20,Weekend Shopping,2026-06-30,Yes,2026-07-13,13
+2892,316,1,Family Needs,2026-08-12,No,,
+2893,491,59,Personal Care,2026-08-25,No,,
+2894,166,73,Weekend Shopping,2026-07-18,Yes,2026-08-06,19
+2895,203,6,Office,2026-07-30,No,,
+2896,215,86,Weekend Shopping,2026-07-16,No,,
+2897,235,48,Monthly Essentials,2026-08-30,No,,
+2898,131,60,Weekend Shopping,2026-09-27,No,,
+2899,1,57,Grocery,2026-06-30,Yes,2026-07-12,12
+2900,93,25,Weekend Shopping,2026-09-19,No,,
+2901,51,83,Weekend Shopping,2026-11-03,No,,
+2902,35,46,Personal Care,2026-10-13,No,,
+2903,371,1,Monthly Essentials,2026-11-23,Yes,2026-11-27,4
+2904,258,56,Family Needs,2026-07-25,No,,
+2905,282,71,Family Needs,2026-06-21,No,,
+2906,292,96,Personal Care,2026-09-27,No,,
+2907,86,91,Family Needs,2026-11-24,Yes,2026-12-12,18
+2908,470,31,Office,2026-10-01,No,,
+2909,35,71,Weekend Shopping,2026-09-05,No,,
+2910,261,75,Kitchen,2026-10-01,No,,
+2911,170,40,Weekend Shopping,2026-06-14,No,,
+2912,87,93,Kitchen,2026-10-01,Yes,2026-10-03,2
+2913,275,17,Office,2026-11-08,No,,
+2914,70,85,Personal Care,2026-07-10,Yes,2026-07-13,3
+2915,143,84,Monthly Essentials,2026-07-25,No,,
+2916,34,54,Office,2026-09-01,No,,
+2917,359,2,Office,2026-11-20,Yes,2026-11-21,1
+2918,26,36,Personal Care,2026-11-26,Yes,2026-12-01,5
+2919,184,17,Office,2026-11-26,No,,
+2920,191,92,Family Needs,2026-07-20,Yes,2026-07-25,5
+2921,454,7,Family Needs,2026-09-13,Yes,2026-09-20,7
+2922,367,77,Personal Care,2026-07-30,No,,
+2923,234,59,Weekend Shopping,2026-08-31,Yes,2026-09-19,19
+2924,394,10,Monthly Essentials,2026-11-23,Yes,2026-11-29,6
+2925,241,39,Grocery,2026-09-05,No,,
+2926,441,21,Office,2026-10-28,No,,
+2927,62,4,Party Shopping,2026-08-07,Yes,2026-08-25,18
+2928,201,21,Office,2026-07-09,No,,
+2929,481,16,Grocery,2026-09-16,No,,
+2930,188,52,Party Shopping,2026-10-21,No,,
+2931,431,51,Grocery,2026-09-26,No,,
+2932,197,30,Family Needs,2026-11-27,Yes,2026-12-02,5
+2933,186,8,Kitchen,2026-08-17,No,,
+2934,154,84,Party Shopping,2026-06-10,No,,
+2935,201,26,Family Needs,2026-11-23,Yes,2026-11-30,7
+2936,5,39,Weekend Shopping,2026-11-13,No,,
+2937,233,25,Party Shopping,2026-07-04,No,,
+2938,69,56,Party Shopping,2026-07-01,Yes,2026-07-06,5
+2939,341,18,Family Needs,2026-08-27,No,,
+2940,137,87,Monthly Essentials,2026-07-09,Yes,2026-07-26,17
+2941,379,80,Party Shopping,2026-09-13,Yes,2026-09-21,8
+2942,135,29,Office,2026-07-22,No,,
+2943,455,18,Weekend Shopping,2026-08-12,No,,
+2944,456,47,Office,2026-11-18,Yes,2026-12-06,18
+2945,134,26,Office,2026-06-09,No,,
+2946,40,11,Personal Care,2026-11-28,No,,
+2947,208,4,Kitchen,2026-09-04,No,,
+2948,190,60,Kitchen,2026-09-08,No,,
+2949,256,43,Family Needs,2026-09-25,Yes,2026-10-04,9
+2950,496,31,Party Shopping,2026-09-20,Yes,2026-10-06,16
+2951,477,94,Party Shopping,2026-10-31,No,,
+2952,493,9,Weekend Shopping,2026-09-19,Yes,2026-09-28,9
+2953,176,37,Monthly Essentials,2026-09-03,Yes,2026-09-04,1
+2954,418,44,Weekend Shopping,2026-07-18,No,,
+2955,166,48,Monthly Essentials,2026-10-26,Yes,2026-11-05,10
+2956,437,31,Kitchen,2026-06-04,No,,
+2957,70,31,Monthly Essentials,2026-09-03,No,,
+2958,137,24,Office,2026-09-07,Yes,2026-09-17,10
+2959,127,21,Kitchen,2026-09-15,No,,
+2960,398,41,Office,2026-08-19,Yes,2026-08-21,2
+2961,337,59,Personal Care,2026-07-28,Yes,2026-07-29,1
+2962,482,68,Weekend Shopping,2026-08-31,No,,
+2963,478,16,Kitchen,2026-06-21,Yes,2026-07-09,18
+2964,163,21,Personal Care,2026-07-24,Yes,2026-08-02,9
+2965,133,35,Personal Care,2026-11-22,No,,
+2966,25,15,Family Needs,2026-10-06,Yes,2026-10-12,6
+2967,449,95,Weekend Shopping,2026-07-08,Yes,2026-07-23,15
+2968,296,56,Party Shopping,2026-09-11,No,,
+2969,97,25,Family Needs,2026-09-28,Yes,2026-10-07,9
+2970,418,20,Monthly Essentials,2026-09-21,No,,
+2971,13,48,Grocery,2026-08-23,No,,
+2972,19,4,Weekend Shopping,2026-07-09,No,,
+2973,374,17,Monthly Essentials,2026-06-17,Yes,2026-06-28,11
+2974,218,4,Party Shopping,2026-11-02,Yes,2026-11-21,19
+2975,271,81,Monthly Essentials,2026-11-25,Yes,2026-12-01,6
+2976,102,49,Grocery,2026-11-07,Yes,2026-11-12,5
+2977,308,83,Personal Care,2026-07-18,No,,
+2978,402,32,Office,2026-08-28,Yes,2026-09-09,12
+2979,76,22,Personal Care,2026-07-09,No,,
+2980,117,90,Kitchen,2026-11-05,Yes,2026-11-22,17
+2981,187,61,Office,2026-11-24,No,,
+2982,401,46,Family Needs,2026-07-28,Yes,2026-08-11,14
+2983,498,5,Weekend Shopping,2026-09-29,Yes,2026-10-01,2
+2984,200,78,Monthly Essentials,2026-10-06,No,,
+2985,392,65,Office,2026-07-11,No,,
+2986,196,5,Monthly Essentials,2026-06-26,Yes,2026-06-30,4
+2987,182,83,Personal Care,2026-10-20,Yes,2026-11-07,18
+2988,342,81,Kitchen,2026-09-20,No,,
+2989,274,34,Family Needs,2026-09-12,No,,
+2990,227,34,Weekend Shopping,2026-07-04,Yes,2026-07-11,7
+2991,471,92,Weekend Shopping,2026-10-09,Yes,2026-10-13,4
+2992,178,72,Weekend Shopping,2026-11-19,No,,
+2993,368,86,Weekend Shopping,2026-11-23,No,,
+2994,92,94,Office,2026-08-30,Yes,2026-09-12,13
+2995,191,84,Office,2026-06-13,No,,
+2996,427,82,Office,2026-10-01,No,,
+2997,35,83,Kitchen,2026-06-30,No,,
+2998,204,88,Family Needs,2026-10-04,Yes,2026-10-12,8
+2999,118,72,Family Needs,2026-08-18,No,,
+3000,77,2,Grocery,2026-11-16,Yes,2026-11-29,13
